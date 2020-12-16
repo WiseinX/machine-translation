@@ -1,6 +1,7 @@
 Updated: 2020-11-22
--> [x]Afrikaans-English_afr-eng.zip (821)
--> [ ]Albanian-English_sqi-eng.zip (451)
+-> [√]Afrikaans-English_afr-eng.zip (821)
+-> [x]Albanian-English_sqi-eng.zip (451)
+--> UnknownError: Fail to find the dnn implementation. [Op:CudnnRNN]
 -> [ ]Algerian Arabic-English_arq-eng.zip (155)
 -> [ ]Arabic-English_ara-eng.zip (11584)
 -> [ ]Assamese-English_asm-eng.zip (1721)
@@ -79,4 +80,5 @@ Updated: 2020-11-22
 -> [ ]Uyghur-English_uig-eng.zip (287)
 -> [ ]Vietnamese-English_vie-eng.zip (6139)
 -> [ ]Waray-English_war-eng.zip (1163)
--> [ ]Zaza-English_zza-eng.zip (370)
+-> [x]Zaza-English_zza-eng.zip (370)
+--> UnknownError: Fail to find the dnn implementation. [Op:CudnnRNN]
