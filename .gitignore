@@ -128,9 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-nmt/*.txt
-sample/*.txt
 .ipynb_checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints
 */.ipynb_checkpoints/
+nmt/training_checkpoints/

@@ -1,296 +1,296 @@
-Hello!	Äshazhoix!	CC-BY 2.0 (France) Attribution: tatoeba.org #373330 (CK) & #5006980 (RobKham)
-Smile.	Naiyumz naiyix räläq.	CC-BY 2.0 (France) Attribution: tatoeba.org #2764108 (CK) & #5062874 (RobKham)
-Cheers!	Azhex!	CC-BY 2.0 (France) Attribution: tatoeba.org #487006 (human600) & #5083052 (RobKham)
-I know.	Ngiz räq äsäp ha.	CC-BY 2.0 (France) Attribution: tatoeba.org #319990 (CK) & #5006999 (RobKham)
-No way!	Naq! Maix mäk!	CC-BY 2.0 (France) Attribution: tatoeba.org #2175 (CS) & #5056022 (RobKham)
-Go away.	Äluz nä kiz haw läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #433491 (CK) & #5043308 (RobKham)
-Go away.	Naq paqlaq.	CC-BY 2.0 (France) Attribution: tatoeba.org #433491 (CK) & #5043309 (RobKham)
-Goodbye!	Kiqkap!	CC-BY 2.0 (France) Attribution: tatoeba.org #516745 (minshirui) & #5043354 (RobKham)
-Goodbye!	Kiqkap yawx!	CC-BY 2.0 (France) Attribution: tatoeba.org #516745 (minshirui) & #5043355 (RobKham)
-Goodbye!	Kiqkap liiz!	CC-BY 2.0 (France) Attribution: tatoeba.org #516745 (minshirui) & #5043356 (RobKham)
-Shut up!	Naq bawm!	CC-BY 2.0 (France) Attribution: tatoeba.org #462430 (lukaszpp) & #5049683 (RobKham)
-Tell me.	Ngiz mäx cyawng läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #1913090 (CK) & #5083235 (RobKham)
-Welcome.	Täox täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #138919 (CM) & #5007048 (RobKham)
-Welcome.	Täox täkaix.	CC-BY 2.0 (France) Attribution: tatoeba.org #138919 (CM) & #5007049 (RobKham)
-Hurry up.	Kawztsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1329 (brauliobezerra) & #5043339 (RobKham)
-I smiled.	Ngiz naiyumz naiyix räkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #3651941 (Luciosp) & #5062882 (RobKham)
-Let's go!	Kiz rawngx phä!	CC-BY 2.0 (France) Attribution: tatoeba.org #241077 (CK) & #5049677 (RobKham)
-Let's go!	Vaz rawngx phä!	CC-BY 2.0 (France) Attribution: tatoeba.org #241077 (CK) & #5049679 (RobKham)
-Stand up!	Cyap läq!	CC-BY 2.0 (France) Attribution: tatoeba.org #325429 (CK) & #5056161 (RobKham)
-Calm down.	Dzänz täsäng läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #435575 (CK) & #5056092 (RobKham)
-Come here.	Änä kiz räx.	CC-BY 2.0 (France) Attribution: tatoeba.org #39944 (Swift) & #5083204 (RobKham)
-Come here.	Änä vaz räx.	CC-BY 2.0 (France) Attribution: tatoeba.org #39944 (Swift) & #5083205 (RobKham)
-Excuse me.	Oix, hiazshiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #433504 (CK) & #5064661 (RobKham)
-Excuse me.	Inä, yaqlawsez.	CC-BY 2.0 (France) Attribution: tatoeba.org #433504 (CK) & #5064662 (RobKham)
-I'm sorry.	Awx, äbix naq lap kiq yawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #38387 (CK) & #5043331 (RobKham)
-I'm tired.	Ngiz niix hiax nawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1705 (brauliobezerra) & #5056027 (RobKham)
-It's cold.	Äkaiq viq.	CC-BY 2.0 (France) Attribution: tatoeba.org #1813 (CK) & #5083063 (RobKham)
-Let's ask.	Vai rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #1878526 (Asma) & #5062843 (RobKham)
-Let's ask.	Vai rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #1878526 (Asma) & #5062844 (RobKham)
-Let's eat.	Siq rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #1830543 (CK) & #5062833 (RobKham)
-Let's eat.	Siq rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #1830543 (CK) & #5062834 (RobKham)
-Let's eat.	Phaq rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #1830543 (CK) & #5062836 (RobKham)
-Let's eat.	Phaq rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #1830543 (CK) & #5062837 (RobKham)
-Look here.	Änä liix läq!	CC-BY 2.0 (France) Attribution: tatoeba.org #2111606 (CK) & #5083207 (RobKham)
-Thank you.	Tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #1876041 (Asma) & #5006996 (RobKham)
-Thank you.	Kecyu äyawng.	CC-BY 2.0 (France) Attribution: tatoeba.org #1876041 (Asma) & #5006997 (RobKham)
-I like tea.	Ngiz phiqyaq rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #253293 (CK) & #5057653 (RobKham)
-I love you.	Ngiz räq ümznäq mäx lungvii täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1434 (awael58) & #5006991 (RobKham)
-I love you.	Ngiz räq ümznäq mäx rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1434 (awael58) & #5006993 (RobKham)
-I miss you.	Ngiz ümznäq mäx tsängxmiix täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1308 (brauliobezerra) & #5006837 (RobKham)
-I need you.	Ümznäq kä ngiz mäx ra tälawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #17735 (CK) & #5056134 (RobKham)
-I'm hungry!	Ngiz ramxdzi tälawx!	CC-BY 2.0 (France) Attribution: tatoeba.org #404096 (CK) & #5049664 (RobKham)
-I'm so fat.	Ngiz läx vüz hiax vüz vanx kängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1339 (Zifre) & #5064618 (RobKham)
-Let's play.	Tädza rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #324520 (CK) & #5062830 (RobKham)
-Let's play.	Tädza rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #324520 (CK) & #5062831 (RobKham)
-Let's walk.	Khum rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #2007935 (CK) & #5062848 (RobKham)
-Let's walk.	Khum rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #2007935 (CK) & #5062849 (RobKham)
-Let's work.	Shäm rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #2007934 (CK) & #5062846 (RobKham)
-Let's work.	Shäm rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #2007934 (CK) & #5062847 (RobKham)
-Lift it up.	Kärä daw läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #2249542 (CK) & #5062857 (RobKham)
-She smiled.	Äpaiq naiyumz naiyix rätawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #311898 (CK) & #5062876 (RobKham)
-Tom danced.	Thawmz vänumz tawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #2111189 (CK) & #5062824 (RobKham)
-Don't worry.	Naq tämaz kiq.	CC-BY 2.0 (France) Attribution: tatoeba.org #506446 (rtomharper) & #5043306 (RobKham)
-Don't worry.	Naq cyaxpax kiq.	CC-BY 2.0 (France) Attribution: tatoeba.org #506446 (rtomharper) & #5043307 (RobKham)
-How are you?	Ähia shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #373320 (CK) & #5006985 (RobKham)
-How are you?	Hanzsängx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #373320 (CK) & #5006986 (RobKham)
-I have food.	Iz-yaq nä phaqsia cyängz äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2245884 (CK) & #5083212 (RobKham)
-I like dogs.	Ngiz kuxkux rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #252245 (CK) & #5057652 (RobKham)
-I like fish.	Ngiz ngiq rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #256891 (CK) & #5057654 (RobKham)
-I'm thirsty.	Ngiz kham nyängx dzi tälawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1814 (CK) & #5043347 (RobKham)
-Is it yours?	Kärä kä ümznäq riix shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #42344 (CK) & #5083058 (RobKham)
-It may rain.	Ra mi yun.	CC-BY 2.0 (France) Attribution: tatoeba.org #26887 (CK) & #5062864 (RobKham)
-Let's dance.	Vänumz rawngx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #1140077 (CK) & #5062826 (RobKham)
-Let's dance.	Vänumz rawngx i.	CC-BY 2.0 (France) Attribution: tatoeba.org #1140077 (CK) & #5062828 (RobKham)
-Show me how.	Yamkhäx väx ngiz mäx tächix kuq läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #2249955 (CK) & #5083238 (RobKham)
-They smiled.	Tsängxshiq naiyumz naiyix rätawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #2111361 (CK) & #5062883 (RobKham)
-What's this?	Ärä kä yamlai väx täz?	CC-BY 2.0 (France) Attribution: tatoeba.org #413821 (CK) & #5056156 (RobKham)
-Who are you?	Ümznäq kä yu väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #356200 (yorickvidal) & #5007037 (RobKham)
-Are you sure?	Ngawxhiax shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1326 (brauliobezerra) & #5043312 (RobKham)
-Are you sure?	Äsängz diax shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1326 (brauliobezerra) & #5043313 (RobKham)
-Come with me.	Ngiz raix vaz i.	CC-BY 2.0 (France) Attribution: tatoeba.org #434458 (lukaszpp) & #5057665 (RobKham)
-Come with me.	Ngiz raix kiz i.	CC-BY 2.0 (France) Attribution: tatoeba.org #434458 (lukaszpp) & #5057666 (RobKham)
-Come with me.	Ngiz raix vaz räx.	CC-BY 2.0 (France) Attribution: tatoeba.org #434458 (lukaszpp) & #5083067 (RobKham)
-Come with me.	Ngiz raix kiz räx.	CC-BY 2.0 (France) Attribution: tatoeba.org #434458 (lukaszpp) & #5083068 (RobKham)
-Come with me.	Ngiz raix kiz läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #434458 (lukaszpp) & #5083069 (RobKham)
-Come with me.	Ngiz raix vaz läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #434458 (lukaszpp) & #5083070 (RobKham)
-Good evening.	Rämri rayix.	CC-BY 2.0 (France) Attribution: tatoeba.org #333156 (Aurix) & #5043318 (RobKham)
-I am at home.	Ngiz kä yäm nä liiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #29049 (CK) & #5017526 (RobKham)
-I don't know.	Ngiz räq säp mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #349064 (fatih) & #5007000 (RobKham)
-I have a car.	Iz-yaq nä noztoz äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #252272 (CK) & #5083214 (RobKham)
-I have a cat.	Iz-yaq nä mixmix äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2399188 (amazighgirl) & #5083215 (RobKham)
-I have a pen.	Iz-yaq nä läkkiiz äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #255571 (CK) & #5083216 (RobKham)
-I have money.	Iz-yaq nä kämphaw äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1502828 (CK) & #5083211 (RobKham)
-I understand.	Ngiz räq khawn täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #433468 (CK) & #5007001 (RobKham)
-I want to go.	Ngiz äkai rawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1977717 (Spamster) & #5043352 (RobKham)
-I want to go.	Ngiz ävax rawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1977717 (Spamster) & #5043353 (RobKham)
-Say it again.	Kärä hali cyawng nawngz läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #2249856 (CK) & #5083245 (RobKham)
-Where is Tom?	Thawmz kä ümbaz nä väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #2240332 (CK) & #5057664 (RobKham)
-Are you happy?	Ümznäq äpyawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #16164 (CK) & #5049793 (RobKham)
-Are you ready?	Khexkhamz nawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #376424 (saeb) & #5064629 (RobKham)
-Are you tired?	Ümznäq äniix nawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #317830 (CK) & #5043344 (RobKham)
-God bless you!	Dzäkdzi rämri!	CC-BY 2.0 (France) Attribution: tatoeba.org #269618 (CM) & #5062890 (RobKham)
-I believe you.	Ngiz ümznäq mäx kam täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #17421 (CK) & #5064613 (RobKham)
-I like to run.	Ngiz kä äyuz rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #259193 (CK) & #5057645 (RobKham)
-I want to cry.	Ngiz läx hawsix tälawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #452275 (FeuDRenais) & #5057656 (RobKham)
-I want to eat.	Ngiz phaqsia rawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1356939 (sacredceltic) & #5057662 (RobKham)
-I want to run.	Ngiz äyuz rawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #2011276 (CK) & #5057648 (RobKham)
-I'm a student.	Ngiz kä cyawngmang.	CC-BY 2.0 (France) Attribution: tatoeba.org #567368 (jakov) & #5083065 (RobKham)
-It is raining.	Rayun tälawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1862 (CK) & #5062859 (RobKham)
-Show it to me.	Ngiz mäx tächix kuq läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #1356990 (sacredceltic) & #5083236 (RobKham)
-Show me again.	Ngiz mäx hali tächix kuq nawngz läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #2249954 (CK) & #5083240 (RobKham)
-Tell me again.	Ngiz mäx hali cyawng kuq nawngz läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #2250076 (CK) & #5083243 (RobKham)
-What happened?	Yam väx ra täq?	CC-BY 2.0 (France) Attribution: tatoeba.org #375822 (megamanenm) & #5083071 (RobKham)
-What happened?	Yam väx pin täq?	CC-BY 2.0 (France) Attribution: tatoeba.org #375822 (megamanenm) & #5083072 (RobKham)
-Where are you?	Ümznäq ümbaz nä väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #2168 (CK) & #5043337 (RobKham)
-You can do it.	Ümznäq räq mi kälawz tang haü.	CC-BY 2.0 (France) Attribution: tatoeba.org #1391 (brauliobezerra) & #5064601 (RobKham)
-Are you hungry?	Ramxdzi nawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #434242 (lukaszpp) & #5043341 (RobKham)
-Can I help you?	Ngiz ümznäq mäx khärumx ke ämaix shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #25095 (CK) & #5043348 (RobKham)
-Do you love me?	Ngiz mäx lungvii tälaüx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #321497 (CK) & #5043350 (RobKham)
-Don't feel bad.	Awx, äbix naq lap kiq yawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #2245329 (CK) & #5043331 (RobKham)
-Happy New Year!	Rämri Viixnye!	CC-BY 2.0 (France) Attribution: tatoeba.org #361350 (blay_paul) & #5043315 (RobKham)
-Happy New Year!	Azhex Azhex Azhex!	CC-BY 2.0 (France) Attribution: tatoeba.org #361350 (blay_paul) & #5043316 (RobKham)
-Happy birthday!	Khawqriiq shishiiq ravüxchix ranaiq!	CC-BY 2.0 (France) Attribution: tatoeba.org #453219 (FeuDRenais) & #5062889 (RobKham)
-I am in London.	Ngiz kä London cyezla nä.	CC-BY 2.0 (France) Attribution: tatoeba.org #321815 (CK) & #5017531 (RobKham)
-I like running.	Ngiz kä äyuz rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1444911 (CK) & #5057645 (RobKham)
-I want to know.	Ngiz äsäp rawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #961147 (Adou_Fr) & #5057657 (RobKham)
-I've been busy.	Ngiz kä mintsax vax li.	CC-BY 2.0 (France) Attribution: tatoeba.org #2046663 (CK) & #5023571 (RobKham)
-It was raining.	Rayun siq tawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #26940 (CK) & #5062860 (RobKham)
-Open your eyes.	Ümz-mäk täpiiq läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #323768 (CK) & #5064665 (RobKham)
-This is a book.	Ärä kä laizdap.	CC-BY 2.0 (France) Attribution: tatoeba.org #55399 (CK) & #5083057 (RobKham)
-You're welcome.	Täox täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #403068 (Ramses) & #5007048 (RobKham)
-Are you at home?	Ümznäq yäm nä shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #405500 (CK) & #5017550 (RobKham)
-Are you married?	Ümznäq kä tingzkhu maiq shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #413058 (FeuDRenais) & #5043321 (RobKham)
-Are you married?	Ümznäq kä tingzkhu tex ye nawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #413058 (FeuDRenais) & #5043322 (RobKham)
-Are you married?	Ümznäq kä ümz-yämti vez äsi nawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #413058 (FeuDRenais) & #5043324 (RobKham)
-Are you married?	Ümznäq kä ümz-yämti nyungz äsi nawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #413058 (FeuDRenais) & #5043326 (RobKham)
-Are you winning?	Ümznäq räq tai tälaüx khaztäz?	CC-BY 2.0 (France) Attribution: tatoeba.org #4731648 (CK) & #5083348 (RobKham)
-Call the police!	Pextax hiaz läq!	CC-BY 2.0 (France) Attribution: tatoeba.org #1718 (CK) & #5064626 (RobKham)
-Can you help me?	Ümznäq ngiz mäx mi khärumx haü shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #434410 (lukaszpp) & #5083053 (RobKham)
-Don't be afraid.	Naq haisawng kiq yawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #19170 (CK) & #5064667 (RobKham)
-Don't be afraid.	Naq yiaxsix kiq yawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #19170 (CK) & #5064669 (RobKham)
-Don't bother me.	Naq paqlaq.	CC-BY 2.0 (France) Attribution: tatoeba.org #1488089 (arnxy20) & #5043309 (RobKham)
-How old are you?	Ümznäq äsak kä ümzcyu väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #436243 (lukaszpp) & #5043311 (RobKham)
-I have children.	Ngiz iz-sez tiim äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2359378 (CK) & #5083213 (RobKham)
-I have two cats.	Iz-yaq nä mixmix kaü naix äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2412739 (fjrjdk) & #5007031 (RobKham)
-I run every day.	Ngiz väranaiq tek yuz täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #261849 (CK) & #5057647 (RobKham)
-I want to dance.	Ngiz ävänumz rawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1348673 (CK) & #5057659 (RobKham)
-I want to learn.	Ngiz tälängzlaz rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1164881 (cntrational) & #5057658 (RobKham)
-I'm going to go.	Ngiz äkai hawx nawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1312 (axcutul) & #5083079 (RobKham)
-Look over there.	Naüx känä liix läq!	CC-BY 2.0 (France) Attribution: tatoeba.org #2249560 (CK) & #5083209 (RobKham)
-Merry Christmas!	Cyawcyi cyängz Khärisämat liiz!	CC-BY 2.0 (France) Attribution: tatoeba.org #1723 (brauliobezerra) & #5064616 (RobKham)
-Please sit down!	Kecyu mäq ngax läq!	CC-BY 2.0 (France) Attribution: tatoeba.org #1222430 (Zifre) & #5083086 (RobKham)
-Please sit down.	Kecyu mäq ngax läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #415594 (FeuDRenais) & #5083085 (RobKham)
-What does he do?	Äpaiq kä yamlai väx shäm täläq?	CC-BY 2.0 (France) Attribution: tatoeba.org #4732533 (CH) & #5083323 (RobKham)
-Why are you sad?	Ümznäq yamtä väx dzänzbix raix tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #4495275 (CK) & #5057667 (RobKham)
-Are you Japanese?	Ümznäq kä Cyexpanx phan shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #515572 (CK) & #5083083 (RobKham)
-Do you live here?	Ümznäq äyäq shäx si tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #15882 (CK) & #5043351 (RobKham)
-I agree with you.	Ngiz ümznäq raix kiq räriz täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #257058 (CK) & #5064632 (RobKham)
-I am eating rice.	Ngiz kä dungx sia.	CC-BY 2.0 (France) Attribution: tatoeba.org #334464 (guyviet) & #5057626 (RobKham)
-I am eating rice.	Ngiz kä dungx sia liiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #334464 (guyviet) & #5057627 (RobKham)
-I am in Rome now.	Ngiz kä ümzcyaüx Rawmaq cyezla nä.	CC-BY 2.0 (France) Attribution: tatoeba.org #2054381 (remo) & #5017533 (RobKham)
-I have been busy.	Ngiz kä mintsax vax li.	CC-BY 2.0 (France) Attribution: tatoeba.org #254004 (CK) & #5023571 (RobKham)
-I like languages.	Ngiz phanphan bawmx-äsax rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #239730 (CK) & #5057649 (RobKham)
-I'm proud of you.	Ngiz ümznäq mäx cyawcyi täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #15913 (CK) & #5056151 (RobKham)
-Nice to meet you.	Khawqriiq äyawng rähumx täkaix väx.	CC-BY 2.0 (France) Attribution: tatoeba.org #499617 (Shishir) & #5006981 (RobKham)
-She smiled sadly.	Äpaiq bixshaq ma mäq naiyumz naiyix rätawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #310671 (CM) & #5062879 (RobKham)
-What did you say?	Yamlai väx nguz laüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #433423 (CK) & #5064593 (RobKham)
-What do you want?	Ümznäq yamlai rawx väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1622 (CK) & #5007064 (RobKham)
-What do you want?	Yamlai väx ra täläq?	CC-BY 2.0 (France) Attribution: tatoeba.org #1622 (CK) & #5007065 (RobKham)
-You should sleep.	Ümznäq äkawnx cyängz nawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1311 (CK) & #5064656 (RobKham)
-Are you a student?	Ümznäq kä cyawngmang shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #69521 (CK) & #5056054 (RobKham)
-Are you all right?	Ümznäq yam ra mäk khaztäz?	CC-BY 2.0 (France) Attribution: tatoeba.org #275743 (CK) & #5083055 (RobKham)
-Do you have a car?	Ümznäq yaq nä noztoz äsi shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #69236 (CK) & #5064623 (RobKham)
-Do you want to go?	Ümznäq äkai rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #379143 (kellenparker) & #5083259 (RobKham)
-Do you want to go?	Ümznäq ävax rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #379143 (kellenparker) & #5083260 (RobKham)
-I am a vegetarian.	Ngiz kä ngam-ängiq phaq mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #367935 (rike) & #5064604 (RobKham)
-I am eating fruit.	Ngiz kä pedziz phaq.	CC-BY 2.0 (France) Attribution: tatoeba.org #1484061 (Citrine) & #5057634 (RobKham)
-I am not a doctor.	Ngiz kä taktawt rämängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1196237 (waeltken) & #5043298 (RobKham)
-I am not a doctor.	Ngiz kä tsiqshäraz rämängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1196237 (waeltken) & #5043299 (RobKham)
-I have a headache.	Ngiz khudzi tälawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1712 (CK) & #5043338 (RobKham)
-It is sunny today.	Ümzcyaüx ranaiq rakiix mänäx.	CC-BY 2.0 (France) Attribution: tatoeba.org #242909 (CK) & #5062870 (RobKham)
-Please forgive me.	Kecyu thaq, ngiz mäx map kuq vanx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #38820 (CK) & #5064634 (RobKham)
-Please forgive me.	Kecyu thaq, ngiz mäx tälawq kuq vanx phä.	CC-BY 2.0 (France) Attribution: tatoeba.org #38820 (CK) & #5064635 (RobKham)
-Tom can't come in.	Thawmz kä nyäp vaz dzü mäk.	CC-BY 2.0 (France) Attribution: tatoeba.org #4733256 (tazi) & #5083297 (RobKham)
-What is your name?	Ümznäq mängx yamkhäx väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #70623 (sacredceltic) & #5006988 (RobKham)
-Where do you live?	Ümznäq ümbaz nä väx si tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #370708 (saeb) & #5007034 (RobKham)
-Why are you angry?	Ümznäq yamtä väx khiqriq raix tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #773128 (marloncori) & #5057668 (RobKham)
-You are beautiful.	Ümznäq kä ätsawm viq.	CC-BY 2.0 (France) Attribution: tatoeba.org #20097 (CK) & #5083059 (RobKham)
-You are my friend.	Ümznäq kä iz-kawngzti.	CC-BY 2.0 (France) Attribution: tatoeba.org #370562 (saeb) & #5056041 (RobKham)
-Do you remember me?	Ngiz tätsängx tälaüx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #250327 (CK) & #5064625 (RobKham)
-Do you want to eat?	Ümznäq äphaq rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #773323 (marloncori) & #5083247 (RobKham)
-Do you want to eat?	Ümznäq äsia rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #773323 (marloncori) & #5083248 (RobKham)
-I don't understand.	Ngiz räq khawn mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #376611 (CK) & #5007002 (RobKham)
-I have two cousins.	Iz-saizvasez änaix äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #394669 (Dorenda) & #5064679 (RobKham)
-I have two cousins.	Nyungz-rü sez änaix äsi.	CC-BY 2.0 (France) Attribution: tatoeba.org #394669 (Dorenda) & #5064680 (RobKham)
-It's about to rain.	Rayunx hawx nawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #456201 (lukaszpp) & #5057638 (RobKham)
-She is helping him.	Äpaiq kä äpaiq mäx khärumx kuq tälawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #887244 (CK) & #5006949 (RobKham)
-She smiled happily.	Äpaiq khawqriiq hiax naiyumz naiyix rätawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #310555 (CK) & #5062878 (RobKham)
-What are you doing?	Ümznäq yamlai väx rätälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #16492 (CK) & #5007003 (RobKham)
-What are you doing?	Ümznäq yamlai väx shäm tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #16492 (CK) & #5007004 (RobKham)
-Where are you from?	Ümznäq kä ümbaz väx väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #370703 (saeb) & #5007039 (RobKham)
-Where does it hurt?	Ümrä baz nä väx dzi täläq?	CC-BY 2.0 (France) Attribution: tatoeba.org #37512 (CK) & #5083233 (RobKham)
-Why are you afraid?	Ümznäq yamtä väx haisawng raix tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1122209 (Eldad) & #5057669 (RobKham)
-Why are you afraid?	Ümznäq yamtä väx yiaxsix raix tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1122209 (Eldad) & #5057670 (RobKham)
-Why are you crying?	Yamtä väx hawq tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #36405 (CK) & #5043335 (RobKham)
-You are very brave.	Ümznäq kä koizlaz diax mänäx.	CC-BY 2.0 (France) Attribution: tatoeba.org #16474 (CK) & #5083077 (RobKham)
-You are very brave.	Ümznäq kä äkhux viq mänäx.	CC-BY 2.0 (France) Attribution: tatoeba.org #16474 (CK) & #5083078 (RobKham)
-Are you on Facebook?	Ümznäq thiadap Phesäbuk nä shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #953107 (CK) & #5083064 (RobKham)
-Do you drink coffee?	Ümznäq kawzphiz nyängz tälaüx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #449095 (CK) & #5056143 (RobKham)
-Do you want to help?	Ümznäq äkhärumx rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #2011465 (CK) & #5083255 (RobKham)
-Do you want to know?	Ümznäq äsäp rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #2011466 (CK) & #5083256 (RobKham)
-Do you want to play?	Ümznäq ätädza rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #2011467 (CK) & #5083257 (RobKham)
-Do you want to rest?	Ümznäq äkhing rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #594680 (CK) & #5083253 (RobKham)
-I am in Tokyo today.	Ngiz kä ümzcyaüx ranaiq Tokyo cyezla nä.	CC-BY 2.0 (France) Attribution: tatoeba.org #257596 (CK) & #5017544 (RobKham)
-I have to leave now.	Ngiz ümzcyaüx tädawx cyängz nawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #31380 (CK) & #5064638 (RobKham)
-I will be back soon.	Ngiz äthix mi yängzvaz kängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1284 (brauliobezerra) & #5043303 (RobKham)
-Thank you for today.	Ümzcyaüx ranaiq mätux tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #242724 (CK) & #5017101 (RobKham)
-This is my computer.	Ärä kä iz-kubuta.	CC-BY 2.0 (France) Attribution: tatoeba.org #2346862 (everylanguage) & #5064657 (RobKham)
-What are you eating?	Ümznäq yamlai väx phaqsiq tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1097919 (cntrational) & #5057642 (RobKham)
-Where are you going?	Ümznäq ümbaz nä kai väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #416367 (phrasemix) & #5007024 (RobKham)
-Who is your teacher?	Ümznäq shäraz kä yu väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #17660 (CK) & #5064594 (RobKham)
-Why are you dancing?	Ümznäq yamtä väx vänumx raix tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1776616 (Amastan) & #5062839 (RobKham)
-Why did you call me?	Ümznäq räq ngiz yamtä väx hiaz laüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1098702 (cntrational) & #5006908 (RobKham)
-You have many books.	Ümznäq yaq nä laizdap pax hiax mänäx.	CC-BY 2.0 (France) Attribution: tatoeba.org #16525 (CK) & #5083075 (RobKham)
-You look very tired.	Ümznäq mänäx niix hiax ngawx cyängz.	CC-BY 2.0 (France) Attribution: tatoeba.org #16475 (CK) & #5083076 (RobKham)
-Do you feel OK today?	Ümznäq ümzcyaüx ranaiq ähia khaztäz?	CC-BY 2.0 (France) Attribution: tatoeba.org #4759014 (CK) & #5083379 (RobKham)
-Do you understand me?	Ümznäq ngiz mäx khawn tälaüx khaztäz?	CC-BY 2.0 (France) Attribution: tatoeba.org #403046 (Ramses) & #5083054 (RobKham)
-Do you want to sleep?	Ümznäq äkawnx rawx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #664057 (aikidave) & #5083254 (RobKham)
-Does Tom know French?	Thawmz räq Färenz bawmx äsäp shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #4731527 (CK) & #5083349 (RobKham)
-I have a stomachache.	Ngiz vawkdzi.	CC-BY 2.0 (France) Attribution: tatoeba.org #64954 (CK) & #5083056 (RobKham)
-I think you're right.	Ngiz räq tämaz kä ümznäq kä teng tawx ngawx cyängz.	CC-BY 2.0 (France) Attribution: tatoeba.org #17212 (CK) & #5064599 (RobKham)
-It will rain tonight.	Ümzcyaüx rava ra mi yun.	CC-BY 2.0 (France) Attribution: tatoeba.org #243349 (CK) & #5062866 (RobKham)
-My house is far away.	Iz-yäm kä lux hiax nä.	CC-BY 2.0 (France) Attribution: tatoeba.org #4758544 (cairnhead) & #5083374 (RobKham)
-Sorry for being late.	Täyaix raix kängx khamäq äbix naq lap rawngx kiq yawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1528604 (erikspen) & #5017505 (RobKham)
-Thank you for coming.	Ümznäq saüxvax khamäq tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #64536 (CK) & #5017035 (RobKham)
-Thank you for coming.	Nämzshiq saüxvax khamäq tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #64536 (CK) & #5017037 (RobKham)
-Thank you for coming.	Ümznäq saüxvax khamäq kecyu äyawng.	CC-BY 2.0 (France) Attribution: tatoeba.org #64536 (CK) & #5017041 (RobKham)
-Thank you for coming.	Nämzshiq saüxvax khamäq kecyu äyawng.	CC-BY 2.0 (France) Attribution: tatoeba.org #64536 (CK) & #5017042 (RobKham)
-What are you cooking?	Ümznäq yamlai väx shawngzlum tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #445021 (kaitlin) & #5083084 (RobKham)
-Where is your father?	Ümz-vez ümbaz nä väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #467672 (CK) & #5083066 (RobKham)
-Where is your school?	Ümz-cyawng kä ümrä baz nä väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #17283 (CK) & #5056149 (RobKham)
-Why are you laughing?	Ümznäq yamtä väx nai siq tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1495862 (CK) & #5062886 (RobKham)
-How long did you stay?	Ra ümzcyu väx si laüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1373 (CK) & #5049668 (RobKham)
-I eat fish every week.	Ngiz cyezpat tek ngiq siq täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1492178 (CK) & #5057655 (RobKham)
-I have to go to sleep.	Ngiz äkawnx cyängz nawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1277 (vinhan) & #5064619 (RobKham)
-They say it will rain.	Tsängxshiq räq ra mi yun nguztä nguz tawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1103042 (mookeee) & #5062868 (RobKham)
-Tom often wears black.	Thawmz räq kä khiasamx änyaq sam ruq diax.	CC-BY 2.0 (France) Attribution: tatoeba.org #4731525 (CK) & #5083351 (RobKham)
-Close the door, please.	Kecyu mäq, kixlü shaq läq.	CC-BY 2.0 (France) Attribution: tatoeba.org #38524 (CK) & #5083073 (RobKham)
-Have you seen this man?	Ümznäq räq ärä vez mäx chiz laüx shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #758084 (CK) & #5006974 (RobKham)
-I don't agree with you.	Ngiz ümznäq raix kiq räriz mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #17423 (CK) & #5064610 (RobKham)
-I don't have any money.	Ngiz phä nä kämphaw sii shiz mänz ähüz.	CC-BY 2.0 (France) Attribution: tatoeba.org #433614 (CK) & #5049675 (RobKham)
-I don't speak Japanese.	Ngiz Cyexpanx bawmx bawm mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1482 (CK) & #5049666 (RobKham)
-It was sunny yesterday.	Ümzyix ranaiq kä rakiix tawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #2628663 (CK) & #5062873 (RobKham)
-Tom is a very nice boy.	Thawmz kä ähia viq vez läx.	CC-BY 2.0 (France) Attribution: tatoeba.org #4731523 (CK) & #5083355 (RobKham)
-We walked to the river.	Naizshiq tero yü nüx nä khum kiz kaix.	CC-BY 2.0 (France) Attribution: tatoeba.org #249358 (CK) & #5062855 (RobKham)
-Where do you come from?	Ümznäq kä ümbaz väx väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #17150 (CK) & #5007039 (RobKham)
-Where do you come from?	Ümznäq ümbaz mäq väx kiz laüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #17150 (CK) & #5083060 (RobKham)
-Where do you come from?	Ümznäq ümbaz mäq väx vaz laüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #17150 (CK) & #5083061 (RobKham)
-Do you have a cellphone?	Ümznäq yaq nä mozbai fon äsi shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #535419 (FeuDRenais) & #5083082 (RobKham)
-How did you like Boston?	Bawsäton kä yamkhäx väx rawx tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #4731519 (CK) & #5083358 (RobKham)
-How much does this cost?	Ärä äthiiz ümzcyu väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #432824 (aliene) & #5083210 (RobKham)
-I think about her often.	Ngiz äpaiq mäx yiiqhiaz yizviaz tämaz täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1650277 (Spamster) & #5006905 (RobKham)
-Mom will buy us a puppy.	Naz-nyungz räq nazshiq mäx kuxkux sez mi ri kuq.	CC-BY 2.0 (France) Attribution: tatoeba.org #4733645 (CK) & #5083287 (RobKham)
-Thank you for listening.	Bawmxtai ke khamäq tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #954311 (CK) & #5017094 (RobKham)
-Thank you for your help.	Khärumx ke khamäq tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #462516 (lukaszpp) & #5017497 (RobKham)
-This is my sister, Mary.	Ärä kä iz-naw, Meriz.	CC-BY 2.0 (France) Attribution: tatoeba.org #4731516 (CK) & #5083428 (RobKham)
-This is my sister, Mary.	Ärä kä iz-nyiz, Meriz.	CC-BY 2.0 (France) Attribution: tatoeba.org #4731516 (CK) & #5083430 (RobKham)
-He was alone in the room.	Äpaiq kä khawkz nä äpaiq hawnxhawnx li.	CC-BY 2.0 (France) Attribution: tatoeba.org #291253 (CK) & #5083325 (RobKham)
-I can't live without you.	Ngiz ümznäq ähüz mäq si lawt mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #237738 (CK) & #5056158 (RobKham)
-I'm sorry for what I did.	Ngiz räq yamlai väx kälawz vanx kängx kärä thunx mäx ngiz äbix lap täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #41632 (CK) & #5017509 (RobKham)
-Thank you for everything.	Phanräp mäx tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #2107842 (Eldad) & #5017099 (RobKham)
-The book is on the table.	Laizdap kä dazra thaq nä.	CC-BY 2.0 (France) Attribution: tatoeba.org #2163151 (Source_VOA) & #5043349 (RobKham)
-What are you looking for?	Ümznäq yamlai väx rit tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #16255 (CK) & #5056072 (RobKham)
-Can I take a picture here?	Ngiz äräyäq tsaixyix tem ämaix shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #1046879 (szaby78) & #5062885 (RobKham)
-I like learning languages.	Ngiz bawmx-äsax tälängxlax shärira rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1568731 (Sharaf78) & #5057651 (RobKham)
-I'm sure you're very busy.	Ümznäq kä minztsax diax nguztä ngiz kamcyaw äsäp ha.	CC-BY 2.0 (France) Attribution: tatoeba.org #2046775 (CK) & #5007006 (RobKham)
-Thank you for the present.	Kawngxphiq ke khamäq tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #274353 (CK) & #5017103 (RobKham)
-Tom broke something again.	Thawmz räq laishizraz hali täbix baiq nawngz tawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #4746174 (CK) & #5083307 (RobKham)
-Tom has been busy at work.	Thawmz kä yaqshämx rü nä mintsax yawng läx.	CC-BY 2.0 (France) Attribution: tatoeba.org #2046781 (CK) & #5017519 (RobKham)
-You are tired, aren't you?	Ümznäq äniix nawx, mäk shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #9601 (Swift) & #5064646 (RobKham)
-China is bigger than Japan.	Khe mung kä Cyexpanx mung namx mäx äyawng.	CC-BY 2.0 (France) Attribution: tatoeba.org #506450 (rtomharper) & #5006956 (RobKham)
-I like to walk in the rain.	Ngiz rayunx mawngx lamkhumx rawx täkängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #26723 (CK) & #5062850 (RobKham)
-I've been very busy lately.	Ümzsäq linxlinx nä saüx liz ngiz kä mintsax hiax.	CC-BY 2.0 (France) Attribution: tatoeba.org #257659 (CK) & #5017516 (RobKham)
-This is never going to end.	Ärä kä äthum phan kä rämäk.	CC-BY 2.0 (France) Attribution: tatoeba.org #1287 (CK) & #5083050 (RobKham)
-What are you talking about?	Ümznäq yamlai väx cyawng rat tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #2066 (CK) & #5043346 (RobKham)
-What would you like to eat?	Ümznäq yamlai phaqsia rawx väx?	CC-BY 2.0 (France) Attribution: tatoeba.org #400191 (sysko) & #5056051 (RobKham)
-Can I take a picture of you?	Ngiz ümznäq tsaixyix tem ämaix shäx?	CC-BY 2.0 (France) Attribution: tatoeba.org #3494628 (Hybrid) & #5062888 (RobKham)
-Could you send me a picture?	Ngiz mä tsaixyix tähawx kuq läq näx?	CC-BY 2.0 (France) Attribution: tatoeba.org #4759496 (cairnhead) & #5083418 (RobKham)
-What are you thinking about?	Ümznäq yamlai väx tämaz tälaüx?	CC-BY 2.0 (France) Attribution: tatoeba.org #24698 (CK) & #5006968 (RobKham)
-I don't want to go to school.	Ngiz laizyäm nä kiz rawx mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1860 (CK) & #5043296 (RobKham)
-I don't want to go to school.	Ngiz cyawng nä kiz rawx mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1860 (CK) & #5043297 (RobKham)
-I'm sorry for making you cry.	Ngiz ümznäq tähaw ria khamäq dzänzbix hiax.	CC-BY 2.0 (France) Attribution: tatoeba.org #953854 (CK) & #5017513 (RobKham)
-Thank you for the suggestion.	Tämaz ähia cyawngx ke khamäq tesawra.	CC-BY 2.0 (France) Attribution: tatoeba.org #2643356 (CK) & #5017502 (RobKham)
-"Thank you." "You're welcome."	"Tesawra." "Täox täkängx."	CC-BY 2.0 (France) Attribution: tatoeba.org #2077 (Swift) & #5043305 (RobKham)
-"Thank you." "You're welcome."	"Tesawra." "Yam ra mäk."	CC-BY 2.0 (France) Attribution: tatoeba.org #2077 (Swift) & #5049279 (RobKham)
-I just don't know what to say.	Ngiz yamlai cyawngx cyängz väx säp mängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1288 (CK) & #5083049 (RobKham)
-Tom, this is my brother, John.	Thawmz, ärä kä iz-naw.	CC-BY 2.0 (France) Attribution: tatoeba.org #4732267 (CK) & #5083334 (RobKham)
-Tom, this is my brother, John.	Thawmz, ärä kä iz-phuz.	CC-BY 2.0 (France) Attribution: tatoeba.org #4732267 (CK) & #5083336 (RobKham)
-I asked Tom what he was reading.	Ngiz räq Thawmz mäx yamlai väx phat tälaüx nguztä vai kängx.	CC-BY 2.0 (France) Attribution: tatoeba.org #4759315 (CK) & #5083400 (RobKham)
-The queen stood beside the king.	Hawkhamnyungz kä Hawkhamvez phaix nä cyap tawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #25611 (CK) & #5006835 (RobKham)
-Those who want to stay can stay.	Ähaix rawx ti thunx kä ähaix maix.	CC-BY 2.0 (France) Attribution: tatoeba.org #4758374 (cairnhead) & #5083362 (RobKham)
-I am eating lunch with my sister.	Ngiz kä iz-naw raix minphawngz.	CC-BY 2.0 (France) Attribution: tatoeba.org #436333 (lukaszpp) & #5057641 (RobKham)
-I'm eating dinner with my husband.	Ngiz kä iz-yämtivez raix dungx sia.	CC-BY 2.0 (France) Attribution: tatoeba.org #6873046 (CK) & #5057640 (RobKham)
-"I've been busy." "Busy doing what?"	"Ngiz kä mintsax vax li." "Mintsax! Yam shämx väx täz?"	CC-BY 2.0 (France) Attribution: tatoeba.org #2046869 (CK) & #5017523 (RobKham)
-Tom is busy now, so he can't talk with you.	Thawmz kä mintsax, käkhäx khamäq ümznäq raix räbawmx lap mäk.	CC-BY 2.0 (France) Attribution: tatoeba.org #3182090 (CK) & #5083051 (RobKham)
-Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalifa kä ümzcyaüx ümzcyaüx mungkang nä äluz pinzthum racyux kätex yäm rätawx.	CC-BY 2.0 (France) Attribution: tatoeba.org #1399479 (Balamax) & #5043314 (RobKham)
+Hello!	Äshazhoix!
+Smile.	Naiyumz naiyix räläq.
+Cheers!	Azhex!
+I know.	Ngiz räq äsäp ha.
+No way!	Naq! Maix mäk!
+Go away.	Äluz nä kiz haw läq.
+Go away.	Naq paqlaq.
+Goodbye!	Kiqkap!
+Goodbye!	Kiqkap yawx!
+Goodbye!	Kiqkap liiz!
+Shut up!	Naq bawm!
+Tell me.	Ngiz mäx cyawng läq.
+Welcome.	Täox täkängx.
+Welcome.	Täox täkaix.
+Hurry up.	Kawztsi.
+I smiled.	Ngiz naiyumz naiyix räkängx.
+Let's go!	Kiz rawngx phä!
+Let's go!	Vaz rawngx phä!
+Stand up!	Cyap läq!
+Calm down.	Dzänz täsäng läq.
+Come here.	Änä kiz räx.
+Come here.	Änä vaz räx.
+Excuse me.	Oix, hiazshiz.
+Excuse me.	Inä, yaqlawsez.
+I'm sorry.	Awx, äbix naq lap kiq yawx.
+I'm tired.	Ngiz niix hiax nawx.
+It's cold.	Äkaiq viq.
+Let's ask.	Vai rawngx phä.
+Let's ask.	Vai rawngx i.
+Let's eat.	Siq rawngx phä.
+Let's eat.	Siq rawngx i.
+Let's eat.	Phaq rawngx phä.
+Let's eat.	Phaq rawngx i.
+Look here.	Änä liix läq!
+Thank you.	Tesawra.
+Thank you.	Kecyu äyawng.
+I like tea.	Ngiz phiqyaq rawx täkängx.
+I love you.	Ngiz räq ümznäq mäx lungvii täkängx.
+I love you.	Ngiz räq ümznäq mäx rawx täkängx.
+I miss you.	Ngiz ümznäq mäx tsängxmiix täkängx.
+I need you.	Ümznäq kä ngiz mäx ra tälawx.
+I'm hungry!	Ngiz ramxdzi tälawx!
+I'm so fat.	Ngiz läx vüz hiax vüz vanx kängx.
+Let's play.	Tädza rawngx phä.
+Let's play.	Tädza rawngx i.
+Let's walk.	Khum rawngx phä.
+Let's walk.	Khum rawngx i.
+Let's work.	Shäm rawngx phä.
+Let's work.	Shäm rawngx i.
+Lift it up.	Kärä daw läq.
+She smiled.	Äpaiq naiyumz naiyix rätawx.
+Tom danced.	Thawmz vänumz tawx.
+Don't worry.	Naq tämaz kiq.
+Don't worry.	Naq cyaxpax kiq.
+How are you?	Ähia shäx?
+How are you?	Hanzsängx shäx?
+I have food.	Iz-yaq nä phaqsia cyängz äsi.
+I like dogs.	Ngiz kuxkux rawx täkängx.
+I like fish.	Ngiz ngiq rawx täkängx.
+I'm thirsty.	Ngiz kham nyängx dzi tälawx.
+Is it yours?	Kärä kä ümznäq riix shäx?
+It may rain.	Ra mi yun.
+Let's dance.	Vänumz rawngx phä.
+Let's dance.	Vänumz rawngx i.
+Show me how.	Yamkhäx väx ngiz mäx tächix kuq läq.
+They smiled.	Tsängxshiq naiyumz naiyix rätawx.
+What's this?	Ärä kä yamlai väx täz?
+Who are you?	Ümznäq kä yu väx?
+Are you sure?	Ngawxhiax shäx?
+Are you sure?	Äsängz diax shäx?
+Come with me.	Ngiz raix vaz i.
+Come with me.	Ngiz raix kiz i.
+Come with me.	Ngiz raix vaz räx.
+Come with me.	Ngiz raix kiz räx.
+Come with me.	Ngiz raix kiz läq.
+Come with me.	Ngiz raix vaz läq.
+Good evening.	Rämri rayix.
+I am at home.	Ngiz kä yäm nä liiz.
+I don't know.	Ngiz räq säp mängx.
+I have a car.	Iz-yaq nä noztoz äsi.
+I have a cat.	Iz-yaq nä mixmix äsi.
+I have a pen.	Iz-yaq nä läkkiiz äsi.
+I have money.	Iz-yaq nä kämphaw äsi.
+I understand.	Ngiz räq khawn täkängx.
+I want to go.	Ngiz äkai rawx.
+I want to go.	Ngiz ävax rawx.
+Say it again.	Kärä hali cyawng nawngz läq.
+Where is Tom?	Thawmz kä ümbaz nä väx?
+Are you happy?	Ümznäq äpyawx shäx?
+Are you ready?	Khexkhamz nawx shäx?
+Are you tired?	Ümznäq äniix nawx shäx?
+God bless you!	Dzäkdzi rämri!
+I believe you.	Ngiz ümznäq mäx kam täkängx.
+I like to run.	Ngiz kä äyuz rawx täkängx.
+I want to cry.	Ngiz läx hawsix tälawx.
+I want to eat.	Ngiz phaqsia rawx.
+I want to run.	Ngiz äyuz rawx.
+I'm a student.	Ngiz kä cyawngmang.
+It is raining.	Rayun tälawx.
+Show it to me.	Ngiz mäx tächix kuq läq.
+Show me again.	Ngiz mäx hali tächix kuq nawngz läq.
+Tell me again.	Ngiz mäx hali cyawng kuq nawngz läq.
+What happened?	Yam väx ra täq?
+What happened?	Yam väx pin täq?
+Where are you?	Ümznäq ümbaz nä väx?
+You can do it.	Ümznäq räq mi kälawz tang haü.
+Are you hungry?	Ramxdzi nawx shäx?
+Can I help you?	Ngiz ümznäq mäx khärumx ke ämaix shäx?
+Do you love me?	Ngiz mäx lungvii tälaüx shäx?
+Don't feel bad.	Awx, äbix naq lap kiq yawx.
+Happy New Year!	Rämri Viixnye!
+Happy New Year!	Azhex Azhex Azhex!
+Happy birthday!	Khawqriiq shishiiq ravüxchix ranaiq!
+I am in London.	Ngiz kä London cyezla nä.
+I like running.	Ngiz kä äyuz rawx täkängx.
+I want to know.	Ngiz äsäp rawx.
+I've been busy.	Ngiz kä mintsax vax li.
+It was raining.	Rayun siq tawx.
+Open your eyes.	Ümz-mäk täpiiq läq.
+This is a book.	Ärä kä laizdap.
+You're welcome.	Täox täkängx.
+Are you at home?	Ümznäq yäm nä shäx?
+Are you married?	Ümznäq kä tingzkhu maiq shäx?
+Are you married?	Ümznäq kä tingzkhu tex ye nawx shäx?
+Are you married?	Ümznäq kä ümz-yämti vez äsi nawx shäx?
+Are you married?	Ümznäq kä ümz-yämti nyungz äsi nawx shäx?
+Are you winning?	Ümznäq räq tai tälaüx khaztäz?
+Call the police!	Pextax hiaz läq!
+Can you help me?	Ümznäq ngiz mäx mi khärumx haü shäx?
+Don't be afraid.	Naq haisawng kiq yawx.
+Don't be afraid.	Naq yiaxsix kiq yawx.
+Don't bother me.	Naq paqlaq.
+How old are you?	Ümznäq äsak kä ümzcyu väx?
+I have children.	Ngiz iz-sez tiim äsi.
+I have two cats.	Iz-yaq nä mixmix kaü naix äsi.
+I run every day.	Ngiz väranaiq tek yuz täkängx.
+I want to dance.	Ngiz ävänumz rawx.
+I want to learn.	Ngiz tälängzlaz rawx täkängx.
+I'm going to go.	Ngiz äkai hawx nawx.
+Look over there.	Naüx känä liix läq!
+Merry Christmas!	Cyawcyi cyängz Khärisämat liiz!
+Please sit down!	Kecyu mäq ngax läq!
+Please sit down.	Kecyu mäq ngax läq.
+What does he do?	Äpaiq kä yamlai väx shäm täläq?
+Why are you sad?	Ümznäq yamtä väx dzänzbix raix tälaüx?
+Are you Japanese?	Ümznäq kä Cyexpanx phan shäx?
+Do you live here?	Ümznäq äyäq shäx si tälaüx?
+I agree with you.	Ngiz ümznäq raix kiq räriz täkängx.
+I am eating rice.	Ngiz kä dungx sia.
+I am eating rice.	Ngiz kä dungx sia liiz.
+I am in Rome now.	Ngiz kä ümzcyaüx Rawmaq cyezla nä.
+I have been busy.	Ngiz kä mintsax vax li.
+I like languages.	Ngiz phanphan bawmx-äsax rawx täkängx.
+I'm proud of you.	Ngiz ümznäq mäx cyawcyi täkängx.
+Nice to meet you.	Khawqriiq äyawng rähumx täkaix väx.
+She smiled sadly.	Äpaiq bixshaq ma mäq naiyumz naiyix rätawx.
+What did you say?	Yamlai väx nguz laüx?
+What do you want?	Ümznäq yamlai rawx väx?
+What do you want?	Yamlai väx ra täläq?
+You should sleep.	Ümznäq äkawnx cyängz nawx.
+Are you a student?	Ümznäq kä cyawngmang shäx?
+Are you all right?	Ümznäq yam ra mäk khaztäz?
+Do you have a car?	Ümznäq yaq nä noztoz äsi shäx?
+Do you want to go?	Ümznäq äkai rawx shäx?
+Do you want to go?	Ümznäq ävax rawx shäx?
+I am a vegetarian.	Ngiz kä ngam-ängiq phaq mängx.
+I am eating fruit.	Ngiz kä pedziz phaq.
+I am not a doctor.	Ngiz kä taktawt rämängx.
+I am not a doctor.	Ngiz kä tsiqshäraz rämängx.
+I have a headache.	Ngiz khudzi tälawx.
+It is sunny today.	Ümzcyaüx ranaiq rakiix mänäx.
+Please forgive me.	Kecyu thaq, ngiz mäx map kuq vanx phä.
+Please forgive me.	Kecyu thaq, ngiz mäx tälawq kuq vanx phä.
+Tom can't come in.	Thawmz kä nyäp vaz dzü mäk.
+What is your name?	Ümznäq mängx yamkhäx väx?
+Where do you live?	Ümznäq ümbaz nä väx si tälaüx?
+Why are you angry?	Ümznäq yamtä väx khiqriq raix tälaüx?
+You are beautiful.	Ümznäq kä ätsawm viq.
+You are my friend.	Ümznäq kä iz-kawngzti.
+Do you remember me?	Ngiz tätsängx tälaüx shäx?
+Do you want to eat?	Ümznäq äphaq rawx shäx?
+Do you want to eat?	Ümznäq äsia rawx shäx?
+I don't understand.	Ngiz räq khawn mängx.
+I have two cousins.	Iz-saizvasez änaix äsi.
+I have two cousins.	Nyungz-rü sez änaix äsi.
+It's about to rain.	Rayunx hawx nawx.
+She is helping him.	Äpaiq kä äpaiq mäx khärumx kuq tälawx.
+She smiled happily.	Äpaiq khawqriiq hiax naiyumz naiyix rätawx.
+What are you doing?	Ümznäq yamlai väx rätälaüx?
+What are you doing?	Ümznäq yamlai väx shäm tälaüx?
+Where are you from?	Ümznäq kä ümbaz väx väx?
+Where does it hurt?	Ümrä baz nä väx dzi täläq?
+Why are you afraid?	Ümznäq yamtä väx haisawng raix tälaüx?
+Why are you afraid?	Ümznäq yamtä väx yiaxsix raix tälaüx?
+Why are you crying?	Yamtä väx hawq tälaüx?
+You are very brave.	Ümznäq kä koizlaz diax mänäx.
+You are very brave.	Ümznäq kä äkhux viq mänäx.
+Are you on Facebook?	Ümznäq thiadap Phesäbuk nä shäx?
+Do you drink coffee?	Ümznäq kawzphiz nyängz tälaüx shäx?
+Do you want to help?	Ümznäq äkhärumx rawx shäx?
+Do you want to know?	Ümznäq äsäp rawx shäx?
+Do you want to play?	Ümznäq ätädza rawx shäx?
+Do you want to rest?	Ümznäq äkhing rawx shäx?
+I am in Tokyo today.	Ngiz kä ümzcyaüx ranaiq Tokyo cyezla nä.
+I have to leave now.	Ngiz ümzcyaüx tädawx cyängz nawx.
+I will be back soon.	Ngiz äthix mi yängzvaz kängx.
+Thank you for today.	Ümzcyaüx ranaiq mätux tesawra.
+This is my computer.	Ärä kä iz-kubuta.
+What are you eating?	Ümznäq yamlai väx phaqsiq tälaüx?
+Where are you going?	Ümznäq ümbaz nä kai väx?
+Who is your teacher?	Ümznäq shäraz kä yu väx?
+Why are you dancing?	Ümznäq yamtä väx vänumx raix tälaüx?
+Why did you call me?	Ümznäq räq ngiz yamtä väx hiaz laüx?
+You have many books.	Ümznäq yaq nä laizdap pax hiax mänäx.
+You look very tired.	Ümznäq mänäx niix hiax ngawx cyängz.
+Do you feel OK today?	Ümznäq ümzcyaüx ranaiq ähia khaztäz?
+Do you understand me?	Ümznäq ngiz mäx khawn tälaüx khaztäz?
+Do you want to sleep?	Ümznäq äkawnx rawx shäx?
+Does Tom know French?	Thawmz räq Färenz bawmx äsäp shäx?
+I have a stomachache.	Ngiz vawkdzi.
+I think you're right.	Ngiz räq tämaz kä ümznäq kä teng tawx ngawx cyängz.
+It will rain tonight.	Ümzcyaüx rava ra mi yun.
+My house is far away.	Iz-yäm kä lux hiax nä.
+Sorry for being late.	Täyaix raix kängx khamäq äbix naq lap rawngx kiq yawx.
+Thank you for coming.	Ümznäq saüxvax khamäq tesawra.
+Thank you for coming.	Nämzshiq saüxvax khamäq tesawra.
+Thank you for coming.	Ümznäq saüxvax khamäq kecyu äyawng.
+Thank you for coming.	Nämzshiq saüxvax khamäq kecyu äyawng.
+What are you cooking?	Ümznäq yamlai väx shawngzlum tälaüx?
+Where is your father?	Ümz-vez ümbaz nä väx?
+Where is your school?	Ümz-cyawng kä ümrä baz nä väx?
+Why are you laughing?	Ümznäq yamtä väx nai siq tälaüx?
+How long did you stay?	Ra ümzcyu väx si laüx?
+I eat fish every week.	Ngiz cyezpat tek ngiq siq täkängx.
+I have to go to sleep.	Ngiz äkawnx cyängz nawx.
+They say it will rain.	Tsängxshiq räq ra mi yun nguztä nguz tawx.
+Tom often wears black.	Thawmz räq kä khiasamx änyaq sam ruq diax.
+Close the door, please.	Kecyu mäq, kixlü shaq läq.
+Have you seen this man?	Ümznäq räq ärä vez mäx chiz laüx shäx?
+I don't agree with you.	Ngiz ümznäq raix kiq räriz mängx.
+I don't have any money.	Ngiz phä nä kämphaw sii shiz mänz ähüz.
+I don't speak Japanese.	Ngiz Cyexpanx bawmx bawm mängx.
+It was sunny yesterday.	Ümzyix ranaiq kä rakiix tawx.
+Tom is a very nice boy.	Thawmz kä ähia viq vez läx.
+We walked to the river.	Naizshiq tero yü nüx nä khum kiz kaix.
+Where do you come from?	Ümznäq kä ümbaz väx väx?
+Where do you come from?	Ümznäq ümbaz mäq väx kiz laüx?
+Where do you come from?	Ümznäq ümbaz mäq väx vaz laüx?
+Do you have a cellphone?	Ümznäq yaq nä mozbai fon äsi shäx?
+How did you like Boston?	Bawsäton kä yamkhäx väx rawx tälaüx?
+How much does this cost?	Ärä äthiiz ümzcyu väx?
+I think about her often.	Ngiz äpaiq mäx yiiqhiaz yizviaz tämaz täkängx.
+Mom will buy us a puppy.	Naz-nyungz räq nazshiq mäx kuxkux sez mi ri kuq.
+Thank you for listening.	Bawmxtai ke khamäq tesawra.
+Thank you for your help.	Khärumx ke khamäq tesawra.
+This is my sister, Mary.	Ärä kä iz-naw, Meriz.
+This is my sister, Mary.	Ärä kä iz-nyiz, Meriz.
+He was alone in the room.	Äpaiq kä khawkz nä äpaiq hawnxhawnx li.
+I can't live without you.	Ngiz ümznäq ähüz mäq si lawt mängx.
+I'm sorry for what I did.	Ngiz räq yamlai väx kälawz vanx kängx kärä thunx mäx ngiz äbix lap täkängx.
+Thank you for everything.	Phanräp mäx tesawra.
+The book is on the table.	Laizdap kä dazra thaq nä.
+What are you looking for?	Ümznäq yamlai väx rit tälaüx?
+Can I take a picture here?	Ngiz äräyäq tsaixyix tem ämaix shäx?
+I like learning languages.	Ngiz bawmx-äsax tälängxlax shärira rawx täkängx.
+I'm sure you're very busy.	Ümznäq kä minztsax diax nguztä ngiz kamcyaw äsäp ha.
+Thank you for the present.	Kawngxphiq ke khamäq tesawra.
+Tom broke something again.	Thawmz räq laishizraz hali täbix baiq nawngz tawx.
+Tom has been busy at work.	Thawmz kä yaqshämx rü nä mintsax yawng läx.
+You are tired, aren't you?	Ümznäq äniix nawx, mäk shäx?
+China is bigger than Japan.	Khe mung kä Cyexpanx mung namx mäx äyawng.
+I like to walk in the rain.	Ngiz rayunx mawngx lamkhumx rawx täkängx.
+I've been very busy lately.	Ümzsäq linxlinx nä saüx liz ngiz kä mintsax hiax.
+This is never going to end.	Ärä kä äthum phan kä rämäk.
+What are you talking about?	Ümznäq yamlai väx cyawng rat tälaüx?
+What would you like to eat?	Ümznäq yamlai phaqsia rawx väx?
+Can I take a picture of you?	Ngiz ümznäq tsaixyix tem ämaix shäx?
+Could you send me a picture?	Ngiz mä tsaixyix tähawx kuq läq näx?
+What are you thinking about?	Ümznäq yamlai väx tämaz tälaüx?
+I don't want to go to school.	Ngiz laizyäm nä kiz rawx mängx.
+I don't want to go to school.	Ngiz cyawng nä kiz rawx mängx.
+I'm sorry for making you cry.	Ngiz ümznäq tähaw ria khamäq dzänzbix hiax.
+Thank you for the suggestion.	Tämaz ähia cyawngx ke khamäq tesawra.
+"Thank you." "You're welcome."	"Tesawra." "Täox täkängx."
+"Thank you." "You're welcome."	"Tesawra." "Yam ra mäk."
+I just don't know what to say.	Ngiz yamlai cyawngx cyängz väx säp mängx.
+Tom, this is my brother, John.	Thawmz, ärä kä iz-naw.
+Tom, this is my brother, John.	Thawmz, ärä kä iz-phuz.
+I asked Tom what he was reading.	Ngiz räq Thawmz mäx yamlai väx phat tälaüx nguztä vai kängx.
+The queen stood beside the king.	Hawkhamnyungz kä Hawkhamvez phaix nä cyap tawx.
+Those who want to stay can stay.	Ähaix rawx ti thunx kä ähaix maix.
+I am eating lunch with my sister.	Ngiz kä iz-naw raix minphawngz.
+I'm eating dinner with my husband.	Ngiz kä iz-yämtivez raix dungx sia.
+"I've been busy." "Busy doing what?"	"Ngiz kä mintsax vax li." "Mintsax! Yam shämx väx täz?"
+Tom is busy now, so he can't talk with you.	Thawmz kä mintsax, käkhäx khamäq ümznäq raix räbawmx lap mäk.
+Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalifa kä ümzcyaüx ümzcyaüx mungkang nä äluz pinzthum racyux kätex yäm rätawx.

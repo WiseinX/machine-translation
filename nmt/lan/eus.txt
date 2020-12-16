@@ -1,674 +1,674 @@
-Run!	Korri!	CC-BY 2.0 (France) Attribution: tatoeba.org #906328 (papabear) & #8937839 (basaundi)
-Jump.	Salto egin.	CC-BY 2.0 (France) Attribution: tatoeba.org #631038 (Shishir) & #5999984 (ireneg45D)
-Stop!	Geldi!	CC-BY 2.0 (France) Attribution: tatoeba.org #448320 (FeuDRenais) & #8937830 (basaundi)
-Attack!	Eraso!	CC-BY 2.0 (France) Attribution: tatoeba.org #1972610 (CK) & #8937855 (basaundi)
-Really?	Ez da izango!	CC-BY 2.0 (France) Attribution: tatoeba.org #373216 (kotobaboke) & #4838212 (basaundi)
-Is it bad?	Txarra al da?	CC-BY 2.0 (France) Attribution: tatoeba.org #1665 (CK) & #3802041 (basaundi)
-It's cold.	Hotza dago.	CC-BY 2.0 (France) Attribution: tatoeba.org #1813 (CK) & #412584 (jmli)
-Of course!	Noski!	CC-BY 2.0 (France) Attribution: tatoeba.org #433730 (CK) & #3815769 (basaundi)
-Forgive me.	Barkatu	CC-BY 2.0 (France) Attribution: tatoeba.org #1349974 (sacredceltic) & #6561137 (JUNE_EUSKARA1)
-I love golf.	Golfak liluratu egiten nau.	CC-BY 2.0 (France) Attribution: tatoeba.org #798254 (luna_moonsilver) & #413113 (jmli)
-I want more.	Gehiago nahi dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #521096 (CK) & #3800249 (basaundi)
-Keep trying.	Probatzen jarraitu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1629911 (Spamster) & #5999996 (ireneg45D)
-Unbelievable!	Sinestezina!	CC-BY 2.0 (France) Attribution: tatoeba.org #268828 (CM) & #8937871 (basaundi)
-He's not sick.	Ez dago gaixorik.	CC-BY 2.0 (France) Attribution: tatoeba.org #1307446 (CK) & #6000875 (victor45d)
-I love my mom.	Gure ama maite dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #2011109 (Shishir) & #2011237 (gorkaazk)
-It is raining.	Euria ari du.	CC-BY 2.0 (France) Attribution: tatoeba.org #1862 (CK) & #412585 (jmli)
-They're awake.	Esna daude.	CC-BY 2.0 (France) Attribution: tatoeba.org #2242971 (CK) & #3800358 (basaundi)
-Here's the car.	Hemen da autoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #8035306 (CK) & #4579499 (basaundi)
-I'm an old man.	Agure bat naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #1306715 (CK) & #6000847 (victor45d)
-I'm bored here.	Aspertuta nago hemen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839466 (CK) & #6839659 (Anderokariz)
-Is he a doctor?	Doktorea da?	CC-BY 2.0 (France) Attribution: tatoeba.org #293616 (adjusting) & #932520 (gorkaazk)
-Tom's Canadian.	Tom Kanadarra da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2107460 (CK) & #6000858 (haizea45)
-Do you remember?	Gogoratzen al zara?	CC-BY 2.0 (France) Attribution: tatoeba.org #21678 (CK) & #412658 (jmli)
-He likes tigers.	Tigreak gustoko ditu.	CC-BY 2.0 (France) Attribution: tatoeba.org #563720 (CK) & #627669 (Txopi)
-Here is the car.	Hemen da autoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #2428492 (CC) & #4579499 (basaundi)
-I have two cats.	Bi katu dauzkat.	CC-BY 2.0 (France) Attribution: tatoeba.org #2412739 (fjrjdk) & #3081427 (Laquin)
-I need you, Tom.	Zu beher zaitut, Tom.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839471 (CK) & #6839661 (Anderokariz)
-I read a letter.	Eskutitz bat irakurtzen ari naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #2011083 (Eldad) & #2011238 (gorkaazk)
-It's a surprise.	Sorpresa bat da.	CC-BY 2.0 (France) Attribution: tatoeba.org #1567 (CK) & #412583 (jmli)
-This won't hurt.	Hau ez du minik emango.	CC-BY 2.0 (France) Attribution: tatoeba.org #6076796 (OsoHombre) & #6077328 (Mireen10)
-Tom can't dance.	Tom ezin du dantzarik egin.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839475 (CK) & #6839665 (Anderokariz)
-Tom chose a hat.	Tom kapela bat aukeratu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839486 (CK) & #6839648 (Anderokariz)
-Turn on the gas.	Gasa piztu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2269020 (_undertoad) & #6891539 (Quibia)
-He is not stupid.	Ez da tentela.	CC-BY 2.0 (France) Attribution: tatoeba.org #302395 (CK) & #1204416 (Txopi)
-How can Tom help?	Nola lagundu ahal du Tomek?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091170 (CK) & #6092073 (2013ik65)
-I agree with him.	Harekin bat nator.	CC-BY 2.0 (France) Attribution: tatoeba.org #260397 (CK) & #3800310 (basaundi)
-I have Tom's key.	Tomen giltza daukat.	CC-BY 2.0 (France) Attribution: tatoeba.org #5202654 (raggione) & #5203633 (tohrukun)
-I have to fix it.	Hori konpondu behar dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781983 (CK) & #6782269 (Aitzol_Altuna)
-The train's late.	Trena berandu doa.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121031 (mailohilohi) & #6121466 (Amaia45d)
-This is my money.	Hau nire dirua da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121196 (mailohilohi) & #6121435 (Amaia45d)
-Tom dressed well.	Tomek ondo jantzi zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091174 (CK) & #6092074 (2013ik65)
-Tom dresses well.	Tomek ondo janzten da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091176 (CK) & #6092076 (2013ik65)
-Tom is fixing it.	Tom konpontzen hari du.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839488 (CK) & #6839655 (Anderokariz)
-Where is my comb?	Nire orrazia non da?	CC-BY 2.0 (France) Attribution: tatoeba.org #3795266 (popball) & #3800252 (basaundi)
-Will Tom do that?	Tomek hori egingo zuen?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091182 (CK) & #6092078 (2013ik65)
-French isn't easy.	Frantsesa ez da erraza.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091185 (CK) & #6092080 (2013ik65)
-He is intelligent.	Inteligentea da.	CC-BY 2.0 (France) Attribution: tatoeba.org #389495 (CK) & #895082 (gorkaazk)
-I sat on the sofa.	Sofan eseri nintzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #3815117 (Jenn) & #3815755 (basaundi)
-I will choose one.	Bat hautatuko dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #3793674 (CK) & #3800294 (basaundi)
-I won first place.	Lehen postua irabazi nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #5165298 (tabular) & #5165465 (gorkaazk)
-Is this important?	Importantea da hau?	CC-BY 2.0 (France) Attribution: tatoeba.org #6839474 (CK) & #6839664 (Anderokariz)
-It's our pleasure.	Pozten gara.	CC-BY 2.0 (France) Attribution: tatoeba.org #21307 (CM) & #412655 (jmli)
-May I leave early?	Goiz atera ahal naiz?	CC-BY 2.0 (France) Attribution: tatoeba.org #6839485 (CK) & #6839646 (Anderokariz)
-Please correct it.	Zuzendu, mesedez.	CC-BY 2.0 (France) Attribution: tatoeba.org #987484 (CK) & #5183505 (gorkaazk)
-She hates running.	Korrika egitea ez du batere gogoko.	CC-BY 2.0 (France) Attribution: tatoeba.org #315547 (CK) & #915549 (gorkaazk)
-That's a big fish.	Hori arrain handia da.	CC-BY 2.0 (France) Attribution: tatoeba.org #5375014 (CK) & #6088911 (Gonzalo45D)
-The book is small.	Liburua txikia da.	CC-BY 2.0 (France) Attribution: tatoeba.org #660498 (Zifre) & #660513 (Txopi)
-They were in love.	Maitemindurik zeuden.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648426 (CK) & #3069131 (gorkaazk)
-They were on sale.	Salgai zeuden.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648425 (CK) & #3069128 (gorkaazk)
-They weren't busy.	Ez ziren lanpeturik.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648424 (CK) & #3069127 (gorkaazk)
-This has been fun.	Jostagarria izan da hau.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648423 (CK) & #3069125 (gorkaazk)
-This is Tom's car.	Hau Tom-en autoa da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648416 (CK) & #3069111 (gorkaazk)
-This is a problem.	Hau problema bat da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648422 (CK) & #3069120 (gorkaazk)
-This is a tragedy.	Hau trajedia da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648421 (CK) & #3069119 (gorkaazk)
-This is for keeps.	Hau betiko da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648420 (CK) & #3069118 (gorkaazk)
-This is my family.	Hau gure familia da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648419 (CK) & #3069114 (gorkaazk)
-This is our fault.	Hori gure errua da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648418 (CK) & #3069113 (gorkaazk)
-This is our house.	Hauxe da gure etxea.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648417 (CK) & #3069112 (gorkaazk)
-This is your stop.	Hau zure geldialdia da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648415 (CK) & #3069109 (gorkaazk)
-This isn't a trap.	Hau ez da tranpa.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648414 (CK) & #3069106 (gorkaazk)
-This isn't for me.	Hau ez da niretzat.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648413 (CK) & #3069101 (gorkaazk)
-This isn't my car.	Hau ez da nire autoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648412 (CK) & #3069099 (gorkaazk)
-This room is cold.	Gela hau hotza da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648411 (CK) & #3069098 (gorkaazk)
-This was my fault.	Ene errua izan da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648410 (CK) & #3069097 (gorkaazk)
-Time's on my side.	Denbora gure alde.	CC-BY 2.0 (France) Attribution: tatoeba.org #2648409 (CK) & #3069095 (gorkaazk)
-Tom didn't scream.	Tomek ez zuen oihukatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091186 (CK) & #6092081 (2013ik65)
-Who made the doll?	Nork egin zuen panpina?	CC-BY 2.0 (France) Attribution: tatoeba.org #40454 (CK) & #4579455 (basaundi)
-You may park here.	Hemen aparkatu dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #61734 (CK) & #627855 (Txopi)
-Aren't you worried?	Kezkatuta ez al zaude?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091213 (CK) & #6092104 (2013ik65)
-Does he have money?	Ba al du dirurik?	CC-BY 2.0 (France) Attribution: tatoeba.org #1877039 (Spamster) & #4238255 (gorkaazk)
-Dogs are like that.	Txakurrak horrekoak dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839487 (CK) & #6839654 (Anderokariz)
-I coughed up blood.	Odola eztul nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #279380 (CK) & #6609742 (KamilaTymchuk)
-I looked around me.	Nire inguruan begiratu nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #321857 (CK) & #915486 (gorkaazk)
-I lost my passport.	Nire pasaportea galdu nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091215 (CK) & #6092109 (2013ik65)
-I'm Mary's husband.	Mary-ren senarra naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091217 (CK) & #6092111 (2013ik65)
-I'm very forgetful.	Oso ahazkorra naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #2850002 (CK) & #6328904 (Laquin)
-I'm very forgetful.	Ahazkorra naiz oso.	CC-BY 2.0 (France) Attribution: tatoeba.org #2850002 (CK) & #6328905 (Laquin)
-It's not important.	Ez du garrantzirik.	CC-BY 2.0 (France) Attribution: tatoeba.org #2322 (CK) & #412587 (jmli)
-It's very hot here.	Bero asko egiten du hemen.	CC-BY 2.0 (France) Attribution: tatoeba.org #61668 (CK) & #659426 (Txopi)
-Tom does that, too.	Tomek hori egiten du ere bai	CC-BY 2.0 (France) Attribution: tatoeba.org #6091190 (CK) & #6092083 (2013ik65)
-What are you doing?	Zer ari zara egiten?	CC-BY 2.0 (France) Attribution: tatoeba.org #16492 (CK) & #412637 (jmli)
-What is that sound?	Zer da soinu hori?	CC-BY 2.0 (France) Attribution: tatoeba.org #2647808 (CK) & #6000897 (Gonzalo45D)
-Aren't you Canadian?	Kanadarra ez al zara?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091219 (CK) & #6092113 (2013ik65)
-Aren't you a singer?	Abeslaria ez al zara?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091229 (CK) & #6092114 (2013ik65)
-Aren't you finished?	Amaitu ez al duzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091233 (CK) & #6092117 (2013ik65)
-Cyprus is an island.	Zipre uharte bat da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6000123 (Hybrid) & #6000877 (Amaia45d)
-Do you like my hair?	Nire ilea gustatzen zaizu ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123320 (CK) & #6000800 (Natxo45D)
-Give me back my bag.	Emaidazu atzera nire poltsa.	CC-BY 2.0 (France) Attribution: tatoeba.org #689908 (ulyssemc1) & #6788084 (LeireM15)
-I don't like flying.	Ez zait hegan egitea gustatzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781727 (CK) & #6782298 (Aitzol_Altuna)
-I get scared easily.	Oso erraz beldurtzen naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781745 (CK) & #6782290 (Aitzol_Altuna)
-I had fun in Boston.	Bostonen ondo pasatu nuen	CC-BY 2.0 (France) Attribution: tatoeba.org #6781747 (CK) & #6782285 (Aitzol_Altuna)
-I have a dishwasher.	Ontzi-garbitzaile bat dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781977 (CK) & #6782282 (Aitzol_Altuna)
-I have to repair it.	Hori konpondu behar dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781981 (CK) & #6782269 (Aitzol_Altuna)
-I have to stop them.	Gelditu behar diet.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782002 (CK) & #6782261 (Aitzol_Altuna)
-I know Tom did that.	Badakit Tomek hori egin zuela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091198 (CK) & #6092086 (2013ik65)
-I like it very much.	Oso atsegin dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #1647 (brauliobezerra) & #3802025 (basaundi)
-I like snowboarding.	Snowboard-a egitea gustatzen zait.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782004 (CK) & #6782259 (Aitzol_Altuna)
-I play the trombone.	Tronboia jotzen dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782044 (CK) & #6782197 (Idoia63d)
-I saw Tom in Boston.	Tomek Boston ikusi nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091200 (CK) & #6092089 (2013ik65)
-I should thank them.	Eskertu beharko nieke.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782069 (CK) & #6782295 (Anderokariz)
-I won't do it again.	Ez dut berriro egingo.	CC-BY 2.0 (France) Attribution: tatoeba.org #619862 (CK) & #658299 (Txopi)
-I'll tell the truth.	Egia esango dut	CC-BY 2.0 (France) Attribution: tatoeba.org #6782071 (CK) & #6782196 (Idoia63d)
-I'll tell the truth.	Egia esango dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782071 (CK) & #6782237 (Aitzol_Altuna)
-I'll try to find it.	Bilatzen saiatuko naiz	CC-BY 2.0 (France) Attribution: tatoeba.org #6782087 (CK) & #6782187 (Idoia63d)
-I'll try to find it.	Aurkitzen saiatuko naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782087 (CK) & #6782236 (Aitzol_Altuna)
-I'm not always late.	Ez naiz beti berandu iristen.	CC-BY 2.0 (France) Attribution: tatoeba.org #5958477 (CK) & #6891554 (Quibia)
-I'm sick of burgers.	Azkenean Tom garaitu nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782089 (CK) & #6782273 (Anderokariz)
-I've lost my wallet.	Diru-zorroa galdu dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #2674574 (Gulo_Luscus) & #3802042 (basaundi)
-Is it far from here?	Hemendik urrun al dago?	CC-BY 2.0 (France) Attribution: tatoeba.org #1651 (CK) & #3802028 (basaundi)
-It's a big decision.	Erabaki garrantzitsua da.	CC-BY 2.0 (France) Attribution: tatoeba.org #3315200 (CK) & #6000830 (Gonzalo45D)
-It's very cold here.	Hotz asko egiten du hemen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2713677 (CK) & #659427 (Txopi)
-Listen to the birds.	Entzun txoriak.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121048 (mailohilohi) & #6121461 (Amaia45d)
-My notebook is pink.	Nire kuadernoa ez de arrosa.	CC-BY 2.0 (France) Attribution: tatoeba.org #1763152 (CK) & #6000874 (ugaldexabi9)
-She has convulsions.	Konbultsioak zeuzkan.	CC-BY 2.0 (France) Attribution: tatoeba.org #34818 (CS) & #952326 (Txopi)
-This is Tom's house.	Hau Tomek etxea da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091202 (CK) & #6092090 (2013ik65)
-This was my mistake.	Hau nire errua izan da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2647574 (CK) & #3800250 (basaundi)
-Tom did that for me.	Tomek hori egin zuen nigatik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091204 (CK) & #6092092 (2013ik65)
-Tom drove all night.	Tomek gau osoa gidatu uen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091206 (CK) & #6092094 (2013ik65)
-Tom is always tired.	Tomek beti nekatuta dago.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091210 (CK) & #6092100 (2013ik65)
-Tom said I did that.	Tomek hori egin nuela esan zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091212 (CK) & #6092101 (2013ik65)
-Tom saved our lives.	Tomek gure bizitzak salbatu zituen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091214 (CK) & #6092107 (2013ik65)
-We're among friends.	Lagunen artean gaude.	CC-BY 2.0 (France) Attribution: tatoeba.org #2240808 (CK) & #6000802 (haizea45)
-What should I bring?	Zer eraman behar dut?	CC-BY 2.0 (France) Attribution: tatoeba.org #24692 (CK) & #412673 (jmli)
-When will it happen?	Noiz gertatuko da?	CC-BY 2.0 (France) Attribution: tatoeba.org #2892743 (CK) & #3800290 (basaundi)
-Where are you going?	Nora zoaz?	CC-BY 2.0 (France) Attribution: tatoeba.org #416367 (phrasemix) & #6813417 (Anne_53D_)
-Where's Tom's watch?	Non dago Tom-en erlojua?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781726 (CK) & #6782300 (Aitzol_Altuna)
-Who's Tom afraid of?	Zertaz da Tom beldur?	CC-BY 2.0 (France) Attribution: tatoeba.org #6904406 (CK) & #6905453 (BegoArana)
-Why is Tom standing?	Zergatik dago Tom altxatuta?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781730 (CK) & #6782296 (Aitzol_Altuna)
-Why isn't Tom tired?	Zergatik ez dago nekatuta Tom?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781732 (CK) & #6782294 (Aitzol_Altuna)
-Would you like some?	Apur bat nahiko zenuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123317 (CK) & #6000796 (Natxo45D)
-Are those Tom's sons?	Horiek dira Tom-en semeak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781744 (CK) & #6782292 (Aitzol_Altuna)
-Did Tom do that well?	Tomek hori ondo egin ahal zuen?	CC-BY 2.0 (France) Attribution: tatoeba.org #6091218 (CK) & #6092112 (2013ik65)
-Did the car look old?	Autoa zaharra al zirudien?	CC-BY 2.0 (France) Attribution: tatoeba.org #46831 (CK) & #4579240 (basaundi)
-Do you like football?	Futbola gustatzen zaizu ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123326 (CK) & #6000817 (Natxo45D)
-Do you not like them?	Ez dituzu gustuko ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123323 (CK) & #6000813 (Natxo45D)
-Don't go there alone.	Ez zaitez joan bakarrik.	CC-BY 2.0 (France) Attribution: tatoeba.org #5144056 (Airvian) & #6891515 (Quibia)
-Get out of the house.	Etxetik irten zaitez	CC-BY 2.0 (France) Attribution: tatoeba.org #2891202 (CK) & #6886226 (Quibia)
-I got a B in physics.	B bat daukat fisikan.	CC-BY 2.0 (France) Attribution: tatoeba.org #1933294 (CK) & #6891566 (Quibia)
-I think I understood.	Uste dut ulertu nuela	CC-BY 2.0 (France) Attribution: tatoeba.org #716142 (papabear) & #6768356 (maialen45D)
-I wake up very early.	Oso goiz jaikitzen naiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #1807309 (Eldad) & #3800234 (basaundi)
-I'm Tom's new lawyer.	Tom-en abokatu berria naiz	CC-BY 2.0 (France) Attribution: tatoeba.org #6781978 (CK) & #6782274 (Aitzol_Altuna)
-This book is smaller.	Liburu hau txikiagoa da.	CC-BY 2.0 (France) Attribution: tatoeba.org #57063 (CK) & #896629 (gorkaazk)
-Tom isn't doing that.	Tomek ez dago hori egiten.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091234 (CK) & #6092118 (2013ik65)
-Tom just kept eating.	Tomek jaten jarraitu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126838 (CK) & #6126875 (Mireen10)
-Tom was up all night.	Tom gau guztia altxatuta eman zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2646821 (CK) & #6782266 (Aitzol_Altuna)
-Would you like a dog?	Txakur bat nahiko zenuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123322 (CK) & #6000809 (Natxo45D)
-Would you like a job?	Lan bat nahiko zenuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123321 (CK) & #6000807 (Natxo45D)
-You should get ready.	Prestatu beharko zinateke.	CC-BY 2.0 (France) Attribution: tatoeba.org #6056653 (mailohilohi) & #6058140 (victor45d)
-Do you know those men?	Gizon horiek ezagutzen dituzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079134 (CK) & #6080529 (2013ik65)
-Do you like your work?	Zure lana atsegin al duzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #3815121 (Jenn) & #3815754 (basaundi)
-Don't forget about us!	Ez ahaztu gurekin gero!	CC-BY 2.0 (France) Attribution: tatoeba.org #2216 (CK) & #412586 (jmli)
-He broke his left arm.	Bere ezker besoa hautsi zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #296680 (CK) & #895092 (gorkaazk)
-He fell off the horse.	Zalditik jausi zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #302383 (CK) & #1204410 (Txopi)
-He looks like a horse.	Zaldi baten antza dauka.	CC-BY 2.0 (France) Attribution: tatoeba.org #302387 (CK) & #1204411 (Txopi)
-I know where you live.	Badakit non bizi zaren.	CC-BY 2.0 (France) Attribution: tatoeba.org #252673 (CK) & #915535 (gorkaazk)
-I sent Tom some money.	Diru pixka bat bidali nion Tomiri	CC-BY 2.0 (France) Attribution: tatoeba.org #6782043 (CK) & #6782304 (Anderokariz)
-I was deceived by him.	Hark engainatu ninduen.	CC-BY 2.0 (France) Attribution: tatoeba.org #72042 (CK) & #6000799 (Mikel45D)
-I've worked very hard.	Oso gogor egin dut lan	CC-BY 2.0 (France) Attribution: tatoeba.org #2396217 (CK) & #6000837 (ugaldexabi9)
-Please copy this page.	Orri hau kopiatu, mesedez	CC-BY 2.0 (France) Attribution: tatoeba.org #60551 (CK) & #6616660 (Maria64D)
-The library was empty.	Liburutegia utzik zegoen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6088442 (OsoHombre) & #6089006 (2013ik65)
-Tom is a student, too.	Tomek ikaslea da ere bai.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091230 (CK) & #6092116 (2013ik65)
-Tom is doing his work.	Tom bere lana egiten ari da.	CC-BY 2.0 (France) Attribution: tatoeba.org #3402602 (CK) & #6000856 (Gonzalo45D)
-Tom just kept singing.	Tomek abesten jarraitu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126837 (CK) & #6126874 (Mireen10)
-Tom just kept talking.	Tomek hitz egiten jarraitu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126836 (CK) & #6126872 (Mireen10)
-Tom, are you out here?	Tom, hor kanpoan zaude?	CC-BY 2.0 (France) Attribution: tatoeba.org #6838895 (CK) & #6839678 (Anderokariz)
-Tomorrow is a holiday.	Bihar jaieguna da.	CC-BY 2.0 (France) Attribution: tatoeba.org #323278 (CK) & #4579239 (basaundi)
-Where are the showers?	Dutxak non dira?	CC-BY 2.0 (France) Attribution: tatoeba.org #1663 (CK) & #3802039 (basaundi)
-Would you like coffee?	Kafea nahiko zenuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123328 (CK) & #6000822 (Natxo45D)
-You have a nice house.	Etxe polita daukazu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6120678 (CK) & #6121470 (Amaia45d)
-Are you going with Tom?	Tomerekin zoaz?	CC-BY 2.0 (France) Attribution: tatoeba.org #6838889 (CK) & #6839677 (Anderokariz)
-Does the bus stop here?	Autobusa hemen gelditzen al da?	CC-BY 2.0 (France) Attribution: tatoeba.org #3798934 (Eldad) & #3800221 (basaundi)
-He handles horses well.	Zaldiekin ondo konpontzen da.	CC-BY 2.0 (France) Attribution: tatoeba.org #302388 (CK) & #1204413 (Txopi)
-He won the race easily.	Lasterketa aise irabazi zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #290563 (CK) & #4579471 (basaundi)
-I couldn't wake Tom up.	Ezin izan nuen Tom altxatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782070 (CK) & #6782240 (Aitzol_Altuna)
-I couldn't wake Tom up.	Ezin izan nuen Tom esnatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782070 (CK) & #6782299 (Anderokariz)
-I don't speak Japanese.	Ez dut japoniera hitz egiten.	CC-BY 2.0 (France) Attribution: tatoeba.org #1482 (CK) & #412582 (jmli)
-I finally defeated Tom.	Azkenean Tom-i irabazi diot	CC-BY 2.0 (France) Attribution: tatoeba.org #6782086 (CK) & #6782239 (Aitzol_Altuna)
-I finally defeated Tom.	Azkenean Tom garaitu nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782086 (CK) & #6782273 (Anderokariz)
-I had a special ticket.	Ticket berezi bat daukat.	CC-BY 2.0 (France) Attribution: tatoeba.org #259736 (CK) & #6891526 (Quibia)
-I know Tom helped Mary.	Badakit Tom Mary lagundu zuela	CC-BY 2.0 (France) Attribution: tatoeba.org #6782088 (CK) & #6782191 (Idoia63d)
-I know Tom helped Mary.	Badakit Tom-ek Mary lagundu zuela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782088 (CK) & #6782235 (Aitzol_Altuna)
-I want to see a doctor.	Mediku bat ikusi nahi dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6057739 (sergiomelo) & #6058118 (victor45d)
-I'm not angry about it.	Ez nago horregatik haserre.	CC-BY 2.0 (France) Attribution: tatoeba.org #5186986 (CK) & #5208241 (gorkaazk)
-It was extremely weird.	Oso arraroa izan zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #3539512 (Hybrid) & #6891550 (Quibia)
-Let's go to the picnic.	Goazen piknikera.	CC-BY 2.0 (France) Attribution: tatoeba.org #34811 (CK) & #952318 (Txopi)
-That was cooked in oil.	Koipean prestatu zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #42051 (CK) & #895081 (gorkaazk)
-They can speak Spanish.	Gaztelaniaz badakite.	CC-BY 2.0 (France) Attribution: tatoeba.org #1173691 (CK) & #4579249 (basaundi)
-They can speak Spanish.	Espainieraz badakite.	CC-BY 2.0 (France) Attribution: tatoeba.org #1173691 (CK) & #4579250 (basaundi)
-This is a big decision.	Hau erabaki garrantzitsua da.	CC-BY 2.0 (France) Attribution: tatoeba.org #3315199 (CK) & #6000826 (Gonzalo45D)
-What inspires you most?	Zerk inspiratzen zaitu gehien ?	CC-BY 2.0 (France) Attribution: tatoeba.org #6879984 (DanielDaniel) & #6880216 (Asierkami7)
-Where are the scissors?	Non daude artaziak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6880009 (batsheep) & #6880211 (Asierkami7)
-Would you like to talk?	Hitz egitea gustatuko litzaizuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123334 (CK) & #6000828 (Natxo45D)
-Did you come here alone?	Bakarrik etorri zara?	CC-BY 2.0 (France) Attribution: tatoeba.org #27660 (CK) & #6731821 (Alvaroerice6)
-Don't forget the ticket.	Ez ahaztu txartelik.	CC-BY 2.0 (France) Attribution: tatoeba.org #2424 (Dorenda) & #412589 (jmli)
-He will visit his uncle.	Bere osaba bisitatuko du.	CC-BY 2.0 (France) Attribution: tatoeba.org #299375 (CK) & #6000814 (victor45d)
-His name is known to me.	Bere izena ezagutzen dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #530592 (FeuDRenais) & #627520 (Txopi)
-It's not like you think.	Ez da zuk pentsatzen duzun modukoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #3123340 (CK) & #6000841 (Natxo45D)
-That's how Tom likes it.	Horrela gustazen zaio Tom-i.	CC-BY 2.0 (France) Attribution: tatoeba.org #3123342 (CK) & #6000848 (Natxo45D)
-They forgot my birthday.	Nire urtebetetzea ahaztu zuten.	CC-BY 2.0 (France) Attribution: tatoeba.org #3814835 (raggione) & #3815761 (basaundi)
-Tom didn't get very far.	Tom ez zen oso urrun joan.	CC-BY 2.0 (France) Attribution: tatoeba.org #2279342 (CK) & #6115194 (Mireen10)
-Tom isn't able to do it.	Tomek ezin du hau egin.	CC-BY 2.0 (France) Attribution: tatoeba.org #3439550 (CK) & #6000774 (haizea45)
-Tom isn't able to do it.	Tomek ezin du egin.	CC-BY 2.0 (France) Attribution: tatoeba.org #3439550 (CK) & #6000775 (haizea45)
-Tom likes country music.	Tomek country musika gustuko du.	CC-BY 2.0 (France) Attribution: tatoeba.org #3123343 (CK) & #6000852 (Natxo45D)
-Tom lives with his aunt.	Tom bere izebarekin bizi da.	CC-BY 2.0 (France) Attribution: tatoeba.org #4751212 (Hybrid) & #6000786 (Natxo45D)
-Tom looks like a monkey.	Tom tximino bat dirudi.	CC-BY 2.0 (France) Attribution: tatoeba.org #3123345 (CK) & #6000855 (Natxo45D)
-Tom says he sings tenor.	Tomek deritzo tenor abesten duela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6138119 (CK) & #6138290 (2013ik65)
-What do chimpanzees eat?	Zer jaten dute tximinoak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6782036 (Eccles17) & #6782199 (Idoia63d)
-What do chimpanzees eat?	Zer jaten dute txinpanzeek?	CC-BY 2.0 (France) Attribution: tatoeba.org #6782036 (Eccles17) & #6782244 (Aitzol_Altuna)
-What is your profession?	Zein da zure lanbidea?	CC-BY 2.0 (France) Attribution: tatoeba.org #6000303 (ulymarrero) & #6000785 (Amaia45d)
-Who wants hot chocolate?	Nork nahi du txokolate beroa?	CC-BY 2.0 (France) Attribution: tatoeba.org #451728 (FeuDRenais) & #896625 (gorkaazk)
-Would you like anything?	Gauzaren bat nahiko zenuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123339 (CK) & #6000835 (Natxo45D)
-Would you like some tea?	Té apur bat nahiko zenuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123338 (CK) & #6000832 (Natxo45D)
-Are those Tom's children?	Haiek dira Tom-en semeak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6782096 (sabretou) & #6782221 (Aitzol_Altuna)
-Are those Tom's children?	Dira horiek Tom-en umeak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6782096 (sabretou) & #6782291 (Anderokariz)
-Do you know who did that?	Badakizu nork egin zuen hori?	CC-BY 2.0 (France) Attribution: tatoeba.org #6076475 (CK) & #6077411 (Mireen10)
-Do you like this perfume?	Perfume hau gustatzen zaizu ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123350 (CK) & #6000867 (Natxo45D)
-Do you like what you see?	Ikusten duzuna gustuko duzu ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123349 (CK) & #6000863 (Natxo45D)
-Do you want pizza or not?	Pizza nahi duzu ala ez?	CC-BY 2.0 (France) Attribution: tatoeba.org #6731765 (Hybrid) & #6731835 (Alvaroerice6)
-Do your parents like Tom?	Zure gurasoak gustuko ahal dute Tom?	CC-BY 2.0 (France) Attribution: tatoeba.org #6879333 (CK) & #6880225 (Asierkami7)
-Doing that was difficult.	Hori egitea zaila zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104629 (CK) & #6104972 (Alejo45D)
-How do you like your tea?	Nola gustatzen zaizu tea ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123347 (CK) & #6000859 (Natxo45D)
-I don't want to help you.	Ez dizut lagundu nahi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2361559 (CK) & #3815752 (basaundi)
-I forgot to feed the dog.	Txakurra elikatzeaz ahaztu nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126686 (CK) & #6126920 (Mireen10)
-I have a pain in my neck.	Lepoko mina daukat.	CC-BY 2.0 (France) Attribution: tatoeba.org #1879931 (CK) & #6891545 (Quibia)
-I think it's time to eat.	Jateko ordua dela uste dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126682 (CK) & #6126919 (Mireen10)
-I used to try to do that.	Ni hori egitea saiatzen nintzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126680 (CK) & #6126918 (Mireen10)
-I'm glad to see you back.	Pozik nago bueltatu zarelako.	CC-BY 2.0 (France) Attribution: tatoeba.org #2441 (CK) & #412592 (jmli)
-I'm going to wash my car.	Nire autoa garbituko dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #1306759 (CK) & #6000849 (victor45d)
-I'm sure that isn't true.	Seguru nago hori gezurra dela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104625 (CK) & #6104971 (Alejo45D)
-I've never been so tired.	Ez naiz inoiz hain nekaturik egon.	CC-BY 2.0 (France) Attribution: tatoeba.org #1307279 (CK) & #6000870 (victor45d)
-Is there an app for that?	Ba dago horretarako aplikaziorik?	CC-BY 2.0 (France) Attribution: tatoeba.org #1306945 (CK) & #6000857 (victor45d)
-It's really cold in here.	Hotz handia egiten du hemen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104621 (CK) & #6104970 (Alejo45D)
-Let's go to the aquarium.	Goazen aquariumera	CC-BY 2.0 (France) Attribution: tatoeba.org #6104615 (CK) & #6104969 (Alejo45D)
-Mary is my type of woman.	Mary nire gustuko emakumea da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126676 (CK) & #6126915 (Mireen10)
-My father builds bridges.	Nire aitak zubiak eraikitzen ditu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091584 (carlosalberto) & #6092050 (2013ik65)
-Please lend me your book.	Utz iezadak, mesedez, hire liburua.	CC-BY 2.0 (France) Attribution: tatoeba.org #70388 (CK) & #5879842 (enekutxi)
-Please lend me your book.	Utz iezadazu, mesedez, zure liburua.	CC-BY 2.0 (France) Attribution: tatoeba.org #70388 (CK) & #5879844 (enekutxi)
-That does not make sense.	Horrek ez du zentzurik.	CC-BY 2.0 (France) Attribution: tatoeba.org #3020170 (CM) & #6000787 (Gonzalo45D)
-The cat was on the table.	Katua mahai gainean zegoen.	CC-BY 2.0 (France) Attribution: tatoeba.org #896150 (pauldhunt) & #927714 (gorkaazk)
-The rebels were executed.	Errebeldeak exekutatuta izan ziren.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121173 (mailohilohi) & #6122428 (Mireen10)
-These things aren't mine!	Gauza hauek ez dira nireak!	CC-BY 2.0 (France) Attribution: tatoeba.org #1652 (CK) & #3802029 (basaundi)
-Tom doesn't like to lose.	Tom-i ez zaio galtzea gustatzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #3123351 (CK) & #6000869 (Natxo45D)
-We don't really know Tom.	Ez dugu Tom guztiz ezagutzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2281810 (CK) & #6891568 (Quibia)
-Who did you ask for help?	Nori eskatu zenion laguntza?	CC-BY 2.0 (France) Attribution: tatoeba.org #6126674 (CK) & #6126909 (Mireen10)
-Who's coming to the show?	Nor etorriko da ikuskizunera?	CC-BY 2.0 (France) Attribution: tatoeba.org #1273201 (CM) & #6000900 (Gonzalo45D)
-Aren't you three brothers?	Ez zarete hiru neba-arreba?	CC-BY 2.0 (France) Attribution: tatoeba.org #6104563 (CK) & #6104956 (Mireen10)
-Do you like to drink beer?	Garagardoa edatea gustuko duzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6736528 (Eccles17) & #6736694 (Idoia63d)
-Does Tom like his parents?	Gustuko ahal ditu Tomek bere gurasoak ?	CC-BY 2.0 (France) Attribution: tatoeba.org #6877382 (CK) & #6880228 (Asierkami7)
-Doing that was a bad idea.	Hori egitea idea txarra izan zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104561 (CK) & #6104954 (Mireen10)
-Doing that was a bad idea.	Hori egitea ideia txarra zen	CC-BY 2.0 (France) Attribution: tatoeba.org #6104561 (CK) & #6104959 (Alejo45D)
-Don't touch the wet paint.	Ez ukitu pintura freskoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #279381 (CK) & #6609744 (KamilaTymchuk)
-Give me three more apples.	Emaidazu hiru sagar gehiago.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831341 (CK) & #6831798 (LeireM15)
-I'll stay here until 2:30.	Hemen geratuko naiz 2:30-ra arte.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839200 (CK) & #6839676 (Anderokariz)
-It rains a lot in Okinawa.	Euri asko egiten du Okinawan.	CC-BY 2.0 (France) Attribution: tatoeba.org #516613 (kebukebu) & #5166422 (gorkaazk)
-Maybe Tom thinks I'm dead.	Beharbada, Tomek hilda nagoela pentsatzen du.	CC-BY 2.0 (France) Attribution: tatoeba.org #5375013 (CK) & #6088909 (Gonzalo45D)
-My mom still calls me Tom.	Nire amak oraindik Tom deitzen nau .	CC-BY 2.0 (France) Attribution: tatoeba.org #5375021 (CK) & #6088923 (Gonzalo45D)
-Thank you for your advice.	Eskerrik asko gomendioagatik.	CC-BY 2.0 (France) Attribution: tatoeba.org #71676 (CK) & #3815759 (basaundi)
-The bird has not returned.	Txoria ez da bueltatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1166800 (CM) & #6000896 (Naiara45D)
-This is my favorite shirt.	Hau nire kamiseta gogokoena da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831325 (CK) & #6831803 (iraidedorado)
-Tom found something shiny.	Tom zerbait disdiratsu aurkitu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782031 (Eccles17) & #6782245 (Aitzol_Altuna)
-Tom isn't in jail anymore.	Tom ez da kartxean gehiagorik egongo.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126827 (CK) & #6126876 (Mireen10)
-Tom quite often gets sick.	Oso ohikoa da Tom gaixorik jartzea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781692 (CK) & #6782248 (Anderokariz)
-What did you think I'd do?	Zer pentsatzen zenuen nik egingo nukeela?	CC-BY 2.0 (France) Attribution: tatoeba.org #3395882 (CK) & #6831759 (zaloaz)
-Who did Tom say was lying?	Nork esan zuen Tomek gezurra esaten ari zela?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079153 (CK) & #6080545 (2013ik65)
-Who was Tom swimming with?	Norekin zegoen Tomek igeri egiten?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079149 (CK) & #6080542 (2013ik65)
-Why wasn't Tom here today?	Zergatik Tomek ez zegoen gaur hemen?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079145 (CK) & #6080538 (2013ik65)
-Will you do that with Tom?	Hori egingo zenuke Tomerekin batera?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079143 (CK) & #6080536 (2013ik65)
-Would you like to do that?	Hori egitea gustatuko litzaizuke ?	CC-BY 2.0 (France) Attribution: tatoeba.org #3123352 (CK) & #6000871 (Natxo45D)
-Animals are afraid of fire.	Animaliak suaren beldur dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #280244 (CK) & #8937865 (basaundi)
-Animals are afraid of fire.	Piztiak suaren beldur dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #280244 (CK) & #8937866 (basaundi)
-Can you repair these shoes?	Konpondu diezaizkidazu zapata hauek?	CC-BY 2.0 (France) Attribution: tatoeba.org #434424 (lukaszpp) & #627662 (Txopi)
-Did you know I have a blog?	Bazenekien blog bat daukadala?	CC-BY 2.0 (France) Attribution: tatoeba.org #6121182 (mailohilohi) & #6121443 (Amaia45d)
-Do you still want some tea?	Oraindik ere nahi duzu te pixka bat?	CC-BY 2.0 (France) Attribution: tatoeba.org #6788033 (CK) & #6788146 (iraidedorado)
-Do you still want some tea?	Oraindik nahi duzu te pixka bat?	CC-BY 2.0 (France) Attribution: tatoeba.org #6788033 (CK) & #6788149 (iraidedorado)
-Do you still want some tea?	Jarraitzen duzu tea nahi izaten?	CC-BY 2.0 (France) Attribution: tatoeba.org #6788033 (CK) & #6788154 (zaloaz)
-Does Tom know I can't swim?	Badaki Tomek ezin dudala igeririk egin?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079133 (CK) & #6080528 (2013ik65)
-Does Tom really want to go?	Tomek benetan joan nahi da?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079131 (CK) & #6080527 (2013ik65)
-Does Tom speak French, too?	Tomek frantsesez ere hitz egiten du?	CC-BY 2.0 (France) Attribution: tatoeba.org #6665432 (CK) & #7323315 (gorkaazk)
-He decided to quit smoking.	Erretzeari uztea erabaki zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #291665 (CK) & #659448 (Txopi)
-How many cars does Tom own?	Zenbat kotxeak dauzka Tomek?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079127 (CK) & #6080521 (2013ik65)
-I'd love to dance with you.	Gustura dantzatuko nintzateke zurekin.	CC-BY 2.0 (France) Attribution: tatoeba.org #51314 (CK) & #5183500 (gorkaazk)
-I'm sure Tom could do that.	Seguru nago Tomek hori egin ahal duela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104604 (CK) & #6104968 (Alejo45D)
-I've never seen him before.	Ez dut bera inoiz lehenago ikusi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2396214 (CK) & #6000827 (ugaldexabi9)
-Isn't that skirt too short?	Ez da gona hori motzegia?	CC-BY 2.0 (France) Attribution: tatoeba.org #889780 (CK) & #895065 (gorkaazk)
-It's just your imagination.	Haren imajinazioa besterik ez da.	CC-BY 2.0 (France) Attribution: tatoeba.org #20384 (CK) & #412648 (jmli)
-It's raining cats and dogs.	Mangia jardun.	CC-BY 2.0 (France) Attribution: tatoeba.org #384559 (Dorenda) & #5637210 (enara45)
-Parking isn't allowed here.	Hemen ezin da aparkatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5165799 (CK) & #5165480 (gorkaazk)
-She has two thousand books.	Bi mila liburu dauzka.	CC-BY 2.0 (France) Attribution: tatoeba.org #316062 (CK) & #1204398 (Txopi)
-Thank you for your loyalty.	Eskerrik asko zure leialtasunagatik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831316 (CK) & #6831781 (zaloaz)
-This is just what I wanted.	Hau da justu nahi nuena.	CC-BY 2.0 (France) Attribution: tatoeba.org #55891 (CK) & #6000846 (haizea45)
-Tom did that intentionally.	Tomek hori egin zuen nahigabe.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104602 (CK) & #6104967 (Alejo45D)
-Tom needs to do that today.	Tomek hori egin behar du gaur.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104599 (CK) & #6104966 (Alejo45D)
-Who did Tom go skiing with?	Norekin joan zen Tom-ek eskiatzera.	CC-BY 2.0 (France) Attribution: tatoeba.org #6079123 (CK) & #6080518 (2013ik65)
-You aren't afraid, are you?	Ez daukazu beldurrik, ezta?	CC-BY 2.0 (France) Attribution: tatoeba.org #6788040 (CK) & #6788156 (iraidedorado)
-You aren't afraid, are you?	Zu ez zaude beldurtuta, edo bai?	CC-BY 2.0 (France) Attribution: tatoeba.org #6788040 (CK) & #6788157 (zaloaz)
-You can use the dictionary.	Hiztegia erabili dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6788042 (CK) & #6788153 (iraidedorado)
-You must've measured wrong.	Txarto neurtu duzu, ziur.	CC-BY 2.0 (France) Attribution: tatoeba.org #2892988 (CK) & #3091806 (gorkaazk)
-You need to take your time.	Zure denbora hartu beharko duzu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831314 (CK) & #6831779 (zaloaz)
-Your French is good enough.	Zuk nahiko ondo dakizu frantsesez.	CC-BY 2.0 (France) Attribution: tatoeba.org #2543857 (CK) & #6062101 (gorkaazk)
-Your French is good enough.	Zuk nahiko ondo egiten duzu frantsesez.	CC-BY 2.0 (France) Attribution: tatoeba.org #2543857 (CK) & #6062105 (gorkaazk)
-He doesn't know how to swim.	Ez daki igeri egiten.	CC-BY 2.0 (France) Attribution: tatoeba.org #510265 (minshirui) & #932540 (gorkaazk)
-He may be on the next train.	Hurrengo trenean egon daiteke.	CC-BY 2.0 (France) Attribution: tatoeba.org #298435 (CK) & #660516 (Txopi)
-He's staying with his uncle.	Bere osabarekin geratuko da.	CC-BY 2.0 (France) Attribution: tatoeba.org #299371 (CK) & #6000811 (victor45d)
-How about going on a picnic?	Egingo al dugu piknik bat?	CC-BY 2.0 (France) Attribution: tatoeba.org #34813 (CK) & #952320 (Txopi)
-I haven't seen you for ages.	Ez zaitut aspaldian ikusi.	CC-BY 2.0 (France) Attribution: tatoeba.org #417019 (CK) & #915489 (gorkaazk)
-I know you think I'm stupid.	Badakit tuntuna naizela pentsatzen duzula	CC-BY 2.0 (France) Attribution: tatoeba.org #2376603 (CK) & #6680308 (Maria64D)
-I met your father yesterday.	Zure aitarekin egon nintzen atzo.	CC-BY 2.0 (France) Attribution: tatoeba.org #257766 (CK) & #915532 (gorkaazk)
-I regularly run in the park.	Normalki parkean korrika egiten dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6091539 (carlosalberto) & #6092069 (2013ik65)
-I'm going to brush my teeth.	Garbitu egingo ditut nire hortzak.	CC-BY 2.0 (France) Attribution: tatoeba.org #911243 (papabear) & #6609728 (KamilaTymchuk)
-I've thought a lot about it.	Horri buruz asko pentsatu dut	CC-BY 2.0 (France) Attribution: tatoeba.org #2360403 (CK) & #6768377 (maialen45D)
-No one can move the big box.	Ezin du inork kaxa handia mugitu.	CC-BY 2.0 (France) Attribution: tatoeba.org #276598 (CK) & #627655 (Txopi)
-Tell me all about your trip.	Zure irteerari buruz konta iezaiadazu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121059 (mailohilohi) & #6122489 (Mireen10)
-This is my money, not yours.	Hau nire dirua da, ez zurea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121197 (mailohilohi) & #6121436 (Amaia45d)
-Tom and I did that together.	Tomek eta biok elkarrekin egin genuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104569 (CK) & #6104957 (Mireen10)
-Tom and I did that together.	Tom eta biok hori egin genuen elkar.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104569 (CK) & #6104961 (Alejo45D)
-Tom and Mary are doing that.	Tomek eta Marik hori egiten ari dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #6138147 (CK) & #6138285 (2013ik65)
-Tom has lots of weird ideas.	Tomek ideia arraro asko ditu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126780 (CK) & #6126891 (Mireen10)
-Tom really likes to do that.	Tomek izugarri gustuko du hori egitea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104562 (CK) & #6104955 (Mireen10)
-Tom smiled when he saw Mary.	Mary ikusi ondoren Tomek irribarre egin zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #3737491 (CK) & #4438806 (miren)
-Tom wasn't ready to do that.	Tom ez zegoen prestatuta hori egiteko.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104555 (CK) & #6104953 (Mireen10)
-Tom wasn't ready to do that.	Tomek hori egiteko ez zegoen prest.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104555 (CK) & #6104963 (2013ik65)
-We hope Tom doesn't do that.	Espero dugu tom ez egitea hori	CC-BY 2.0 (France) Attribution: tatoeba.org #6104551 (CK) & #6104958 (Alejo45D)
-We hope Tom doesn't do that.	Espero dugu Tomek hori ez egitea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6104551 (CK) & #6104960 (2013ik65)
-What are your working hours?	Zein da zure lanordua?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831304 (CK) & #6831775 (zaloaz)
-Who is your favorite author?	Nor da gogokoen duzun egilea?	CC-BY 2.0 (France) Attribution: tatoeba.org #70681 (CK) & #659473 (Txopi)
-Do you know where the zoo is?	Ba al dakizu non den zooa?	CC-BY 2.0 (France) Attribution: tatoeba.org #3793450 (Seael) & #3800297 (basaundi)
-He had a big box in his arms.	Kaxa handi bat zeukan bere besoetan.	CC-BY 2.0 (France) Attribution: tatoeba.org #304707 (CK) & #627657 (Txopi)
-He ran away with the diamond.	Diamantearekin ihes egin du.	CC-BY 2.0 (France) Attribution: tatoeba.org #290503 (CK) & #6000854 (haizea45)
-I ordered a book from London.	Londresetik liburua eskatuko dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #29313 (CK) & #927710 (gorkaazk)
-I will get in touch with you.	Harremanetan jarriko natzaizu.	CC-BY 2.0 (France) Attribution: tatoeba.org #66477 (CK) & #927705 (gorkaazk)
-I'm really not enjoying this.	Ez nago hau disfrutatzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831302 (CK) & #6831772 (zaloaz)
-May I borrow your calculator?	Utziko didazu kalkulagailua?	CC-BY 2.0 (France) Attribution: tatoeba.org #6731334 (CK) & #6731837 (Alvaroerice6)
-Prices seem to be going down.	Salneurriak jaisten ari direla dirudi.	CC-BY 2.0 (France) Attribution: tatoeba.org #24424 (CK) & #3802071 (basaundi)
-There's no point going there.	Horra joateak ez dauka zentzurik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6057751 (sergiomelo) & #6058107 (victor45d)
-This is a huge waste of time.	Denbora galtze izugarria da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6609462 (mailohilohi) & #6610049 (Aletxu45D)
-This is an old Scottish song.	Hau Eskoziako abesti zahar bat da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6000079 (Hybrid) & #6000882 (Amaia45d)
-Tom called Mary this morning.	Tomek Mary-ri deitu zion goiz honetan.	CC-BY 2.0 (France) Attribution: tatoeba.org #3975753 (CK) & #6000816 (Gonzalo45D)
-Tom caused a lot of problems.	Tomek arazo asko eragin zituen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126815 (CK) & #6126881 (Mireen10)
-Tom met Mary three years ago.	Tomek Mary ezagutu zuen orain dela hiru urte.	CC-BY 2.0 (France) Attribution: tatoeba.org #1028300 (CK) & #5999428 (Mikel45D)
-Tom never seems to get angry.	Tom ez dirudi inoiz dagoenik haserretuta.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126813 (CK) & #6126878 (Mireen10)
-Tom never seems to get tired.	Tom ez dirudi inoiz nekatuta dagoenik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126812 (CK) & #6126887 (Mireen10)
-Tom should've arrived by now.	Tom dagoeneko iritsia behar zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642592 (CK) & #6000842 (aialanaiara)
-Tom talked to Mary yesterday.	Tomek Mary-rekin hitz egin zuen atzo.	CC-BY 2.0 (France) Attribution: tatoeba.org #3975756 (CK) & #6000820 (Gonzalo45D)
-We were playing on the beach.	Hondartzan jolasten ari ginen.	CC-BY 2.0 (France) Attribution: tatoeba.org #5165301 (tabular) & #5165463 (gorkaazk)
-We're sorry that it happened.	Gertatutakoaz damututa gaude.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937874 (CK) & #6879348 (ekeno)
-What happened in the meeting?	Zer gertatu zen bileran?	CC-BY 2.0 (France) Attribution: tatoeba.org #4937873 (CK) & #6879346 (ekeno)
-What happened isn't a secret.	Gertatutakoa ez da sektretu bat.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937872 (CK) & #6879344 (ekeno)
-What happened was a disgrace.	Ezbehar bat da gertatu zena.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937871 (CK) & #6879342 (ekeno)
-What's happened to the money?	Zer gertatu da diruarekin?	CC-BY 2.0 (France) Attribution: tatoeba.org #4937870 (CK) & #6879339 (ekeno)
-What's likely to happen next?	Zer izango da hurrengoa?	CC-BY 2.0 (France) Attribution: tatoeba.org #4937869 (CK) & #6879337 (ekeno)
-You know that Tom likes cars.	Dakizunez Tom-i autoak gustatzen zaizkio.	CC-BY 2.0 (France) Attribution: tatoeba.org #6788034 (CK) & #6788124 (LeireM15)
-You know that Tom likes cars.	Dakizunez Tom-i gustatzen zaizkio autoak.	CC-BY 2.0 (France) Attribution: tatoeba.org #6788034 (CK) & #6788129 (LeireM15)
-You may choose what you like.	Gogoko duzuna aukera dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #240680 (CK) & #659455 (Txopi)
-You might run into Tom there.	Tomengana korriketan joan beharko zenuke.	CC-BY 2.0 (France) Attribution: tatoeba.org #6788036 (CK) & #6788155 (zaloaz)
-After he ate, Tom went to bed.	Jan eta gero Tom ohera joan zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6880001 (batsheep) & #6880209 (Asierkami7)
-All that glitters is not gold.	Zulo bat ixteko, beste bat ireki	CC-BY 2.0 (France) Attribution: tatoeba.org #20086 (Swift) & #5605656 (enara45)
-All that glitters is not gold.	Beltz guztiak ez dira ikatz	CC-BY 2.0 (France) Attribution: tatoeba.org #20086 (Swift) & #5620007 (enara45)
-An awful thing happened today.	Gauza oso txar bat gertatu da gaur.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937868 (CK) & #6879335 (ekeno)
-He dozed off in history class.	Historiako klasean lo geratu zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #304789 (CK) & #949938 (Txopi)
-He is accustomed to hard work.	Lan gogorra egitera ohituta dago.	CC-BY 2.0 (France) Attribution: tatoeba.org #299367 (CK) & #6000801 (victor45d)
-His name is known to everyone.	Bere izena denek ezagutzen dute.	CC-BY 2.0 (France) Attribution: tatoeba.org #287635 (CK) & #627522 (Txopi)
-I have an uncle who does that.	Osaba bat daukat hori egiten duela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6079146 (CK) & #6080539 (2013ik65)
-I think it won't happen again.	Berriro gertatuko ez dela uste dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937867 (CK) & #6879334 (ekeno)
-I'd rather sit somewhere else.	Gustatu litzaidake beste leku batean jesartzea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6079126 (CK) & #6080520 (2013ik65)
-I'll be home in about an hour.	Etxean egongo naiz ordu betean.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831295 (CK) & #6831762 (zaloaz)
-I'll drive you to the airport.	Nik gidatuko zaitut aireporturaino.	CC-BY 2.0 (France) Attribution: tatoeba.org #18185 (CK) & #412640 (jmli)
-Is it here that the bus stops?	Autobusa gelditzen den tokia hemen al da?	CC-BY 2.0 (France) Attribution: tatoeba.org #3798901 (Eldad) & #3800224 (basaundi)
-It's not going to be that bad.	Ez da horren txarra izango.	CC-BY 2.0 (France) Attribution: tatoeba.org #2891605 (CK) & #6000895 (Gonzalo45D)
-Many bad things have happened.	Gauza txar asko gertatu dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937866 (CK) & #6879331 (ekeno)
-My canary was killed by a cat.	Katu batek hil zuen nire kanarioa.	CC-BY 2.0 (France) Attribution: tatoeba.org #250282 (CK) & #631136 (Txopi)
-Please tell me how to do that.	Mesedez, esaidazu nola egin hori.	CC-BY 2.0 (France) Attribution: tatoeba.org #2011211 (CK) & #2011233 (gorkaazk)
-Rome is a city worth visiting.	Roma bisitatzea merezi duen hiria da.	CC-BY 2.0 (France) Attribution: tatoeba.org #29406 (CK) & #658302 (Txopi)
-Something incredible happened.	Zerbait harrigarria gertatu zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937865 (CK) & #6879329 (ekeno)
-That's not what happened here.	Halakorik ez da hemen gertatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937864 (CK) & #6879327 (ekeno)
-That's why it hasn't happened.	Horrexegatik ez da gertatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937863 (CK) & #6879324 (ekeno)
-There is an apple on the desk.	Sagar bat dago idazmahai gainean.	CC-BY 2.0 (France) Attribution: tatoeba.org #20566 (CK) & #412650 (jmli)
-Tom died from a drug overdose.	Tom droga gaindosi batek jota hil zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4682679 (Hybrid) & #5999431 (Gonzalo45D)
-Tom has lost the will to live.	Tom-ek bizitzeko gogoa galdu du.	CC-BY 2.0 (France) Attribution: tatoeba.org #2011191 (CK) & #2011236 (gorkaazk)
-Tom is a strong kid, isn't he?	Tom indartsua da, ezta?	CC-BY 2.0 (France) Attribution: tatoeba.org #6904387 (CK) & #6905461 (BegoArana)
-Tom is ambidextrous, isn't he?	Tom eskuma-ezkerti da, ezta?	CC-BY 2.0 (France) Attribution: tatoeba.org #6904866 (CK) & #6905439 (BegoArana)
-Tom was killed in a car crash.	Tom hil zen auto istripu batean.	CC-BY 2.0 (France) Attribution: tatoeba.org #5375011 (CK) & #6088886 (Gonzalo45D)
-Tom was thirteen when he died.	Tomek hamahiru urte zituen hil zenean	CC-BY 2.0 (France) Attribution: tatoeba.org #5375027 (CK) & #6088928 (Gonzalo45D)
-Tom wasn't sure what happened.	Tom ez zegoen ziur gertatu zenari buruz.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937862 (CK) & #6879322 (ekeno)
-We've seen that happen before.	Hori gertatzea lehenago ere ikusi genuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937861 (CK) & #6879319 (ekeno)
-What happened can't be undone.	Gertatutakoa ezin da konpondu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937860 (CK) & #6879315 (ekeno)
-Where do you buy your dresses?	Non erosi dituzu zure soinekoak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831289 (CK) & #6831757 (zaloaz)
-Who is your favorite composer?	Nor da gogokoen duzun musikagilea?	CC-BY 2.0 (France) Attribution: tatoeba.org #70680 (CK) & #659475 (Txopi)
-You never know what'll happen.	Zer gertatuko den ezin duzu inoiz jakin.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937859 (CK) & #6879313 (ekeno)
-A pine cone fell on Tom's head.	Pinaburu bat erori zen Tomen buruan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6611176 (Eccles17) & #6611736 (gorkaazk)
-All I know is that I was drunk.	Dakidan guztia mozkor nenbilela da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6056971 (mailohilohi) & #6058127 (victor45d)
-He'll have to do without a gun.	Pistolarik gabe egin beharko du.	CC-BY 2.0 (France) Attribution: tatoeba.org #299369 (CM) & #6000808 (victor45d)
-How do you say that in Italian?	Nola esaten da hori italieraz?	CC-BY 2.0 (France) Attribution: tatoeba.org #1649 (CK) & #3802026 (basaundi)
-I didn't read a book yesterday.	Atzo ez nuen liburu bat irakurri.	CC-BY 2.0 (France) Attribution: tatoeba.org #8999766 (CK) & #627526 (Txopi)
-I didn't sleep well that night.	Gau hartan ez nuen ondo lo egin.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831283 (CK) & #6831754 (zaloaz)
-I hope this won't happen again.	Hau berriro ez gertatzea espero dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937858 (CK) & #6879310 (ekeno)
-I will give him another chance.	Beste aukera bat emango diot.	CC-BY 2.0 (France) Attribution: tatoeba.org #242287 (CK) & #660509 (Txopi)
-If anyone can do that, Tom can.	Edonork egin ahal badu, Tomek ahal du.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121038 (CK) & #6121465 (Amaia45d)
-It won't just happen overnight.	Ez da gauean bakarrik gertatuko.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937857 (CK) & #6879309 (ekeno)
-My girlfriend is a good dancer.	Nire neskalaguna dantzari ona da.	CC-BY 2.0 (France) Attribution: tatoeba.org #250280 (mamat) & #631132 (Txopi)
-None of that actually happened.	Errealitatean ez zen halakorik gertatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937856 (CK) & #6879307 (ekeno)
-She is not home, but at school.	Ez dago etxean, eskolan baizik.	CC-BY 2.0 (France) Attribution: tatoeba.org #312845 (CK) & #627995 (Txopi)
-That all happened before lunch.	Guzti hori bazkaldu baino lehen gertatu zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937855 (CK) & #6879306 (ekeno)
-That never happened, of course.	Noski, hori ez da inoiz gertatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937854 (CK) & #6879304 (ekeno)
-That's happening far too often.	Hori gehiegitan gertatzen ari da.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937853 (CK) & #6879301 (ekeno)
-The enemy attacked us at night.	Etsaiak gauez eraso zigun.	CC-BY 2.0 (France) Attribution: tatoeba.org #278686 (CK) & #3800264 (basaundi)
-The same thing happened Monday.	Astelehenean gauza bera gertatu zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937852 (CK) & #6879299 (ekeno)
-Tom insisted it never happened.	Tomek inoiz ez zela gertatu insistitu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937851 (CK) & #6879296 (ekeno)
-Tom is always causing problems.	Tomek beti arazoak eragiten ditu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126814 (CK) & #6126879 (Mireen10)
-Tom said not to worry about it.	Tomek horretaz ez kezkatzeko esan zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642603 (CK) & #6000789 (aialanaiara)
-Tom said that he had been busy.	Tomek oso lanpeturik zebilela esan zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642602 (CK) & #6000783 (aialanaiara)
-Tom said that he was very busy.	Tomek oso lapenturik zegoela esan zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642601 (CK) & #6000781 (aialanaiara)
-Tom said you were good-looking.	Tomek erakargarri zeudela esan du.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642600 (CK) & #6000778 (aialanaiara)
-Tom saw Mary dancing with John.	Tomek Mary Johnekin dantzatzen ikusi zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642598 (CK) & #6000766 (aialanaiara)
-Tom should've listened to Mary.	Tomek Mary entzun behar izan zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642591 (CK) & #6000824 (aialanaiara)
-Tom sleeps with his mouth open.	Tomek aho zabalik lo egiten du.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642590 (CK) & #6000821 (aialanaiara)
-Tom slipped off his headphones.	Tomeri entzungailuak labaindu zitzaizkion.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642588 (CK) & #6000815 (aialanaiara)
-Tom spent all day on the beach.	Tomek egun osoa igaro zuen hondartzan.	CC-BY 2.0 (France) Attribution: tatoeba.org #2642587 (CK) & #6000803 (aialanaiara)
-Tom went quickly up the stairs.	Tomek azkar igo zituen eskailerak.	CC-BY 2.0 (France) Attribution: tatoeba.org #6880197 (batsheep) & #6880222 (Asierkami7)
-Typhus is a contagious disease.	Tifusa gaixotasun kutsakor bat da.	CC-BY 2.0 (France) Attribution: tatoeba.org #2269026 (_undertoad) & #6891540 (Quibia)
-We need to make a big decision.	Erabaki garrantzitsu bat egin behar dugu.	CC-BY 2.0 (France) Attribution: tatoeba.org #3315198 (CK) & #6000823 (Gonzalo45D)
-We're all going to die someday.	Guztiok hilko gara egunen batean.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831281 (CK) & #6831753 (zaloaz)
-What have you done with my bag?	Zer egin duzu nire poltsarekin?	CC-BY 2.0 (France) Attribution: tatoeba.org #250286 (CK) & #631140 (Txopi)
-What was your first pet's name?	Zein izan zen zure lehen maskotaren izena?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831562 (Hybrid) & #6831749 (zaloaz)
-What was your first pet's name?	Zein izan zen zure lehenengo maskotaren izena.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831562 (Hybrid) & #6831780 (iraidedorado)
-Who did you want to dance with?	Norekin dantzatu nahi zenuen?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079122 (CK) & #6080516 (2013ik65)
-Why do you think Tom hates you?	Zergatik pentsatzen duzu Tomek gorroto zaituela?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831338 (CK) & #6831787 (zaloaz)
-Would you please open the door?	Irekiko zenuke, mesedez, atea?	CC-BY 2.0 (France) Attribution: tatoeba.org #39011 (CK) & #6328965 (Laquin)
-Do you not see the problem here?	Ez duzu ikusten problemarik hemen?	CC-BY 2.0 (France) Attribution: tatoeba.org #6076513 (CK) & #6077434 (Mireen10)
-Do you speak a foreign language?	Atzerriko hizkuntzarik hitz egiten duzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6076473 (CK) & #6077396 (Mireen10)
-Don't let that dog come near me!	Ez utzi zakurrari niregana hurbiltzen!	CC-BY 2.0 (France) Attribution: tatoeba.org #68417 (CK) & #927651 (gorkaazk)
-Either we all go or nobody goes.	Guztiok goaz edo ez da inork joaten.	CC-BY 2.0 (France) Attribution: tatoeba.org #3019404 (CK) & #6000768 (Gonzalo45D)
-He prefers football to baseball.	Berak nahiago du futbola baseballa baino.	CC-BY 2.0 (France) Attribution: tatoeba.org #304263 (CK) & #915494 (gorkaazk)
-I don't know exactly where I am.	Ez dakit zehazki non nagoen.	CC-BY 2.0 (France) Attribution: tatoeba.org #3794905 (Eldad) & #3800288 (basaundi)
-I don't want to lose my deposit.	Ez dut nire gordailua galdu nahi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1306807 (CK) & #6000853 (victor45d)
-I think that's what's happening.	Uste dut hori dela gertatzen ari dena.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937850 (CK) & #6879295 (ekeno)
-I'll see you at the hotel later.	Gero hotelean ikusiko zaitut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6120675 (CK) & #6121469 (Amaia45d)
-I'm here now because I love you.	Hemen nago orain maite zaitudalako.	CC-BY 2.0 (France) Attribution: tatoeba.org #6070480 (jpond) & #6071069 (Mireen10)
-I've already lost too much time.	Denbora asko galdu dut jadanik	CC-BY 2.0 (France) Attribution: tatoeba.org #2358892 (CK) & #6768382 (maialen45D)
-It isn't easy to memorize dates.	Datak buruz ikastea ez da erraza.	CC-BY 2.0 (France) Attribution: tatoeba.org #1318672 (CK) & #4579505 (basaundi)
-It's ideal weather for a picnic.	Eguraldi ideala dago piknik baterako.	CC-BY 2.0 (France) Attribution: tatoeba.org #34815 (CK) & #952321 (Txopi)
-People like you are the problem.	Zu bezalako jendea da arazoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #6056938 (mailohilohi) & #6058131 (victor45d)
-There's not much happening here.	Ez da aparteko ezer gertatzen hemen.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937848 (CK) & #6879294 (ekeno)
-Tom and Mary are doing that now.	Tomek eta Marik hori egiten ari dira oraintxe bertan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6138148 (CK) & #6138286 (2013ik65)
-Tom and Mary won't go to Boston.	Tom eta Mary ez dira Bostonera joango.	CC-BY 2.0 (France) Attribution: tatoeba.org #6272872 (CK) & #6891531 (Quibia)
-Tom knew Mary needed to do that.	Tomek Mary hori egin behar zuela zekien.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126679 (CK) & #6126917 (Mireen10)
-Tom knew Mary shouldn't do that.	Tomek Mary hori ez zuela egin behar zekien.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126677 (CK) & #6126916 (Mireen10)
-Tom wanted to do that last week.	Tomek hori egitea nahi izan zuen aurreko astean.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126673 (CK) & #6126906 (Mireen10)
-Tom's aware of what's happening.	Tomek badaki zer gertzten ari den.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937847 (CK) & #6879291 (ekeno)
-Tom's grandfather couldn't read.	Tomen aititea ezin zuen irakurri.	CC-BY 2.0 (France) Attribution: tatoeba.org #6670098 (Hybrid) & #6891563 (Quibia)
-We're scared it'll happen again.	Berriro gertatzeko beldur gara.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937846 (CK) & #6879289 (ekeno)
-What has actually happened here?	Zer gertatu da azken boladan hemen?	CC-BY 2.0 (France) Attribution: tatoeba.org #4937845 (CK) & #6879288 (ekeno)
-What's happened in the meantime?	Zer gertatu zen bitartean?	CC-BY 2.0 (France) Attribution: tatoeba.org #4937844 (CK) & #6879287 (ekeno)
-What's happening here is absurd.	Hemen gertatzen ari denak ez du zentzurik.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937843 (CK) & #6879286 (ekeno)
-Would you like to dance with me?	Nirekin dantza egingo?	CC-BY 2.0 (France) Attribution: tatoeba.org #1654 (CK) & #3802031 (basaundi)
-Your wife is a very lucky woman.	Zure emaztea zorte handiko emakumea da.	CC-BY 2.0 (France) Attribution: tatoeba.org #3818498 (CK) & #6891573 (Quibia)
-Do you want to know what I think?	Zer pentsatzen dudan jakin nahi duzu ?	CC-BY 2.0 (France) Attribution: tatoeba.org #2015133 (CK) & #6880226 (Asierkami7)
-He has a lot of books on history.	Historiari buruzko hamaika liburu ditu.	CC-BY 2.0 (France) Attribution: tatoeba.org #304790 (CK) & #949942 (Txopi)
-He returned from Holland in June.	Holandatik itzuli zen Ekainean.	CC-BY 2.0 (France) Attribution: tatoeba.org #288625 (CK) & #6000851 (haizea45)
-Hopefully, it won't happen again.	Zorionez, ez da berriro gertatuko.	CC-BY 2.0 (France) Attribution: tatoeba.org #4937842 (CK) & #6879284 (ekeno)
-How many years did Tom work here?	Zenbat urtez lan egin du Tomek hemen?	CC-BY 2.0 (France) Attribution: tatoeba.org #2280788 (CK) & #6891234 (Quibia)
-I haven't talked to Tom all week.	Ez dut Tomekin hitz egin aste osoan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6250304 (CK) & #6831747 (zaloaz)
-I imagine you must be very tired.	Zuk oso nekatuta egon behar zara irudi dezaket.	CC-BY 2.0 (France) Attribution: tatoeba.org #6121057 (mailohilohi) & #6122479 (Mireen10)
-I've packed my suitcases already.	Gorde egin ditut maletak iada.	CC-BY 2.0 (France) Attribution: tatoeba.org #2396216 (CK) & #6000834 (ugaldexabi9)
-She is getting better day by day.	Egunez egun hobetzen ari da.	CC-BY 2.0 (France) Attribution: tatoeba.org #316066 (CK) & #1204402 (Txopi)
-This is a complete waste of time.	Hau denbora alferrik galtzea da.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831563 (Hybrid) & #6831790 (LeireM15)
-We had lots of fun at the picnic.	Primeran pasa genuen piknikean.	CC-BY 2.0 (France) Attribution: tatoeba.org #34812 (CK) & #952319 (Txopi)
-You may choose any book you like.	Gogoko duzun liburua aukera dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #70676 (CK) & #659460 (Txopi)
-I don't know anything about Japan.	Ez dakit ezer Japoniari buruz.	CC-BY 2.0 (France) Attribution: tatoeba.org #259807 (CK) & #4579247 (basaundi)
-Italy is a very beautiful country.	Italia oso herri ederra da.	CC-BY 2.0 (France) Attribution: tatoeba.org #1658 (CK) & #3802034 (basaundi)
-My camera is different from yours.	Nire kamera zurearen desberdina da.	CC-BY 2.0 (France) Attribution: tatoeba.org #250290 (CK) & #631143 (Txopi)
-There is less time than I thought.	Uste nuena baino denbora gutxiago dago.	CC-BY 2.0 (France) Attribution: tatoeba.org #240997 (CK) & #627664 (Txopi)
-Those shoes won't do for climbing.	Oinetako horiek ez dira eskalatzeko egokiak.	CC-BY 2.0 (France) Attribution: tatoeba.org #48608 (CM) & #896641 (gorkaazk)
-Tom and I sometimes work together.	Tom eta biok batzutan elkar lan egiten dugu	CC-BY 2.0 (France) Attribution: tatoeba.org #6831320 (CK) & #6831801 (iraidedorado)
-Tom and Mary didn't do that alone.	Tomek eta Maryk ez zuten hori bakarrik egin.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831318 (CK) & #6831783 (zaloaz)
-Tom asked me what I wanted to eat.	Tom galdetu zian zer nahi nuen jateko.	CC-BY 2.0 (France) Attribution: tatoeba.org #5789704 (CK) & #6000890 (Gonzalo45D)
-We always want what we don't have.	Beti nahi dugu ez duguna.	CC-BY 2.0 (France) Attribution: tatoeba.org #2336194 (CK) & #6000864 (Gonzalo45D)
-You may choose whichever you want.	Gogoko duzuna aukera dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #37981 (CK) & #659455 (Txopi)
-You may choose whichever you want.	Nahiago duzuna aukera dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #37981 (CK) & #1204403 (Txopi)
-Are you really going to drink that?	Benetan hori edango duzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079150 (CK) & #6080544 (2013ik65)
-Are you smarter than your children?	Zure semeek baino azkarrago zara?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079130 (CK) & #6080526 (2013ik65)
-He came by car instead of by train.	Kotxez etorri zen trenez etorri beharrean.	CC-BY 2.0 (France) Attribution: tatoeba.org #304797 (CK) & #949947 (Txopi)
-He likes all animals except horses.	Animalia guztiak gogoko ditu zaldiak izan ezik.	CC-BY 2.0 (France) Attribution: tatoeba.org #302394 (CK) & #1204414 (Txopi)
-He wants to learn without studying.	Ikasi gabe jakin nahi du.	CC-BY 2.0 (France) Attribution: tatoeba.org #2300110 (AlanF_US) & #6000831 (haizea45)
-I'll try to do it as fast as I can.	Saiatuko naiz ahalik eta azkarren egiten.	CC-BY 2.0 (France) Attribution: tatoeba.org #5166318 (krzysiek) & #5166436 (gorkaazk)
-Is it OK if I park my scooter here?	Ondo dago hemen nire scooterara aparkatzen badut?	CC-BY 2.0 (France) Attribution: tatoeba.org #6829616 (CK) & #6831788 (zaloaz)
-My father is out in the garden now.	Aita orain kanpoan da, lorategian.	CC-BY 2.0 (France) Attribution: tatoeba.org #319128 (CK) & #4579243 (basaundi)
-That is why he was late for school.	Horregatik heldu zen berandu eskolara.	CC-BY 2.0 (France) Attribution: tatoeba.org #51228 (CK) & #658295 (Txopi)
-This box is not as big as that one.	Kaxa hau ez da beste hori bezain handia.	CC-BY 2.0 (France) Attribution: tatoeba.org #57509 (jakov) & #627659 (Txopi)
-Tom didn't know what he should say.	Tomek ez zekien zer esan beharko luke.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831298 (CK) & #6831765 (zaloaz)
-Tom didn't really like the concert.	Tomek ez zuen kontzertua gustoko izan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831296 (CK) & #6831764 (zaloaz)
-Tom didn't want to leave his house.	Tomek ez du bere etxea utzi nahi.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831294 (CK) & #6831761 (zaloaz)
-Tom died in prison three years ago.	Tom kartzelan hil zen duela hiru urte.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831292 (CK) & #6831760 (zaloaz)
-Tom says he just wants to be happy.	Tom-ek bakarrik zoriontsu izatea nahi duela esan du.	CC-BY 2.0 (France) Attribution: tatoeba.org #6076488 (CK) & #6077428 (Mireen10)
-What kind of things make you angry?	Zelako gauzak haserratsen dizute?	CC-BY 2.0 (France) Attribution: tatoeba.org #6904869 (CK) & #6905442 (BegoArana)
-What makes you think Tom hates you?	Zerk eragiten dizu pentsatzea Tom gorroto dizula?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831282 (CK) & #6831800 (LeireM15)
-What songs are you best at singing?	Zeintzuik dira obeto abesten ditun abestiak?	CC-BY 2.0 (France) Attribution: tatoeba.org #6904873 (CK) & #6905446 (BegoArana)
-Will he be able to catch the train?	Trena garaiz hartzeko gai izango ote da?	CC-BY 2.0 (France) Attribution: tatoeba.org #304800 (CK) & #949952 (Txopi)
-Accuracy is important in arithmetic.	Zehaztasuna garrantzitsua da aritmetikan.	CC-BY 2.0 (France) Attribution: tatoeba.org #245171 (CM) & #597903 (gorkaazk)
-Did you find out anything about Tom?	Tomi buruz zerbait aurkitu duzu?	CC-BY 2.0 (France) Attribution: tatoeba.org #3394463 (CK) & #6891548 (Quibia)
-Does Tom know we can't speak French?	Badaki Tomek guk ezin dugula frantsesez hitz egin?	CC-BY 2.0 (France) Attribution: tatoeba.org #6076474 (CK) & #6077407 (Mireen10)
-I don't know what happened that day.	Ez dakit zer gertatu zen egun horretan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6056970 (mailohilohi) & #6058125 (victor45d)
-I don't think what Tom said is true.	Ez dut uste Tom-ek esan duena egia dela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6731351 (CK) & #6731759 (Alvaroerice6)
-I thought you said nobody liked Tom.	Ino	CC-BY 2.0 (France) Attribution: tatoeba.org #2539886 (CK) & #6000861 (aialanaiara)
-I was roused by the sound of a bell.	Txirrinak esnatu ninduen.	CC-BY 2.0 (France) Attribution: tatoeba.org #255561 (CM) & #932551 (gorkaazk)
-I've done everything I needed to do.	Egin behar nuen guztia egin dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6120657 (CK) & #6121468 (Amaia45d)
-My camera is much better than yours.	Nire kamera zurea baino askoz hobeagoa da.	CC-BY 2.0 (France) Attribution: tatoeba.org #250289 (CK) & #631142 (Txopi)
-Rome has a lot of ancient buildings.	Erroman antzinako eraikin anitz dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #29422 (CK) & #8937869 (basaundi)
-Thanks to you I've lost my appetite.	Zure erruz gosea pasa zait.	CC-BY 2.0 (France) Attribution: tatoeba.org #1679 (CM) & #3802049 (basaundi)
-The angry mob attacked the building.	Haserretutako jendetzak eraikina eraso egin zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #681502 (Source_VOA) & #5129947 (gorkaazk)
-Tom and Mary had fun at the concert.	Tomek eta Maryk ondo pasatu zuten kontzertuan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831280 (CK) & #6831751 (zaloaz)
-We reported the theft to the police.	Poliziari lapurretaren berri eman genion.	CC-BY 2.0 (France) Attribution: tatoeba.org #3791592 (SnipsyStripes) & #3800321 (basaundi)
-By the way, have you seen him lately?	Bide batez, azkenaldian ikusi al duzue?	CC-BY 2.0 (France) Attribution: tatoeba.org #38054 (BraveSentry) & #4579245 (basaundi)
-Could you come to tomorrow's meeting?	Biharko bilerara etorri ahal izango zara?	CC-BY 2.0 (France) Attribution: tatoeba.org #1307454 (CK) & #6000878 (victor45d)
-Either Tom is lying or Mary is lying.	Edo Tom dabil gezurretan edo Mary dabil gezurretan.	CC-BY 2.0 (France) Attribution: tatoeba.org #5733887 (CK) & #5203630 (tohrukun)
-His name is known all over the world.	Bere izena mundu osoan da ezaguna.	CC-BY 2.0 (France) Attribution: tatoeba.org #287619 (CK) & #627524 (Txopi)
-I knew Tom wouldn't be so busy today.	Badakit Tom ez dagoela hain lanpetuta gaur.	CC-BY 2.0 (France) Attribution: tatoeba.org #6345544 (CK) & #6831746 (zaloaz)
-I wish people could be more like you.	Jendea zu bezalakoa izatea gustatuko litzaidake.	CC-BY 2.0 (France) Attribution: tatoeba.org #6056940 (mailohilohi) & #6058132 (victor45d)
-I'm surprised Tom can't speak French.	Harritzen nau Tomek Frantzesa ez jakitea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6879500 (CK) & #6880220 (Asierkami7)
-My camera is the same as your camera.	Nire kamera zurearen berdina da.	CC-BY 2.0 (France) Attribution: tatoeba.org #250293 (CK) & #631147 (Txopi)
-Please ask Tom to wait in his office.	Esan Tomiri bulegoan itzaroteko, mesedez.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831305 (CK) & #6831777 (zaloaz)
-These things always happen in threes.	Bi ezkero, hiru seguru	CC-BY 2.0 (France) Attribution: tatoeba.org #58681 (CK) & #5637164 (enara45)
-They don't always obey their parents.	Ez diete beti gurasoei jaramon egiten.	CC-BY 2.0 (France) Attribution: tatoeba.org #305514 (CK) & #659442 (Txopi)
-Tom and Mary became lifelong friends.	Tom eta Mary betiko lagun bihurtu ziren.	CC-BY 2.0 (France) Attribution: tatoeba.org #4682660 (Hybrid) & #5999430 (Gonzalo45D)
-Tom and Mary need to buy some things.	Tom eta Mary zerbait erosi behar dute.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831662 (CK) & #6831723 (zaloaz)
-Tom and Mary need to buy some things.	Tom eta Maria erosi behar dute gauza batzuk.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831662 (CK) & #6831730 (LeireM15)
-Tom and Mary need to buy some things.	Tom eta Mary gauza batzuk erosi behar dituzte	CC-BY 2.0 (France) Attribution: tatoeba.org #6831662 (CK) & #6831740 (iraidedorado)
-Could you please give the baby a bath?	Mesedez, baina dezakezu umea?	CC-BY 2.0 (France) Attribution: tatoeba.org #569807 (CK) & #895074 (gorkaazk)
-He reported the details with accuracy.	Berak zehaztasunak zuzentasunez kontatu zituen.	CC-BY 2.0 (France) Attribution: tatoeba.org #291032 (CK) & #597905 (gorkaazk)
-I can't do it without somebody's help.	Ezin dut egin beste baten laguntzarik gabe.	CC-BY 2.0 (France) Attribution: tatoeba.org #2301954 (CK) & #6000833 (Gonzalo45D)
-I have no strength to lift this stone.	Ez dut harri hau jasotzeko indarrik.	CC-BY 2.0 (France) Attribution: tatoeba.org #249790 (CM) & #915530 (gorkaazk)
-I think that would give me a headache.	Uste dut eman al didala buruko mina.	CC-BY 2.0 (France) Attribution: tatoeba.org #3152293 (CK) & #6000771 (Alejo45D)
-Please make three copies of this page.	Orri honen hiru kopia egin, mesedez	CC-BY 2.0 (France) Attribution: tatoeba.org #60553 (CK) & #6616662 (Maria64D)
-She prefers staying home to going out.	Nahiago du etxean egotea irtetea baino.	CC-BY 2.0 (France) Attribution: tatoeba.org #312986 (CK) & #915499 (gorkaazk)
-The island is a paradise for children.	Aurrentzat irla paradisu bat da.	CC-BY 2.0 (France) Attribution: tatoeba.org #44738 (CM) & #627544 (Txopi)
-Tom and Mary are doing that with John.	Tomek eta Marik hori egiten ari dira Jonekin batera.	CC-BY 2.0 (France) Attribution: tatoeba.org #6138152 (CK) & #6138289 (2013ik65)
-Tom didn't mention that he'd met Mary.	Tomek ez zuen esan Mary kusiko zuela.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641136 (CK) & #6000902 (Natxo45D)
-Tom didn't offer us anything to drink.	Tomek ez zigun edateko ezer eskaini.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641135 (CK) & #6000899 (Natxo45D)
-Tom didn't take his umbrella with him.	Tomek ez zuen bere euritakoa hartu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641134 (CK) & #6000892 (Natxo45D)
-Tom didn't tell us why we should come.	Tom-ek ez zigun esan zergatik etorri beharko ginateke.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641133 (CK) & #6000891 (Natxo45D)
-Tom doesn't ever come here by himself.	Tom ez da inoiz hona bakarrik etortzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641132 (CK) & #6000888 (Natxo45D)
-Tom doesn't go to school here anymore.	Tom ez doa hemen eskola jada.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641131 (CK) & #6000884 (Natxo45D)
-Tom doesn't know I'm Mary's boyfriend.	Tom-ek ez daki Mary-ren mutil laguna naizela.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641129 (CK) & #6000881 (Natxo45D)
-Tom doesn't know where he wants to go.	Tomek ez daki nora joan nahi duen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831286 (CK) & #6831756 (zaloaz)
-Tom doesn't want to buy anything else.	Tom-ek ez du ezer gehiagorik erosi nahi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2641127 (CK) & #6000876 (Natxo45D)
-Tom found this clock at a garage sale.	Tomek erloju hau aurkitu zuen garaje-salerosketa batean.	CC-BY 2.0 (France) Attribution: tatoeba.org #1094037 (CK) & #6000844 (Gonzalo45D)
-We talked on the phone until midnight.	Gau erdira arte ibili zen telefonoz hitz egiten.	CC-BY 2.0 (France) Attribution: tatoeba.org #248916 (CK) & #927641 (gorkaazk)
-He is suffering from a serious illness.	Gaixotasun serio batengatik sufritzen ari da.	CC-BY 2.0 (France) Attribution: tatoeba.org #299362 (CK) & #6000773 (victor45d)
-His name is known all over the country.	Bere izena aberri osoan da ezaguna.	CC-BY 2.0 (France) Attribution: tatoeba.org #287642 (CK) & #627521 (Txopi)
-Let's discuss what happened last night.	Eztabaidatu dezagun azkeneko gauan gertatutakoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #5375016 (CK) & #6088919 (Gonzalo45D)
-Tom thought Mary might like to do that.	Tomek Mary hori egitea gustuko izango zuela pentsatu zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126757 (CK) & #6126902 (Mireen10)
-What I want now is not money, but time.	Nik orain nahi dudana ez da dirua, denbora baizik.	CC-BY 2.0 (France) Attribution: tatoeba.org #243289 (CM) & #627660 (Txopi)
-You may choose whichever book you like.	Gogoko duzun liburua aukera dezakezu.	CC-BY 2.0 (France) Attribution: tatoeba.org #37926 (CK) & #659460 (Txopi)
-By the way, what time will you go there?	Bide batez, ze ordutan joango zara horra?	CC-BY 2.0 (France) Attribution: tatoeba.org #38063 (CM) & #6000806 (Alejo45D)
-Could you please tell me how to do that?	Esan ahal didazu nola egin hori, mesedez?	CC-BY 2.0 (France) Attribution: tatoeba.org #2011210 (CK) & #2011234 (gorkaazk)
-Don't worry. Everything's under control.	Ez kezkatu. Dena kontrolpean dago.	CC-BY 2.0 (France) Attribution: tatoeba.org #4969296 (CK) & #4579237 (basaundi)
-I thought Tom wasn't nervous doing that.	Tom gauza hori egiten urduri ez zegoela uste dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240899 (CK) & #6731773 (Alvaroerice6)
-I thought Tom would be able to help you.	Tom, zu laguntzeko kapaza dela uste dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240896 (CK) & #6731761 (Alvaroerice6)
-I've been able to read since I was five.	Irakurtzeko gai izan naiz bost urte neukanetik.	CC-BY 2.0 (France) Attribution: tatoeba.org #5166302 (krzysiek) & #5166449 (gorkaazk)
-This bike belongs to my younger brother.	Bizikleta hau nire anai txikiarena da.	CC-BY 2.0 (France) Attribution: tatoeba.org #798268 (luna_moonsilver) & #413109 (jmli)
-We couldn't see the top of the mountain.	Ezin genuen mendiko tontorra ikusi.	CC-BY 2.0 (France) Attribution: tatoeba.org #6953453 (CK) & #895073 (gorkaazk)
-Which one of you two are coming with me?	Zuek biok, biotatik nor etorriko da nirekin?	CC-BY 2.0 (France) Attribution: tatoeba.org #5156539 (CK) & #6924254 (gorkaazk)
-Would you please tell me how to do that?	Esango zenidake nola egin hori?	CC-BY 2.0 (France) Attribution: tatoeba.org #2011212 (CK) & #2011232 (gorkaazk)
-All the leaves on the tree turned yellow.	Zuhaitzaren hosto guztiak hori kolorekoak bihurtu ziren.	CC-BY 2.0 (France) Attribution: tatoeba.org #43803 (CK) & #627541 (Txopi)
-Another problem is where to stop the car.	Beste arazo bat kotxea non gelditzea da.	CC-BY 2.0 (France) Attribution: tatoeba.org #31728 (CM) & #659435 (Txopi)
-Check up on the accuracy of this article.	Begiratu artikulu honen zuzentasuna.	CC-BY 2.0 (France) Attribution: tatoeba.org #59740 (CM) & #597901 (gorkaazk)
-Could you tell me the way to Tokyo Tower?	Esango zenidake Tokyo Dorrerako bidea nondik den?	CC-BY 2.0 (France) Attribution: tatoeba.org #279714 (CK) & #927686 (gorkaazk)
-Do you know where I can buy one of those?	Badakizu non erosi ahal dudan horrelako bat?	CC-BY 2.0 (France) Attribution: tatoeba.org #6079128 (CK) & #6080524 (2013ik65)
-He worked hard at the risk of his health.	Gogor lan egin zuen, bere osasunaren kaltean.	CC-BY 2.0 (France) Attribution: tatoeba.org #295944 (CM) & #2876422 (gorkaazk)
-I have no time to explain this in detail.	Detaileekin azaltzeko denborarik ez daukat.	CC-BY 2.0 (France) Attribution: tatoeba.org #58997 (CK) & #6891543 (Quibia)
-I thought Tom might ask Mary to help him.	Tomek Mary laguntza eskatu ziola pentsatu nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #6126752 (CK) & #6126897 (Mireen10)
-Tom told me he was determined to do that.	Tomek esan zidan Mary gose zela uste zuela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6646747 (CK) & #6891578 (Quibia)
-You know something about this, don't you?	Zuk badakizu zerbait honi buruz, ezta?	CC-BY 2.0 (France) Attribution: tatoeba.org #3605499 (karloelkebekio) & #3605502 (gorkaazk)
-Can someone tell me where the keyboard is?	Esan ahal dit norbaitek giltzadia non dagoen?	CC-BY 2.0 (France) Attribution: tatoeba.org #1307041 (Eldad) & #6000862 (victor45d)
-He made an important scientific discovery.	Aurkikunta zientifiko garrantzitsua egin zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #299364 (CK) & #6000791 (victor45d)
-His name is known to everyone in our town.	Bere izena herri osoan da ezaguna.	CC-BY 2.0 (France) Attribution: tatoeba.org #287617 (CK) & #627512 (Txopi)
-I cheered myself up by listening to music.	Musika entzunez igo nuen nire animoa.	CC-BY 2.0 (France) Attribution: tatoeba.org #25400 (CK) & #413150 (jmli)
-I didn't do that because I didn't want to.	Ez nuen gauza hori egin, nahi ez nuelako.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240910 (CK) & #6731776 (Alvaroerice6)
-I didn't drink much at last night's party.	Ez nuen asko edan atzoko festan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240907 (CK) & #6731775 (Alvaroerice6)
-I didn't have enough money to pay my rent.	Alokairua ordaintzeko diru nahikoa ez dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240898 (CK) & #6731770 (Alvaroerice6)
-I studied English very hard day after day.	Ingelesa goror ikasi nuen egunero-egunero.	CC-BY 2.0 (France) Attribution: tatoeba.org #253412 (CM) & #627545 (Txopi)
-It would be better for you not to do that.	Hobeto izango da hori egiten ez baduzu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839361 (CK) & #6839674 (Anderokariz)
-There can be more than one correct answer.	Erantzun zuzen bat baino gehiago egon ahal dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #3923261 (Damari) & #6000793 (haizea45)
-Tom and Mary went to the harvest festival.	Tom eta Mary uzta-jaialdira joan ziren.	CC-BY 2.0 (France) Attribution: tatoeba.org #7322242 (Hybrid) & #7323344 (gorkaazk)
-Tom told Mary not to be afraid to do that.	Tomek hori egiteko beldurrik ez izatea esan zion Maryri	CC-BY 2.0 (France) Attribution: tatoeba.org #6265339 (CK) & #6891558 (Quibia)
-You must be careful not to make Tom angry.	Kontuz ibili behar zara Tom ez azerretzeko.	CC-BY 2.0 (France) Attribution: tatoeba.org #6839349 (CK) & #6839675 (Anderokariz)
-All of a sudden, the door shut with a bang.	Bat-batean, ate kolpe batez itxi zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #280647 (CM) & #5183601 (gorkaazk)
-He guessed the answers with great accuracy.	Erantzuna asmatu zuen zehaztasun handiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #298957 (CM) & #597907 (gorkaazk)
-I met my teacher on the way to the station.	Geltokirako bidean nire irakaslearekin topo egin nuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #256272 (CK) & #4579490 (basaundi)
-Tom spent his thirtieth birthday in Boston.	Tom-ek, Bostonen pasatu zuen bere hamahirugarren urtebetetzea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240897 (CK) & #6731764 (Alvaroerice6)
-What a beautiful Sunday to read in the sun.	Zelako igande polita eguzkipean irakurtzeko.	CC-BY 2.0 (France) Attribution: tatoeba.org #1306614 (CM) & #6000845 (victor45d)
-Do you think Tom believed what you told him?	Uste duzu Tomek esan zeniola sinetsi zuela?	CC-BY 2.0 (France) Attribution: tatoeba.org #3150875 (CK) & #5125203 (gorkaazk)
-I couldn't fall asleep because of the noise.	Zaratagatik ezin izan nuen lo hartu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2816315 (CK) & #4579452 (basaundi)
-I don't think I could do that kind of thing.	Ez dut uste horrelako gauzarik egin ahal ditzakedanik.	CC-BY 2.0 (France) Attribution: tatoeba.org #3819924 (CK) & #6891532 (Quibia)
-I like the same kind of music that Tom does.	Tom gustuko duen musika berbera gustuko dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6224986 (CK) & #6891555 (Quibia)
-It'll take him two days to finish this work.	Lan hau bukatzeko bi egun behar ditu.	CC-BY 2.0 (France) Attribution: tatoeba.org #283019 (CK) & #4579463 (basaundi)
-Alexander Graham Bell invented the telephone.	Alexander Graham Bell mugikorra asmatu zuen,.	CC-BY 2.0 (France) Attribution: tatoeba.org #847153 (Source_Benedict_1921) & #6000819 (Mikel45D)
-I do not know whether to accept or to refuse.	Ez dakit onartu ala ez.	CC-BY 2.0 (France) Attribution: tatoeba.org #895060 (pauldhunt) & #895063 (gorkaazk)
-Napoleon needed money for a war with Britain.	Napoleonek dirua behar izan zuen Britainiaren kontrako gerrarako	CC-BY 2.0 (France) Attribution: tatoeba.org #804229 (Source_VOA) & #895070 (gorkaazk)
-People from China play another kind of chess.	Txinatarrek beste xake mota batean ibiltzen dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #671006 (gorkaazk) & #670998 (gorkaazk)
-The boy was lying on his stomach watching TV.	Mutila buruz behera zegoen telebistari begira.	CC-BY 2.0 (France) Attribution: tatoeba.org #45414 (CK) & #896638 (gorkaazk)
-We visited the historic sites of the country.	Herrialdeko hiri historikoak bisitatu genituen.	CC-BY 2.0 (France) Attribution: tatoeba.org #2270043 (_undertoad) & #6000883 (Gonzalo45D)
-I don't mind being criticized when I am wrong.	Ez zait inporta oker nagoenean norbaitek ni kritikatzea.	CC-BY 2.0 (France) Attribution: tatoeba.org #255666 (qdii) & #927626 (gorkaazk)
-I thought I heard someone banging on the wall.	Norbait horman kolpeka ari zela entzun nuela iruditu zitzaidan.	CC-BY 2.0 (France) Attribution: tatoeba.org #1961237 (CK) & #5183594 (gorkaazk)
-I've only spoken to Tom once since I got here.	Hor nagoenetik, aldi batean soilik hitz egin dut Tomekin.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831641 (CK) & #6831737 (zaloaz)
-I've only spoken to Tom once since I got here.	Hemen nagoenetik bakarrik hitz egin dut aldi batez Tomekin.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831641 (CK) & #6831755 (LeireM15)
-Tom didn't tell me the reason why he was late.	Tom ez zidan esan berandu etortzearen arrazoia.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827073 (CK) & #6827116 (Claudia63d)
-Would you like to have dinner with us tonight?	Gurekin afaltzera etorri nahiko zenuke gaur gauean?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831648 (CK) & #6831742 (zaloaz)
-Would you like to have dinner with us tonight?	Gustatuko litzaizuke gauean gurekin afaltzea?	CC-BY 2.0 (France) Attribution: tatoeba.org #6831648 (CK) & #6831766 (LeireM15)
-Believe it or not, I'm not sarcastic this time.	Sinetsi edo ez, ez nago sarkastikoa izaten une honetan.	CC-BY 2.0 (France) Attribution: tatoeba.org #3019189 (CM) & #6000767 (Gonzalo45D)
-He got up early in order to attend the meeting.	Bileran parte hartzeko goiz jaiki zen.	CC-BY 2.0 (France) Attribution: tatoeba.org #288104 (CM) & #4579460 (basaundi)
-I began to doubt the accuracy of his statement.	Adierazpen honen zuzentasunaz zalantzatan hasi nintzen.	CC-BY 2.0 (France) Attribution: tatoeba.org #260724 (CK) & #597904 (gorkaazk)
-Tom and Mary have spent a lot of time together.	Tom eta Mary denbora asko igaro dute batera.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831639 (CK) & #6831734 (zaloaz)
-Tom and Mary have spent a lot of time together.	Tom eta Mary denbora asko eman dute elkar.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831639 (CK) & #6831763 (iraidedorado)
-Tom doesn't always understand what's happening.	Tom ez du beti ulertzen pasatzen ari dena.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827069 (CK) & #6827110 (Claudia63d)
-Tom doesn't remember where he put his passport.	Tom ez du gogoratzen no jarri duen bere pasaportea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827067 (CK) & #6827106 (Claudia63d)
-Tom isn't allowed to do just anything he wants.	Tom-ek ia-ia nahi duen edozein gauza egin dezake.	CC-BY 2.0 (France) Attribution: tatoeba.org #2011078 (Shishir) & #2011239 (gorkaazk)
-Dinner is ready, so we can eat whenever we want.	Afaria pronto dagoenez, nahi dugunean jan dezakegu.	CC-BY 2.0 (France) Attribution: tatoeba.org #324624 (CK) & #4579517 (basaundi)
-He translated the book from French into English.	Liburua frantsesetik ingelesera itzuli zuen.	CC-BY 2.0 (France) Attribution: tatoeba.org #291278 (CK) & #927621 (gorkaazk)
-How will you spend the coming three-day holiday?	Nola igaroko dituzu datozen hiru jai egunak?	CC-BY 2.0 (France) Attribution: tatoeba.org #242290 (CK) & #660512 (Txopi)
-If you don't have any money, I'll lend you some.	Dirurik ez baduzu, utziko dizut pixka bat.	CC-BY 2.0 (France) Attribution: tatoeba.org #6924233 (CK) & #6924252 (gorkaazk)
-Tom and Mary have never been to that restaurant.	Tom and Mary ez dira inoiz egon jatetxe horretan.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827065 (CK) & #6827099 (Claudia63d)
-You seemed convinced that Tom wanted to do that.	Konbentzituta zenidurien oso Tomek hori egin nahi zuela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6233589 (CK) & #6328969 (Laquin)
-You seemed convinced that Tom wanted to do that.	Oso konbentzituta zenidurien Tomek hori egin nahi zuela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6233589 (CK) & #6328970 (Laquin)
-Tom and Mary promised me that they'd wash my car.	Tomek eta Maryk nire autoa garbituko dutela zin egin didate.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831637 (CK) & #6831726 (zaloaz)
-Tom and Mary promised me that they'd wash my car.	Tom eta Mary sin egin zidaten nire autoa garbitu zutela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831637 (CK) & #6831745 (LeireM15)
-Tom showed up at the party dressed like a pirate.	Tom pirataz jantzita agertu zen jaian.	CC-BY 2.0 (France) Attribution: tatoeba.org #1867901 (CK) & #5208787 (gorkaazk)
-Who else, other than you, knows about Tom's past?	Nork gehiago, zutaz gain, ezagutzen Tom-en iragana?	CC-BY 2.0 (France) Attribution: tatoeba.org #5165369 (DostKaplan) & #5165461 (gorkaazk)
-Dozens of young people attended the demonstration.	Dozenaka gazte joan ziren manifestaldira.	CC-BY 2.0 (France) Attribution: tatoeba.org #24539 (CK) & #6043512 (victor45d)
-He could not accept a strange woman as his mother.	Berak ezingo zuen emakume arrotz bat bere amatzat onartu.	CC-BY 2.0 (France) Attribution: tatoeba.org #296015 (Dejo) & #631788 (Txopi)
-His helplessness appeals to her motherly sympathy.	Bere babesgabetasunak bere amaren gupida eskatzen du.	CC-BY 2.0 (France) Attribution: tatoeba.org #847162 (Source_Benedict_1921) & #6000825 (Mikel45D)
-I met too many people to remember all their names.	Jende gehiegi ezagutu nituen guztien inzenetaz gogoratzeko.	CC-BY 2.0 (France) Attribution: tatoeba.org #252976 (CK) & #6891564 (Quibia)
-I'd like a chance to explain why I did what I did.	Zergatik egin nuen egin nuena azaltzeko aukera bat izatea gustoko litzaidake.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831642 (CK) & #6831739 (zaloaz)
-What sort of people hang out at a place like this?	Zer nolako jendea dabil honelako leku batetan?	CC-BY 2.0 (France) Attribution: tatoeba.org #954575 (CK) & #4579476 (basaundi)
-When I was your age, I walked to school every day.	Zure adina nuenean, oinez joaten nintzen eskolara egunero.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827070 (CK) & #6827112 (Claudia63d)
-It's already eleven o'clock. I must be leaving now.	Hamaikak dira jada. Oraintxe joan beharra dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #31730 (CK) & #659439 (Txopi)
-She will without a doubt visit England this summer.	Ingalaterra bisitatuko du uda honetan zalantzarik gabe.	CC-BY 2.0 (France) Attribution: tatoeba.org #544659 (CK) & #895061 (gorkaazk)
-Tom said his parents allow him to do what he wants.	Tomem dio gurasoek nahi duena egiten uzten diotela.	CC-BY 2.0 (France) Attribution: tatoeba.org #6226095 (CK) & #6328964 (Laquin)
-I don't have to go back to Boston until next Monday.	Ez dut Bostonera bueltatu behar hurrengo astelehenerarte.	CC-BY 2.0 (France) Attribution: tatoeba.org #6231724 (CK) & #6891557 (Quibia)
-If you don't help me, it won't get finished on time.	Laguntzen ez badidazu, ez dut garaiz amaituko.	CC-BY 2.0 (France) Attribution: tatoeba.org #3162092 (CK) & #5125205 (gorkaazk)
-It's very impolite of you to decline her invitation.	Ez da batere gizalegekoa bere gonbidapenari muzin egitea.	CC-BY 2.0 (France) Attribution: tatoeba.org #309414 (CM) & #895089 (gorkaazk)
-There was a pink slip waiting for her at the office.	Bazegoen kulero arrosa bat bere zain bulegoan.	CC-BY 2.0 (France) Attribution: tatoeba.org #312935 (CK) & #3089955 (gorkaazk)
-They agreed to look into the causes of the accident.	Istripuaren arrazoiak ikertuko zituztela adostu zuten.	CC-BY 2.0 (France) Attribution: tatoeba.org #305784 (CK) & #4579252 (basaundi)
-Two-thirds of the people here tonight are Canadians.	Gaur gauean hemen dauden pertsonen bi herena Kanadiarrak dira.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827066 (CK) & #6827104 (Claudia63d)
-You're going to hurt yourself if you aren't careful.	Mina egingo diozu zure buruari kontuz ibiltzen ez bazara.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827064 (CK) & #6827098 (Claudia63d)
-I'm not sure if that was a good thing or a bad thing.	Ez nago ziur ea gauza ona edo txarra denik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831638 (CK) & #6831731 (zaloaz)
-I'm not sure if that was a good thing or a bad thing.	Ez nago ziur idei on edo txar bat denik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831638 (CK) & #6831750 (LeireM15)
-I'm not sure if that was a good thing or a bad thing.	Ez nago ziur ideia ona edo txarra denik.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831638 (CK) & #6831758 (iraidedorado)
-No one shall be arbitrarily deprived of his property.	Arrazoirik gabe, ez zaio inori bere jabegoa kenduko.	CC-BY 2.0 (France) Attribution: tatoeba.org #554835 (jakov) & #5152275 (gorkaazk)
-Tom and Mary have dinner together almost every night.	Tom eta Mary elkarrekin afaltzen dute gauero.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827037 (CK) & #6827122 (Claudia63d)
-Some people are for the plan and others are against it.	Batzuk planaren alde daude eta beste batzuk aurka.	CC-BY 2.0 (France) Attribution: tatoeba.org #48549 (CK) & #630676 (Txopi)
-Tom is suspected of being involved in the bank robbery.	Tom banku batean lapurretan ibili den susmagarri da.	CC-BY 2.0 (France) Attribution: tatoeba.org #3020241 (patgfisher) & #6000805 (Gonzalo45D)
-Tom and Mary go to school together almost every morning.	Tom eta Mary elkarrekin joaten dira eskolara goizero.	CC-BY 2.0 (France) Attribution: tatoeba.org #6827035 (CK) & #6827120 (Claudia63d)
-We stayed up until about 2:30 studying for today's test.	Egon ginen ikasten gaurko azterketarako 2:30k arte.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831636 (CK) & #6831741 (LeireM15)
-I've only been here for a day and I already want to leave.	Egun batean bakarrik egon naiz eta jadanik joan nahi dut.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831634 (CK) & #6831724 (zaloaz)
-I've only been here for a day and I already want to leave.	Bakarrik egon nintzen egun baterako eta gustatuko litzaidake hemen geratzea.	CC-BY 2.0 (France) Attribution: tatoeba.org #6831634 (CK) & #6831736 (LeireM15)
-CO₂ has a lot to do with the so-called greenhouse effect.	CO₂ horrek lotura handia du negutegi efektuarekin.	CC-BY 2.0 (France) Attribution: tatoeba.org #662784 (CK) & #7886473 (gorkaazk)
-I thought you were going to keep Tom here until I got back.	Uste nuen zuk Tom hemen mantenduko zenuela ni heltzen nintzen bitartean.	CC-BY 2.0 (France) Attribution: tatoeba.org #1961748 (CK) & #6000872 (aialanaiara)
-Since he was injured in an accident, he could no longer walk.	Istripu batetan zauritu zenetik, ezin izan du berriz ibili.	CC-BY 2.0 (France) Attribution: tatoeba.org #298315 (CM) & #627466 (Txopi)
-U.S.S.R. stands for the "Union of Soviet Socialist Republics".	SESB akronimoak adierazten du Sobietar Errepublika Sozialisten Batasuna.	CC-BY 2.0 (France) Attribution: tatoeba.org #452793 (FeuDRenais) & #5152265 (gorkaazk)
-If you don't have enough money to buy that, I'll lend you some.	Ez badaukazu nahikoa diru hori erosteko, utziko dizut pixka bat.	CC-BY 2.0 (France) Attribution: tatoeba.org #6924234 (CK) & #6924251 (gorkaazk)
-If you have ever visited Rome, you must have seen the Coliseum.	Roma inoiz bisitatu baldin baduzu, Koliseoa ikusia izan behar duzu.	CC-BY 2.0 (France) Attribution: tatoeba.org #29404 (CM) & #658301 (Txopi)
-Some scientists believe that the greenhouse effect is imaginary.	Zientzialari batzuek uste dute negutegi efektua alegiazkoa dela.	CC-BY 2.0 (France) Attribution: tatoeba.org #727306 (eastasiastudent) & #7886471 (gorkaazk)
-In China, there's a saying that you can't judge a person by appearance.	Txinan esaten ari dira pertsona bat bere itxuragatik epai daitekeela.	CC-BY 2.0 (France) Attribution: tatoeba.org #451733 (FeuDRenais) & #896627 (gorkaazk)
-Today, we can tell how the weather will be with a high degree of accuracy.	Gaur egun esan dezakegu nolako eguraldia egingo duen zehaztasun handiarekin.	CC-BY 2.0 (France) Attribution: tatoeba.org #242471 (CM) & #597902 (gorkaazk)
+Run!	Korri!
+Jump.	Salto egin.
+Stop!	Geldi!
+Attack!	Eraso!
+Really?	Ez da izango!
+Is it bad?	Txarra al da?
+It's cold.	Hotza dago.
+Of course!	Noski!
+Forgive me.	Barkatu
+I love golf.	Golfak liluratu egiten nau.
+I want more.	Gehiago nahi dut.
+Keep trying.	Probatzen jarraitu.
+Unbelievable!	Sinestezina!
+He's not sick.	Ez dago gaixorik.
+I love my mom.	Gure ama maite dut.
+It is raining.	Euria ari du.
+They're awake.	Esna daude.
+Here's the car.	Hemen da autoa.
+I'm an old man.	Agure bat naiz.
+I'm bored here.	Aspertuta nago hemen.
+Is he a doctor?	Doktorea da?
+Tom's Canadian.	Tom Kanadarra da.
+Do you remember?	Gogoratzen al zara?
+He likes tigers.	Tigreak gustoko ditu.
+Here is the car.	Hemen da autoa.
+I have two cats.	Bi katu dauzkat.
+I need you, Tom.	Zu beher zaitut, Tom.
+I read a letter.	Eskutitz bat irakurtzen ari naiz.
+It's a surprise.	Sorpresa bat da.
+This won't hurt.	Hau ez du minik emango.
+Tom can't dance.	Tom ezin du dantzarik egin.
+Tom chose a hat.	Tom kapela bat aukeratu zuen.
+Turn on the gas.	Gasa piztu.
+He is not stupid.	Ez da tentela.
+How can Tom help?	Nola lagundu ahal du Tomek?
+I agree with him.	Harekin bat nator.
+I have Tom's key.	Tomen giltza daukat.
+I have to fix it.	Hori konpondu behar dut.
+The train's late.	Trena berandu doa.
+This is my money.	Hau nire dirua da.
+Tom dressed well.	Tomek ondo jantzi zen.
+Tom dresses well.	Tomek ondo janzten da.
+Tom is fixing it.	Tom konpontzen hari du.
+Where is my comb?	Nire orrazia non da?
+Will Tom do that?	Tomek hori egingo zuen?
+French isn't easy.	Frantsesa ez da erraza.
+He is intelligent.	Inteligentea da.
+I sat on the sofa.	Sofan eseri nintzen.
+I will choose one.	Bat hautatuko dut.
+I won first place.	Lehen postua irabazi nuen.
+Is this important?	Importantea da hau?
+It's our pleasure.	Pozten gara.
+May I leave early?	Goiz atera ahal naiz?
+Please correct it.	Zuzendu, mesedez.
+She hates running.	Korrika egitea ez du batere gogoko.
+That's a big fish.	Hori arrain handia da.
+The book is small.	Liburua txikia da.
+They were in love.	Maitemindurik zeuden.
+They were on sale.	Salgai zeuden.
+They weren't busy.	Ez ziren lanpeturik.
+This has been fun.	Jostagarria izan da hau.
+This is Tom's car.	Hau Tom-en autoa da.
+This is a problem.	Hau problema bat da.
+This is a tragedy.	Hau trajedia da.
+This is for keeps.	Hau betiko da.
+This is my family.	Hau gure familia da.
+This is our fault.	Hori gure errua da.
+This is our house.	Hauxe da gure etxea.
+This is your stop.	Hau zure geldialdia da.
+This isn't a trap.	Hau ez da tranpa.
+This isn't for me.	Hau ez da niretzat.
+This isn't my car.	Hau ez da nire autoa.
+This room is cold.	Gela hau hotza da.
+This was my fault.	Ene errua izan da.
+Time's on my side.	Denbora gure alde.
+Tom didn't scream.	Tomek ez zuen oihukatu.
+Who made the doll?	Nork egin zuen panpina?
+You may park here.	Hemen aparkatu dezakezu.
+Aren't you worried?	Kezkatuta ez al zaude?
+Does he have money?	Ba al du dirurik?
+Dogs are like that.	Txakurrak horrekoak dira.
+I coughed up blood.	Odola eztul nuen.
+I looked around me.	Nire inguruan begiratu nuen.
+I lost my passport.	Nire pasaportea galdu nuen.
+I'm Mary's husband.	Mary-ren senarra naiz.
+I'm very forgetful.	Oso ahazkorra naiz.
+I'm very forgetful.	Ahazkorra naiz oso.
+It's not important.	Ez du garrantzirik.
+It's very hot here.	Bero asko egiten du hemen.
+Tom does that, too.	Tomek hori egiten du ere bai
+What are you doing?	Zer ari zara egiten?
+What is that sound?	Zer da soinu hori?
+Aren't you Canadian?	Kanadarra ez al zara?
+Aren't you a singer?	Abeslaria ez al zara?
+Aren't you finished?	Amaitu ez al duzu?
+Cyprus is an island.	Zipre uharte bat da.
+Do you like my hair?	Nire ilea gustatzen zaizu ?
+Give me back my bag.	Emaidazu atzera nire poltsa.
+I don't like flying.	Ez zait hegan egitea gustatzen.
+I get scared easily.	Oso erraz beldurtzen naiz.
+I had fun in Boston.	Bostonen ondo pasatu nuen
+I have a dishwasher.	Ontzi-garbitzaile bat dut.
+I have to repair it.	Hori konpondu behar dut.
+I have to stop them.	Gelditu behar diet.
+I know Tom did that.	Badakit Tomek hori egin zuela.
+I like it very much.	Oso atsegin dut.
+I like snowboarding.	Snowboard-a egitea gustatzen zait.
+I play the trombone.	Tronboia jotzen dut.
+I saw Tom in Boston.	Tomek Boston ikusi nuen.
+I should thank them.	Eskertu beharko nieke.
+I won't do it again.	Ez dut berriro egingo.
+I'll tell the truth.	Egia esango dut
+I'll tell the truth.	Egia esango dut.
+I'll try to find it.	Bilatzen saiatuko naiz
+I'll try to find it.	Aurkitzen saiatuko naiz.
+I'm not always late.	Ez naiz beti berandu iristen.
+I'm sick of burgers.	Azkenean Tom garaitu nuen.
+I've lost my wallet.	Diru-zorroa galdu dut.
+Is it far from here?	Hemendik urrun al dago?
+It's a big decision.	Erabaki garrantzitsua da.
+It's very cold here.	Hotz asko egiten du hemen.
+Listen to the birds.	Entzun txoriak.
+My notebook is pink.	Nire kuadernoa ez de arrosa.
+She has convulsions.	Konbultsioak zeuzkan.
+This is Tom's house.	Hau Tomek etxea da.
+This was my mistake.	Hau nire errua izan da.
+Tom did that for me.	Tomek hori egin zuen nigatik.
+Tom drove all night.	Tomek gau osoa gidatu uen.
+Tom is always tired.	Tomek beti nekatuta dago.
+Tom said I did that.	Tomek hori egin nuela esan zuen.
+Tom saved our lives.	Tomek gure bizitzak salbatu zituen.
+We're among friends.	Lagunen artean gaude.
+What should I bring?	Zer eraman behar dut?
+When will it happen?	Noiz gertatuko da?
+Where are you going?	Nora zoaz?
+Where's Tom's watch?	Non dago Tom-en erlojua?
+Who's Tom afraid of?	Zertaz da Tom beldur?
+Why is Tom standing?	Zergatik dago Tom altxatuta?
+Why isn't Tom tired?	Zergatik ez dago nekatuta Tom?
+Would you like some?	Apur bat nahiko zenuke ?
+Are those Tom's sons?	Horiek dira Tom-en semeak?
+Did Tom do that well?	Tomek hori ondo egin ahal zuen?
+Did the car look old?	Autoa zaharra al zirudien?
+Do you like football?	Futbola gustatzen zaizu ?
+Do you not like them?	Ez dituzu gustuko ?
+Don't go there alone.	Ez zaitez joan bakarrik.
+Get out of the house.	Etxetik irten zaitez
+I got a B in physics.	B bat daukat fisikan.
+I think I understood.	Uste dut ulertu nuela
+I wake up very early.	Oso goiz jaikitzen naiz.
+I'm Tom's new lawyer.	Tom-en abokatu berria naiz
+This book is smaller.	Liburu hau txikiagoa da.
+Tom isn't doing that.	Tomek ez dago hori egiten.
+Tom just kept eating.	Tomek jaten jarraitu zuen.
+Tom was up all night.	Tom gau guztia altxatuta eman zuen.
+Would you like a dog?	Txakur bat nahiko zenuke ?
+Would you like a job?	Lan bat nahiko zenuke ?
+You should get ready.	Prestatu beharko zinateke.
+Do you know those men?	Gizon horiek ezagutzen dituzu?
+Do you like your work?	Zure lana atsegin al duzu?
+Don't forget about us!	Ez ahaztu gurekin gero!
+He broke his left arm.	Bere ezker besoa hautsi zuen.
+He fell off the horse.	Zalditik jausi zen.
+He looks like a horse.	Zaldi baten antza dauka.
+I know where you live.	Badakit non bizi zaren.
+I sent Tom some money.	Diru pixka bat bidali nion Tomiri
+I was deceived by him.	Hark engainatu ninduen.
+I've worked very hard.	Oso gogor egin dut lan
+Please copy this page.	Orri hau kopiatu, mesedez
+The library was empty.	Liburutegia utzik zegoen.
+Tom is a student, too.	Tomek ikaslea da ere bai.
+Tom is doing his work.	Tom bere lana egiten ari da.
+Tom just kept singing.	Tomek abesten jarraitu zuen.
+Tom just kept talking.	Tomek hitz egiten jarraitu zuen.
+Tom, are you out here?	Tom, hor kanpoan zaude?
+Tomorrow is a holiday.	Bihar jaieguna da.
+Where are the showers?	Dutxak non dira?
+Would you like coffee?	Kafea nahiko zenuke ?
+You have a nice house.	Etxe polita daukazu.
+Are you going with Tom?	Tomerekin zoaz?
+Does the bus stop here?	Autobusa hemen gelditzen al da?
+He handles horses well.	Zaldiekin ondo konpontzen da.
+He won the race easily.	Lasterketa aise irabazi zuen.
+I couldn't wake Tom up.	Ezin izan nuen Tom altxatu.
+I couldn't wake Tom up.	Ezin izan nuen Tom esnatu.
+I don't speak Japanese.	Ez dut japoniera hitz egiten.
+I finally defeated Tom.	Azkenean Tom-i irabazi diot
+I finally defeated Tom.	Azkenean Tom garaitu nuen.
+I had a special ticket.	Ticket berezi bat daukat.
+I know Tom helped Mary.	Badakit Tom Mary lagundu zuela
+I know Tom helped Mary.	Badakit Tom-ek Mary lagundu zuela.
+I want to see a doctor.	Mediku bat ikusi nahi dut.
+I'm not angry about it.	Ez nago horregatik haserre.
+It was extremely weird.	Oso arraroa izan zen.
+Let's go to the picnic.	Goazen piknikera.
+That was cooked in oil.	Koipean prestatu zen.
+They can speak Spanish.	Gaztelaniaz badakite.
+They can speak Spanish.	Espainieraz badakite.
+This is a big decision.	Hau erabaki garrantzitsua da.
+What inspires you most?	Zerk inspiratzen zaitu gehien ?
+Where are the scissors?	Non daude artaziak?
+Would you like to talk?	Hitz egitea gustatuko litzaizuke ?
+Did you come here alone?	Bakarrik etorri zara?
+Don't forget the ticket.	Ez ahaztu txartelik.
+He will visit his uncle.	Bere osaba bisitatuko du.
+His name is known to me.	Bere izena ezagutzen dut.
+It's not like you think.	Ez da zuk pentsatzen duzun modukoa.
+That's how Tom likes it.	Horrela gustazen zaio Tom-i.
+They forgot my birthday.	Nire urtebetetzea ahaztu zuten.
+Tom didn't get very far.	Tom ez zen oso urrun joan.
+Tom isn't able to do it.	Tomek ezin du hau egin.
+Tom isn't able to do it.	Tomek ezin du egin.
+Tom likes country music.	Tomek country musika gustuko du.
+Tom lives with his aunt.	Tom bere izebarekin bizi da.
+Tom looks like a monkey.	Tom tximino bat dirudi.
+Tom says he sings tenor.	Tomek deritzo tenor abesten duela.
+What do chimpanzees eat?	Zer jaten dute tximinoak?
+What do chimpanzees eat?	Zer jaten dute txinpanzeek?
+What is your profession?	Zein da zure lanbidea?
+Who wants hot chocolate?	Nork nahi du txokolate beroa?
+Would you like anything?	Gauzaren bat nahiko zenuke ?
+Would you like some tea?	Té apur bat nahiko zenuke ?
+Are those Tom's children?	Haiek dira Tom-en semeak?
+Are those Tom's children?	Dira horiek Tom-en umeak?
+Do you know who did that?	Badakizu nork egin zuen hori?
+Do you like this perfume?	Perfume hau gustatzen zaizu ?
+Do you like what you see?	Ikusten duzuna gustuko duzu ?
+Do you want pizza or not?	Pizza nahi duzu ala ez?
+Do your parents like Tom?	Zure gurasoak gustuko ahal dute Tom?
+Doing that was difficult.	Hori egitea zaila zen.
+How do you like your tea?	Nola gustatzen zaizu tea ?
+I don't want to help you.	Ez dizut lagundu nahi.
+I forgot to feed the dog.	Txakurra elikatzeaz ahaztu nuen.
+I have a pain in my neck.	Lepoko mina daukat.
+I think it's time to eat.	Jateko ordua dela uste dut.
+I used to try to do that.	Ni hori egitea saiatzen nintzen.
+I'm glad to see you back.	Pozik nago bueltatu zarelako.
+I'm going to wash my car.	Nire autoa garbituko dut.
+I'm sure that isn't true.	Seguru nago hori gezurra dela.
+I've never been so tired.	Ez naiz inoiz hain nekaturik egon.
+Is there an app for that?	Ba dago horretarako aplikaziorik?
+It's really cold in here.	Hotz handia egiten du hemen.
+Let's go to the aquarium.	Goazen aquariumera
+Mary is my type of woman.	Mary nire gustuko emakumea da.
+My father builds bridges.	Nire aitak zubiak eraikitzen ditu.
+Please lend me your book.	Utz iezadak, mesedez, hire liburua.
+Please lend me your book.	Utz iezadazu, mesedez, zure liburua.
+That does not make sense.	Horrek ez du zentzurik.
+The cat was on the table.	Katua mahai gainean zegoen.
+The rebels were executed.	Errebeldeak exekutatuta izan ziren.
+These things aren't mine!	Gauza hauek ez dira nireak!
+Tom doesn't like to lose.	Tom-i ez zaio galtzea gustatzen.
+We don't really know Tom.	Ez dugu Tom guztiz ezagutzen.
+Who did you ask for help?	Nori eskatu zenion laguntza?
+Who's coming to the show?	Nor etorriko da ikuskizunera?
+Aren't you three brothers?	Ez zarete hiru neba-arreba?
+Do you like to drink beer?	Garagardoa edatea gustuko duzu?
+Does Tom like his parents?	Gustuko ahal ditu Tomek bere gurasoak ?
+Doing that was a bad idea.	Hori egitea idea txarra izan zen.
+Doing that was a bad idea.	Hori egitea ideia txarra zen
+Don't touch the wet paint.	Ez ukitu pintura freskoa.
+Give me three more apples.	Emaidazu hiru sagar gehiago.
+I'll stay here until 2:30.	Hemen geratuko naiz 2:30-ra arte.
+It rains a lot in Okinawa.	Euri asko egiten du Okinawan.
+Maybe Tom thinks I'm dead.	Beharbada, Tomek hilda nagoela pentsatzen du.
+My mom still calls me Tom.	Nire amak oraindik Tom deitzen nau .
+Thank you for your advice.	Eskerrik asko gomendioagatik.
+The bird has not returned.	Txoria ez da bueltatu.
+This is my favorite shirt.	Hau nire kamiseta gogokoena da.
+Tom found something shiny.	Tom zerbait disdiratsu aurkitu zuen.
+Tom isn't in jail anymore.	Tom ez da kartxean gehiagorik egongo.
+Tom quite often gets sick.	Oso ohikoa da Tom gaixorik jartzea.
+What did you think I'd do?	Zer pentsatzen zenuen nik egingo nukeela?
+Who did Tom say was lying?	Nork esan zuen Tomek gezurra esaten ari zela?
+Who was Tom swimming with?	Norekin zegoen Tomek igeri egiten?
+Why wasn't Tom here today?	Zergatik Tomek ez zegoen gaur hemen?
+Will you do that with Tom?	Hori egingo zenuke Tomerekin batera?
+Would you like to do that?	Hori egitea gustatuko litzaizuke ?
+Animals are afraid of fire.	Animaliak suaren beldur dira.
+Animals are afraid of fire.	Piztiak suaren beldur dira.
+Can you repair these shoes?	Konpondu diezaizkidazu zapata hauek?
+Did you know I have a blog?	Bazenekien blog bat daukadala?
+Do you still want some tea?	Oraindik ere nahi duzu te pixka bat?
+Do you still want some tea?	Oraindik nahi duzu te pixka bat?
+Do you still want some tea?	Jarraitzen duzu tea nahi izaten?
+Does Tom know I can't swim?	Badaki Tomek ezin dudala igeririk egin?
+Does Tom really want to go?	Tomek benetan joan nahi da?
+Does Tom speak French, too?	Tomek frantsesez ere hitz egiten du?
+He decided to quit smoking.	Erretzeari uztea erabaki zuen.
+How many cars does Tom own?	Zenbat kotxeak dauzka Tomek?
+I'd love to dance with you.	Gustura dantzatuko nintzateke zurekin.
+I'm sure Tom could do that.	Seguru nago Tomek hori egin ahal duela.
+I've never seen him before.	Ez dut bera inoiz lehenago ikusi.
+Isn't that skirt too short?	Ez da gona hori motzegia?
+It's just your imagination.	Haren imajinazioa besterik ez da.
+It's raining cats and dogs.	Mangia jardun.
+Parking isn't allowed here.	Hemen ezin da aparkatu.
+She has two thousand books.	Bi mila liburu dauzka.
+Thank you for your loyalty.	Eskerrik asko zure leialtasunagatik.
+This is just what I wanted.	Hau da justu nahi nuena.
+Tom did that intentionally.	Tomek hori egin zuen nahigabe.
+Tom needs to do that today.	Tomek hori egin behar du gaur.
+Who did Tom go skiing with?	Norekin joan zen Tom-ek eskiatzera.
+You aren't afraid, are you?	Ez daukazu beldurrik, ezta?
+You aren't afraid, are you?	Zu ez zaude beldurtuta, edo bai?
+You can use the dictionary.	Hiztegia erabili dezakezu.
+You must've measured wrong.	Txarto neurtu duzu, ziur.
+You need to take your time.	Zure denbora hartu beharko duzu.
+Your French is good enough.	Zuk nahiko ondo dakizu frantsesez.
+Your French is good enough.	Zuk nahiko ondo egiten duzu frantsesez.
+He doesn't know how to swim.	Ez daki igeri egiten.
+He may be on the next train.	Hurrengo trenean egon daiteke.
+He's staying with his uncle.	Bere osabarekin geratuko da.
+How about going on a picnic?	Egingo al dugu piknik bat?
+I haven't seen you for ages.	Ez zaitut aspaldian ikusi.
+I know you think I'm stupid.	Badakit tuntuna naizela pentsatzen duzula
+I met your father yesterday.	Zure aitarekin egon nintzen atzo.
+I regularly run in the park.	Normalki parkean korrika egiten dut.
+I'm going to brush my teeth.	Garbitu egingo ditut nire hortzak.
+I've thought a lot about it.	Horri buruz asko pentsatu dut
+No one can move the big box.	Ezin du inork kaxa handia mugitu.
+Tell me all about your trip.	Zure irteerari buruz konta iezaiadazu.
+This is my money, not yours.	Hau nire dirua da, ez zurea.
+Tom and I did that together.	Tomek eta biok elkarrekin egin genuen.
+Tom and I did that together.	Tom eta biok hori egin genuen elkar.
+Tom and Mary are doing that.	Tomek eta Marik hori egiten ari dira.
+Tom has lots of weird ideas.	Tomek ideia arraro asko ditu.
+Tom really likes to do that.	Tomek izugarri gustuko du hori egitea.
+Tom smiled when he saw Mary.	Mary ikusi ondoren Tomek irribarre egin zuen.
+Tom wasn't ready to do that.	Tom ez zegoen prestatuta hori egiteko.
+Tom wasn't ready to do that.	Tomek hori egiteko ez zegoen prest.
+We hope Tom doesn't do that.	Espero dugu tom ez egitea hori
+We hope Tom doesn't do that.	Espero dugu Tomek hori ez egitea.
+What are your working hours?	Zein da zure lanordua?
+Who is your favorite author?	Nor da gogokoen duzun egilea?
+Do you know where the zoo is?	Ba al dakizu non den zooa?
+He had a big box in his arms.	Kaxa handi bat zeukan bere besoetan.
+He ran away with the diamond.	Diamantearekin ihes egin du.
+I ordered a book from London.	Londresetik liburua eskatuko dut.
+I will get in touch with you.	Harremanetan jarriko natzaizu.
+I'm really not enjoying this.	Ez nago hau disfrutatzen.
+May I borrow your calculator?	Utziko didazu kalkulagailua?
+Prices seem to be going down.	Salneurriak jaisten ari direla dirudi.
+There's no point going there.	Horra joateak ez dauka zentzurik.
+This is a huge waste of time.	Denbora galtze izugarria da.
+This is an old Scottish song.	Hau Eskoziako abesti zahar bat da.
+Tom called Mary this morning.	Tomek Mary-ri deitu zion goiz honetan.
+Tom caused a lot of problems.	Tomek arazo asko eragin zituen.
+Tom met Mary three years ago.	Tomek Mary ezagutu zuen orain dela hiru urte.
+Tom never seems to get angry.	Tom ez dirudi inoiz dagoenik haserretuta.
+Tom never seems to get tired.	Tom ez dirudi inoiz nekatuta dagoenik.
+Tom should've arrived by now.	Tom dagoeneko iritsia behar zuen.
+Tom talked to Mary yesterday.	Tomek Mary-rekin hitz egin zuen atzo.
+We were playing on the beach.	Hondartzan jolasten ari ginen.
+We're sorry that it happened.	Gertatutakoaz damututa gaude.
+What happened in the meeting?	Zer gertatu zen bileran?
+What happened isn't a secret.	Gertatutakoa ez da sektretu bat.
+What happened was a disgrace.	Ezbehar bat da gertatu zena.
+What's happened to the money?	Zer gertatu da diruarekin?
+What's likely to happen next?	Zer izango da hurrengoa?
+You know that Tom likes cars.	Dakizunez Tom-i autoak gustatzen zaizkio.
+You know that Tom likes cars.	Dakizunez Tom-i gustatzen zaizkio autoak.
+You may choose what you like.	Gogoko duzuna aukera dezakezu.
+You might run into Tom there.	Tomengana korriketan joan beharko zenuke.
+After he ate, Tom went to bed.	Jan eta gero Tom ohera joan zen.
+All that glitters is not gold.	Zulo bat ixteko, beste bat ireki
+All that glitters is not gold.	Beltz guztiak ez dira ikatz
+An awful thing happened today.	Gauza oso txar bat gertatu da gaur.
+He dozed off in history class.	Historiako klasean lo geratu zen.
+He is accustomed to hard work.	Lan gogorra egitera ohituta dago.
+His name is known to everyone.	Bere izena denek ezagutzen dute.
+I have an uncle who does that.	Osaba bat daukat hori egiten duela.
+I think it won't happen again.	Berriro gertatuko ez dela uste dut.
+I'd rather sit somewhere else.	Gustatu litzaidake beste leku batean jesartzea.
+I'll be home in about an hour.	Etxean egongo naiz ordu betean.
+I'll drive you to the airport.	Nik gidatuko zaitut aireporturaino.
+Is it here that the bus stops?	Autobusa gelditzen den tokia hemen al da?
+It's not going to be that bad.	Ez da horren txarra izango.
+Many bad things have happened.	Gauza txar asko gertatu dira.
+My canary was killed by a cat.	Katu batek hil zuen nire kanarioa.
+Please tell me how to do that.	Mesedez, esaidazu nola egin hori.
+Rome is a city worth visiting.	Roma bisitatzea merezi duen hiria da.
+Something incredible happened.	Zerbait harrigarria gertatu zen.
+That's not what happened here.	Halakorik ez da hemen gertatu.
+That's why it hasn't happened.	Horrexegatik ez da gertatu.
+There is an apple on the desk.	Sagar bat dago idazmahai gainean.
+Tom died from a drug overdose.	Tom droga gaindosi batek jota hil zen.
+Tom has lost the will to live.	Tom-ek bizitzeko gogoa galdu du.
+Tom is a strong kid, isn't he?	Tom indartsua da, ezta?
+Tom is ambidextrous, isn't he?	Tom eskuma-ezkerti da, ezta?
+Tom was killed in a car crash.	Tom hil zen auto istripu batean.
+Tom was thirteen when he died.	Tomek hamahiru urte zituen hil zenean
+Tom wasn't sure what happened.	Tom ez zegoen ziur gertatu zenari buruz.
+We've seen that happen before.	Hori gertatzea lehenago ere ikusi genuen.
+What happened can't be undone.	Gertatutakoa ezin da konpondu.
+Where do you buy your dresses?	Non erosi dituzu zure soinekoak?
+Who is your favorite composer?	Nor da gogokoen duzun musikagilea?
+You never know what'll happen.	Zer gertatuko den ezin duzu inoiz jakin.
+A pine cone fell on Tom's head.	Pinaburu bat erori zen Tomen buruan.
+All I know is that I was drunk.	Dakidan guztia mozkor nenbilela da.
+He'll have to do without a gun.	Pistolarik gabe egin beharko du.
+How do you say that in Italian?	Nola esaten da hori italieraz?
+I didn't read a book yesterday.	Atzo ez nuen liburu bat irakurri.
+I didn't sleep well that night.	Gau hartan ez nuen ondo lo egin.
+I hope this won't happen again.	Hau berriro ez gertatzea espero dut.
+I will give him another chance.	Beste aukera bat emango diot.
+If anyone can do that, Tom can.	Edonork egin ahal badu, Tomek ahal du.
+It won't just happen overnight.	Ez da gauean bakarrik gertatuko.
+My girlfriend is a good dancer.	Nire neskalaguna dantzari ona da.
+None of that actually happened.	Errealitatean ez zen halakorik gertatu.
+She is not home, but at school.	Ez dago etxean, eskolan baizik.
+That all happened before lunch.	Guzti hori bazkaldu baino lehen gertatu zen.
+That never happened, of course.	Noski, hori ez da inoiz gertatu.
+That's happening far too often.	Hori gehiegitan gertatzen ari da.
+The enemy attacked us at night.	Etsaiak gauez eraso zigun.
+The same thing happened Monday.	Astelehenean gauza bera gertatu zen.
+Tom insisted it never happened.	Tomek inoiz ez zela gertatu insistitu zuen.
+Tom is always causing problems.	Tomek beti arazoak eragiten ditu.
+Tom said not to worry about it.	Tomek horretaz ez kezkatzeko esan zuen.
+Tom said that he had been busy.	Tomek oso lanpeturik zebilela esan zuen.
+Tom said that he was very busy.	Tomek oso lapenturik zegoela esan zuen.
+Tom said you were good-looking.	Tomek erakargarri zeudela esan du.
+Tom saw Mary dancing with John.	Tomek Mary Johnekin dantzatzen ikusi zuen.
+Tom should've listened to Mary.	Tomek Mary entzun behar izan zuen.
+Tom sleeps with his mouth open.	Tomek aho zabalik lo egiten du.
+Tom slipped off his headphones.	Tomeri entzungailuak labaindu zitzaizkion.
+Tom spent all day on the beach.	Tomek egun osoa igaro zuen hondartzan.
+Tom went quickly up the stairs.	Tomek azkar igo zituen eskailerak.
+Typhus is a contagious disease.	Tifusa gaixotasun kutsakor bat da.
+We need to make a big decision.	Erabaki garrantzitsu bat egin behar dugu.
+We're all going to die someday.	Guztiok hilko gara egunen batean.
+What have you done with my bag?	Zer egin duzu nire poltsarekin?
+What was your first pet's name?	Zein izan zen zure lehen maskotaren izena?
+What was your first pet's name?	Zein izan zen zure lehenengo maskotaren izena.
+Who did you want to dance with?	Norekin dantzatu nahi zenuen?
+Why do you think Tom hates you?	Zergatik pentsatzen duzu Tomek gorroto zaituela?
+Would you please open the door?	Irekiko zenuke, mesedez, atea?
+Do you not see the problem here?	Ez duzu ikusten problemarik hemen?
+Do you speak a foreign language?	Atzerriko hizkuntzarik hitz egiten duzu?
+Don't let that dog come near me!	Ez utzi zakurrari niregana hurbiltzen!
+Either we all go or nobody goes.	Guztiok goaz edo ez da inork joaten.
+He prefers football to baseball.	Berak nahiago du futbola baseballa baino.
+I don't know exactly where I am.	Ez dakit zehazki non nagoen.
+I don't want to lose my deposit.	Ez dut nire gordailua galdu nahi.
+I think that's what's happening.	Uste dut hori dela gertatzen ari dena.
+I'll see you at the hotel later.	Gero hotelean ikusiko zaitut.
+I'm here now because I love you.	Hemen nago orain maite zaitudalako.
+I've already lost too much time.	Denbora asko galdu dut jadanik
+It isn't easy to memorize dates.	Datak buruz ikastea ez da erraza.
+It's ideal weather for a picnic.	Eguraldi ideala dago piknik baterako.
+People like you are the problem.	Zu bezalako jendea da arazoa.
+There's not much happening here.	Ez da aparteko ezer gertatzen hemen.
+Tom and Mary are doing that now.	Tomek eta Marik hori egiten ari dira oraintxe bertan.
+Tom and Mary won't go to Boston.	Tom eta Mary ez dira Bostonera joango.
+Tom knew Mary needed to do that.	Tomek Mary hori egin behar zuela zekien.
+Tom knew Mary shouldn't do that.	Tomek Mary hori ez zuela egin behar zekien.
+Tom wanted to do that last week.	Tomek hori egitea nahi izan zuen aurreko astean.
+Tom's aware of what's happening.	Tomek badaki zer gertzten ari den.
+Tom's grandfather couldn't read.	Tomen aititea ezin zuen irakurri.
+We're scared it'll happen again.	Berriro gertatzeko beldur gara.
+What has actually happened here?	Zer gertatu da azken boladan hemen?
+What's happened in the meantime?	Zer gertatu zen bitartean?
+What's happening here is absurd.	Hemen gertatzen ari denak ez du zentzurik.
+Would you like to dance with me?	Nirekin dantza egingo?
+Your wife is a very lucky woman.	Zure emaztea zorte handiko emakumea da.
+Do you want to know what I think?	Zer pentsatzen dudan jakin nahi duzu ?
+He has a lot of books on history.	Historiari buruzko hamaika liburu ditu.
+He returned from Holland in June.	Holandatik itzuli zen Ekainean.
+Hopefully, it won't happen again.	Zorionez, ez da berriro gertatuko.
+How many years did Tom work here?	Zenbat urtez lan egin du Tomek hemen?
+I haven't talked to Tom all week.	Ez dut Tomekin hitz egin aste osoan.
+I imagine you must be very tired.	Zuk oso nekatuta egon behar zara irudi dezaket.
+I've packed my suitcases already.	Gorde egin ditut maletak iada.
+She is getting better day by day.	Egunez egun hobetzen ari da.
+This is a complete waste of time.	Hau denbora alferrik galtzea da.
+We had lots of fun at the picnic.	Primeran pasa genuen piknikean.
+You may choose any book you like.	Gogoko duzun liburua aukera dezakezu.
+I don't know anything about Japan.	Ez dakit ezer Japoniari buruz.
+Italy is a very beautiful country.	Italia oso herri ederra da.
+My camera is different from yours.	Nire kamera zurearen desberdina da.
+There is less time than I thought.	Uste nuena baino denbora gutxiago dago.
+Those shoes won't do for climbing.	Oinetako horiek ez dira eskalatzeko egokiak.
+Tom and I sometimes work together.	Tom eta biok batzutan elkar lan egiten dugu
+Tom and Mary didn't do that alone.	Tomek eta Maryk ez zuten hori bakarrik egin.
+Tom asked me what I wanted to eat.	Tom galdetu zian zer nahi nuen jateko.
+We always want what we don't have.	Beti nahi dugu ez duguna.
+You may choose whichever you want.	Gogoko duzuna aukera dezakezu.
+You may choose whichever you want.	Nahiago duzuna aukera dezakezu.
+Are you really going to drink that?	Benetan hori edango duzu?
+Are you smarter than your children?	Zure semeek baino azkarrago zara?
+He came by car instead of by train.	Kotxez etorri zen trenez etorri beharrean.
+He likes all animals except horses.	Animalia guztiak gogoko ditu zaldiak izan ezik.
+He wants to learn without studying.	Ikasi gabe jakin nahi du.
+I'll try to do it as fast as I can.	Saiatuko naiz ahalik eta azkarren egiten.
+Is it OK if I park my scooter here?	Ondo dago hemen nire scooterara aparkatzen badut?
+My father is out in the garden now.	Aita orain kanpoan da, lorategian.
+That is why he was late for school.	Horregatik heldu zen berandu eskolara.
+This box is not as big as that one.	Kaxa hau ez da beste hori bezain handia.
+Tom didn't know what he should say.	Tomek ez zekien zer esan beharko luke.
+Tom didn't really like the concert.	Tomek ez zuen kontzertua gustoko izan.
+Tom didn't want to leave his house.	Tomek ez du bere etxea utzi nahi.
+Tom died in prison three years ago.	Tom kartzelan hil zen duela hiru urte.
+Tom says he just wants to be happy.	Tom-ek bakarrik zoriontsu izatea nahi duela esan du.
+What kind of things make you angry?	Zelako gauzak haserratsen dizute?
+What makes you think Tom hates you?	Zerk eragiten dizu pentsatzea Tom gorroto dizula?
+What songs are you best at singing?	Zeintzuik dira obeto abesten ditun abestiak?
+Will he be able to catch the train?	Trena garaiz hartzeko gai izango ote da?
+Accuracy is important in arithmetic.	Zehaztasuna garrantzitsua da aritmetikan.
+Did you find out anything about Tom?	Tomi buruz zerbait aurkitu duzu?
+Does Tom know we can't speak French?	Badaki Tomek guk ezin dugula frantsesez hitz egin?
+I don't know what happened that day.	Ez dakit zer gertatu zen egun horretan.
+I don't think what Tom said is true.	Ez dut uste Tom-ek esan duena egia dela.
+I thought you said nobody liked Tom.	Ino
+I was roused by the sound of a bell.	Txirrinak esnatu ninduen.
+I've done everything I needed to do.	Egin behar nuen guztia egin dut.
+My camera is much better than yours.	Nire kamera zurea baino askoz hobeagoa da.
+Rome has a lot of ancient buildings.	Erroman antzinako eraikin anitz dira.
+Thanks to you I've lost my appetite.	Zure erruz gosea pasa zait.
+The angry mob attacked the building.	Haserretutako jendetzak eraikina eraso egin zuen.
+Tom and Mary had fun at the concert.	Tomek eta Maryk ondo pasatu zuten kontzertuan.
+We reported the theft to the police.	Poliziari lapurretaren berri eman genion.
+By the way, have you seen him lately?	Bide batez, azkenaldian ikusi al duzue?
+Could you come to tomorrow's meeting?	Biharko bilerara etorri ahal izango zara?
+Either Tom is lying or Mary is lying.	Edo Tom dabil gezurretan edo Mary dabil gezurretan.
+His name is known all over the world.	Bere izena mundu osoan da ezaguna.
+I knew Tom wouldn't be so busy today.	Badakit Tom ez dagoela hain lanpetuta gaur.
+I wish people could be more like you.	Jendea zu bezalakoa izatea gustatuko litzaidake.
+I'm surprised Tom can't speak French.	Harritzen nau Tomek Frantzesa ez jakitea.
+My camera is the same as your camera.	Nire kamera zurearen berdina da.
+Please ask Tom to wait in his office.	Esan Tomiri bulegoan itzaroteko, mesedez.
+These things always happen in threes.	Bi ezkero, hiru seguru
+They don't always obey their parents.	Ez diete beti gurasoei jaramon egiten.
+Tom and Mary became lifelong friends.	Tom eta Mary betiko lagun bihurtu ziren.
+Tom and Mary need to buy some things.	Tom eta Mary zerbait erosi behar dute.
+Tom and Mary need to buy some things.	Tom eta Maria erosi behar dute gauza batzuk.
+Tom and Mary need to buy some things.	Tom eta Mary gauza batzuk erosi behar dituzte
+Could you please give the baby a bath?	Mesedez, baina dezakezu umea?
+He reported the details with accuracy.	Berak zehaztasunak zuzentasunez kontatu zituen.
+I can't do it without somebody's help.	Ezin dut egin beste baten laguntzarik gabe.
+I have no strength to lift this stone.	Ez dut harri hau jasotzeko indarrik.
+I think that would give me a headache.	Uste dut eman al didala buruko mina.
+Please make three copies of this page.	Orri honen hiru kopia egin, mesedez
+She prefers staying home to going out.	Nahiago du etxean egotea irtetea baino.
+The island is a paradise for children.	Aurrentzat irla paradisu bat da.
+Tom and Mary are doing that with John.	Tomek eta Marik hori egiten ari dira Jonekin batera.
+Tom didn't mention that he'd met Mary.	Tomek ez zuen esan Mary kusiko zuela.
+Tom didn't offer us anything to drink.	Tomek ez zigun edateko ezer eskaini.
+Tom didn't take his umbrella with him.	Tomek ez zuen bere euritakoa hartu.
+Tom didn't tell us why we should come.	Tom-ek ez zigun esan zergatik etorri beharko ginateke.
+Tom doesn't ever come here by himself.	Tom ez da inoiz hona bakarrik etortzen.
+Tom doesn't go to school here anymore.	Tom ez doa hemen eskola jada.
+Tom doesn't know I'm Mary's boyfriend.	Tom-ek ez daki Mary-ren mutil laguna naizela.
+Tom doesn't know where he wants to go.	Tomek ez daki nora joan nahi duen.
+Tom doesn't want to buy anything else.	Tom-ek ez du ezer gehiagorik erosi nahi.
+Tom found this clock at a garage sale.	Tomek erloju hau aurkitu zuen garaje-salerosketa batean.
+We talked on the phone until midnight.	Gau erdira arte ibili zen telefonoz hitz egiten.
+He is suffering from a serious illness.	Gaixotasun serio batengatik sufritzen ari da.
+His name is known all over the country.	Bere izena aberri osoan da ezaguna.
+Let's discuss what happened last night.	Eztabaidatu dezagun azkeneko gauan gertatutakoa.
+Tom thought Mary might like to do that.	Tomek Mary hori egitea gustuko izango zuela pentsatu zuen.
+What I want now is not money, but time.	Nik orain nahi dudana ez da dirua, denbora baizik.
+You may choose whichever book you like.	Gogoko duzun liburua aukera dezakezu.
+By the way, what time will you go there?	Bide batez, ze ordutan joango zara horra?
+Could you please tell me how to do that?	Esan ahal didazu nola egin hori, mesedez?
+Don't worry. Everything's under control.	Ez kezkatu. Dena kontrolpean dago.
+I thought Tom wasn't nervous doing that.	Tom gauza hori egiten urduri ez zegoela uste dut.
+I thought Tom would be able to help you.	Tom, zu laguntzeko kapaza dela uste dut.
+I've been able to read since I was five.	Irakurtzeko gai izan naiz bost urte neukanetik.
+This bike belongs to my younger brother.	Bizikleta hau nire anai txikiarena da.
+We couldn't see the top of the mountain.	Ezin genuen mendiko tontorra ikusi.
+Which one of you two are coming with me?	Zuek biok, biotatik nor etorriko da nirekin?
+Would you please tell me how to do that?	Esango zenidake nola egin hori?
+All the leaves on the tree turned yellow.	Zuhaitzaren hosto guztiak hori kolorekoak bihurtu ziren.
+Another problem is where to stop the car.	Beste arazo bat kotxea non gelditzea da.
+Check up on the accuracy of this article.	Begiratu artikulu honen zuzentasuna.
+Could you tell me the way to Tokyo Tower?	Esango zenidake Tokyo Dorrerako bidea nondik den?
+Do you know where I can buy one of those?	Badakizu non erosi ahal dudan horrelako bat?
+He worked hard at the risk of his health.	Gogor lan egin zuen, bere osasunaren kaltean.
+I have no time to explain this in detail.	Detaileekin azaltzeko denborarik ez daukat.
+I thought Tom might ask Mary to help him.	Tomek Mary laguntza eskatu ziola pentsatu nuen.
+Tom told me he was determined to do that.	Tomek esan zidan Mary gose zela uste zuela.
+You know something about this, don't you?	Zuk badakizu zerbait honi buruz, ezta?
+Can someone tell me where the keyboard is?	Esan ahal dit norbaitek giltzadia non dagoen?
+He made an important scientific discovery.	Aurkikunta zientifiko garrantzitsua egin zuen.
+His name is known to everyone in our town.	Bere izena herri osoan da ezaguna.
+I cheered myself up by listening to music.	Musika entzunez igo nuen nire animoa.
+I didn't do that because I didn't want to.	Ez nuen gauza hori egin, nahi ez nuelako.
+I didn't drink much at last night's party.	Ez nuen asko edan atzoko festan.
+I didn't have enough money to pay my rent.	Alokairua ordaintzeko diru nahikoa ez dut.
+I studied English very hard day after day.	Ingelesa goror ikasi nuen egunero-egunero.
+It would be better for you not to do that.	Hobeto izango da hori egiten ez baduzu.
+There can be more than one correct answer.	Erantzun zuzen bat baino gehiago egon ahal dira.
+Tom and Mary went to the harvest festival.	Tom eta Mary uzta-jaialdira joan ziren.
+Tom told Mary not to be afraid to do that.	Tomek hori egiteko beldurrik ez izatea esan zion Maryri
+You must be careful not to make Tom angry.	Kontuz ibili behar zara Tom ez azerretzeko.
+All of a sudden, the door shut with a bang.	Bat-batean, ate kolpe batez itxi zen.
+He guessed the answers with great accuracy.	Erantzuna asmatu zuen zehaztasun handiz.
+I met my teacher on the way to the station.	Geltokirako bidean nire irakaslearekin topo egin nuen.
+Tom spent his thirtieth birthday in Boston.	Tom-ek, Bostonen pasatu zuen bere hamahirugarren urtebetetzea.
+What a beautiful Sunday to read in the sun.	Zelako igande polita eguzkipean irakurtzeko.
+Do you think Tom believed what you told him?	Uste duzu Tomek esan zeniola sinetsi zuela?
+I couldn't fall asleep because of the noise.	Zaratagatik ezin izan nuen lo hartu.
+I don't think I could do that kind of thing.	Ez dut uste horrelako gauzarik egin ahal ditzakedanik.
+I like the same kind of music that Tom does.	Tom gustuko duen musika berbera gustuko dut.
+It'll take him two days to finish this work.	Lan hau bukatzeko bi egun behar ditu.
+Alexander Graham Bell invented the telephone.	Alexander Graham Bell mugikorra asmatu zuen,.
+I do not know whether to accept or to refuse.	Ez dakit onartu ala ez.
+Napoleon needed money for a war with Britain.	Napoleonek dirua behar izan zuen Britainiaren kontrako gerrarako
+People from China play another kind of chess.	Txinatarrek beste xake mota batean ibiltzen dira.
+The boy was lying on his stomach watching TV.	Mutila buruz behera zegoen telebistari begira.
+We visited the historic sites of the country.	Herrialdeko hiri historikoak bisitatu genituen.
+I don't mind being criticized when I am wrong.	Ez zait inporta oker nagoenean norbaitek ni kritikatzea.
+I thought I heard someone banging on the wall.	Norbait horman kolpeka ari zela entzun nuela iruditu zitzaidan.
+I've only spoken to Tom once since I got here.	Hor nagoenetik, aldi batean soilik hitz egin dut Tomekin.
+I've only spoken to Tom once since I got here.	Hemen nagoenetik bakarrik hitz egin dut aldi batez Tomekin.
+Tom didn't tell me the reason why he was late.	Tom ez zidan esan berandu etortzearen arrazoia.
+Would you like to have dinner with us tonight?	Gurekin afaltzera etorri nahiko zenuke gaur gauean?
+Would you like to have dinner with us tonight?	Gustatuko litzaizuke gauean gurekin afaltzea?
+Believe it or not, I'm not sarcastic this time.	Sinetsi edo ez, ez nago sarkastikoa izaten une honetan.
+He got up early in order to attend the meeting.	Bileran parte hartzeko goiz jaiki zen.
+I began to doubt the accuracy of his statement.	Adierazpen honen zuzentasunaz zalantzatan hasi nintzen.
+Tom and Mary have spent a lot of time together.	Tom eta Mary denbora asko igaro dute batera.
+Tom and Mary have spent a lot of time together.	Tom eta Mary denbora asko eman dute elkar.
+Tom doesn't always understand what's happening.	Tom ez du beti ulertzen pasatzen ari dena.
+Tom doesn't remember where he put his passport.	Tom ez du gogoratzen no jarri duen bere pasaportea.
+Tom isn't allowed to do just anything he wants.	Tom-ek ia-ia nahi duen edozein gauza egin dezake.
+Dinner is ready, so we can eat whenever we want.	Afaria pronto dagoenez, nahi dugunean jan dezakegu.
+He translated the book from French into English.	Liburua frantsesetik ingelesera itzuli zuen.
+How will you spend the coming three-day holiday?	Nola igaroko dituzu datozen hiru jai egunak?
+If you don't have any money, I'll lend you some.	Dirurik ez baduzu, utziko dizut pixka bat.
+Tom and Mary have never been to that restaurant.	Tom and Mary ez dira inoiz egon jatetxe horretan.
+You seemed convinced that Tom wanted to do that.	Konbentzituta zenidurien oso Tomek hori egin nahi zuela.
+You seemed convinced that Tom wanted to do that.	Oso konbentzituta zenidurien Tomek hori egin nahi zuela.
+Tom and Mary promised me that they'd wash my car.	Tomek eta Maryk nire autoa garbituko dutela zin egin didate.
+Tom and Mary promised me that they'd wash my car.	Tom eta Mary sin egin zidaten nire autoa garbitu zutela.
+Tom showed up at the party dressed like a pirate.	Tom pirataz jantzita agertu zen jaian.
+Who else, other than you, knows about Tom's past?	Nork gehiago, zutaz gain, ezagutzen Tom-en iragana?
+Dozens of young people attended the demonstration.	Dozenaka gazte joan ziren manifestaldira.
+He could not accept a strange woman as his mother.	Berak ezingo zuen emakume arrotz bat bere amatzat onartu.
+His helplessness appeals to her motherly sympathy.	Bere babesgabetasunak bere amaren gupida eskatzen du.
+I met too many people to remember all their names.	Jende gehiegi ezagutu nituen guztien inzenetaz gogoratzeko.
+I'd like a chance to explain why I did what I did.	Zergatik egin nuen egin nuena azaltzeko aukera bat izatea gustoko litzaidake.
+What sort of people hang out at a place like this?	Zer nolako jendea dabil honelako leku batetan?
+When I was your age, I walked to school every day.	Zure adina nuenean, oinez joaten nintzen eskolara egunero.
+It's already eleven o'clock. I must be leaving now.	Hamaikak dira jada. Oraintxe joan beharra dut.
+She will without a doubt visit England this summer.	Ingalaterra bisitatuko du uda honetan zalantzarik gabe.
+Tom said his parents allow him to do what he wants.	Tomem dio gurasoek nahi duena egiten uzten diotela.
+I don't have to go back to Boston until next Monday.	Ez dut Bostonera bueltatu behar hurrengo astelehenerarte.
+If you don't help me, it won't get finished on time.	Laguntzen ez badidazu, ez dut garaiz amaituko.
+It's very impolite of you to decline her invitation.	Ez da batere gizalegekoa bere gonbidapenari muzin egitea.
+There was a pink slip waiting for her at the office.	Bazegoen kulero arrosa bat bere zain bulegoan.
+They agreed to look into the causes of the accident.	Istripuaren arrazoiak ikertuko zituztela adostu zuten.
+Two-thirds of the people here tonight are Canadians.	Gaur gauean hemen dauden pertsonen bi herena Kanadiarrak dira.
+You're going to hurt yourself if you aren't careful.	Mina egingo diozu zure buruari kontuz ibiltzen ez bazara.
+I'm not sure if that was a good thing or a bad thing.	Ez nago ziur ea gauza ona edo txarra denik.
+I'm not sure if that was a good thing or a bad thing.	Ez nago ziur idei on edo txar bat denik.
+I'm not sure if that was a good thing or a bad thing.	Ez nago ziur ideia ona edo txarra denik.
+No one shall be arbitrarily deprived of his property.	Arrazoirik gabe, ez zaio inori bere jabegoa kenduko.
+Tom and Mary have dinner together almost every night.	Tom eta Mary elkarrekin afaltzen dute gauero.
+Some people are for the plan and others are against it.	Batzuk planaren alde daude eta beste batzuk aurka.
+Tom is suspected of being involved in the bank robbery.	Tom banku batean lapurretan ibili den susmagarri da.
+Tom and Mary go to school together almost every morning.	Tom eta Mary elkarrekin joaten dira eskolara goizero.
+We stayed up until about 2:30 studying for today's test.	Egon ginen ikasten gaurko azterketarako 2:30k arte.
+I've only been here for a day and I already want to leave.	Egun batean bakarrik egon naiz eta jadanik joan nahi dut.
+I've only been here for a day and I already want to leave.	Bakarrik egon nintzen egun baterako eta gustatuko litzaidake hemen geratzea.
+CO₂ has a lot to do with the so-called greenhouse effect.	CO₂ horrek lotura handia du negutegi efektuarekin.
+I thought you were going to keep Tom here until I got back.	Uste nuen zuk Tom hemen mantenduko zenuela ni heltzen nintzen bitartean.
+Since he was injured in an accident, he could no longer walk.	Istripu batetan zauritu zenetik, ezin izan du berriz ibili.
+U.S.S.R. stands for the "Union of Soviet Socialist Republics".	SESB akronimoak adierazten du Sobietar Errepublika Sozialisten Batasuna.
+If you don't have enough money to buy that, I'll lend you some.	Ez badaukazu nahikoa diru hori erosteko, utziko dizut pixka bat.
+If you have ever visited Rome, you must have seen the Coliseum.	Roma inoiz bisitatu baldin baduzu, Koliseoa ikusia izan behar duzu.
+Some scientists believe that the greenhouse effect is imaginary.	Zientzialari batzuek uste dute negutegi efektua alegiazkoa dela.
+In China, there's a saying that you can't judge a person by appearance.	Txinan esaten ari dira pertsona bat bere itxuragatik epai daitekeela.
+Today, we can tell how the weather will be with a high degree of accuracy.	Gaur egun esan dezakegu nolako eguraldia egingo duen zehaztasun handiarekin.

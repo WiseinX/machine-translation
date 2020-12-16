@@ -1,736 +1,736 @@
-Hello!	Sveiki!	CC-BY 2.0 (France) Attribution: tatoeba.org #373330 (CK) & #2536050 (UK)
-Calm down.	Nomierines.	CC-BY 2.0 (France) Attribution: tatoeba.org #435575 (CK) & #2525201 (SilverBirdLV)
-Do it now.	Dariet to tagad.	CC-BY 2.0 (France) Attribution: tatoeba.org #435763 (CK) & #2525263 (SilverBirdLV)
-I'm timid.	Esmu kautrīgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #2203460 (CK) & #8260368 (User77812)
-It's free.	Tas ir bezmaksas.	CC-BY 2.0 (France) Attribution: tatoeba.org #435782 (CK) & #2525275 (SilverBirdLV)
-Who is he?	Kas viņš ir.	CC-BY 2.0 (France) Attribution: tatoeba.org #347331 (sysko) & #2525098 (SilverBirdLV)
-I love you.	Es mīlu tevi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1434 (awael58) & #2525096 (SilverBirdLV)
-I miss you.	Man tevis pietrūkst.	CC-BY 2.0 (France) Attribution: tatoeba.org #1308 (brauliobezerra) & #2525100 (SilverBirdLV)
-I sat down.	Es apsēdos.	CC-BY 2.0 (France) Attribution: tatoeba.org #2247395 (CK) & #2588352 (UK)
-I'm so fat.	Es esmu tāds tusnis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1339 (Zifre) & #2525108 (SilverBirdLV)
-Take cover!	Slēpes!	CC-BY 2.0 (France) Attribution: tatoeba.org #2111485 (CK) & #2525288 (SilverBirdLV)
-Who did it?	Kurš to izdarīja?	CC-BY 2.0 (France) Attribution: tatoeba.org #276223 (CK) & #2585097 (UK)
-I buy tapes.	Es nopirku lentes	CC-BY 2.0 (France) Attribution: tatoeba.org #435445 (CK) & #2525192 (SilverBirdLV)
-I was wrong.	Es kļūdījos.	CC-BY 2.0 (France) Attribution: tatoeba.org #472431 (blay_paul) & #2536006 (UK)
-I was wrong.	Man nebija taisnība.	CC-BY 2.0 (France) Attribution: tatoeba.org #472431 (blay_paul) & #2536009 (UK)
-I'll attend.	Es ieradīšos.	CC-BY 2.0 (France) Attribution: tatoeba.org #435424 (CK) & #2525187 (SilverBirdLV)
-Life is fun.	Dzīve ir smieklīga.	CC-BY 2.0 (France) Attribution: tatoeba.org #435772 (CK) & #2525271 (SilverBirdLV)
-Tom is dead.	Toms ir miris.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868217 (CK) & #5942724 (SilverBirdLV)
-Tom is sure.	Toms ir pārliecināts.	CC-BY 2.0 (France) Attribution: tatoeba.org #2524648 (CK) & #2527568 (SilverBirdLV)
-Are you sure?	Vai tu esi pārliecināts?	CC-BY 2.0 (France) Attribution: tatoeba.org #1326 (brauliobezerra) & #2525103 (SilverBirdLV)
-I am curious.	Es esmu ziņkārīgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1436 (brauliobezerra) & #2525158 (SilverBirdLV)
-I can't sing.	Es nevaru dziedāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1883025 (Spamster) & #2528516 (SilverBirdLV)
-It's too big.	Tas ir par lielu.	CC-BY 2.0 (France) Attribution: tatoeba.org #435409 (CK) & #2525181 (SilverBirdLV)
-Tom sat down.	Toms apsēdās.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237642 (CK) & #5946814 (SilverBirdLV)
-Who's hungry?	Kāds ir izsalcis?	CC-BY 2.0 (France) Attribution: tatoeba.org #2524299 (CK) & #2527614 (SilverBirdLV)
-Everyone dies.	Visi mirst.	CC-BY 2.0 (France) Attribution: tatoeba.org #435769 (CK) & #2525269 (SilverBirdLV)
-Get back here.	Nāc atpakaļ.	CC-BY 2.0 (France) Attribution: tatoeba.org #1841168 (CK) & #2526661 (UK)
-I hate coffee.	Es ienīstu kafiju.	CC-BY 2.0 (France) Attribution: tatoeba.org #435422 (blay_paul) & #2525186 (SilverBirdLV)
-It's improved.	Tās ir uzlabojies.	CC-BY 2.0 (France) Attribution: tatoeba.org #435785 (CK) & #2525276 (SilverBirdLV)
-That's a fake.	Tas ir neīsts.	CC-BY 2.0 (France) Attribution: tatoeba.org #435734 (CK) & #2525246 (SilverBirdLV)
-The bell rang.	Zvans nozvanīja.	CC-BY 2.0 (France) Attribution: tatoeba.org #385375 (Mouseneb) & #2563878 (UK)
-Tom is stable.	Toms ir stabils.	CC-BY 2.0 (France) Attribution: tatoeba.org #2236861 (CK) & #2527565 (SilverBirdLV)
-Tom rushed in.	Toms ieskrēja iekšā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237635 (CK) & #5946785 (SilverBirdLV)
-Tom said that.	Toms pateica to.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237639 (CK) & #5946807 (SilverBirdLV)
-Tom sat alone.	Toms sēdēja viens.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237640 (CK) & #5946809 (SilverBirdLV)
-You can do it.	Tu to vari.	CC-BY 2.0 (France) Attribution: tatoeba.org #1391 (brauliobezerra) & #2525110 (SilverBirdLV)
-You may speak.	Tu vari runāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2255153 (CK) & #2588125 (UK)
-Do you have it?	Vai tev tas ir?	CC-BY 2.0 (France) Attribution: tatoeba.org #2192241 (acbarbosa) & #6806110 (User77812)
-Get out of bed.	Ārā no gultas!	CC-BY 2.0 (France) Attribution: tatoeba.org #1985575 (Spamster) & #2528374 (UK)
-Happy New Year!	Laimīgu Jauno gadu!	CC-BY 2.0 (France) Attribution: tatoeba.org #361350 (blay_paul) & #7678304 (User77812)
-He looks tired.	Viņš izskatās noguris.	CC-BY 2.0 (France) Attribution: tatoeba.org #302947 (CK) & #2585167 (UK)
-I borrow money.	Es aizņēmos naudu.	CC-BY 2.0 (France) Attribution: tatoeba.org #435437 (CK) & #2525191 (SilverBirdLV)
-I love parties.	Es mīlu ballītes.	CC-BY 2.0 (France) Attribution: tatoeba.org #435747 (CK) & #2525255 (SilverBirdLV)
-I wasn't fired.	Mani neatlaida.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851405 (CK) & #5934839 (SilverBirdLV)
-I went outside.	Es izgāju ārā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851398 (CK) & #5934833 (SilverBirdLV)
-I won't eat it.	Es to neēdīšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851384 (CK) & #5934799 (SilverBirdLV)
-I won't starve.	Es nenomiršu badā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851377 (CK) & #5934785 (SilverBirdLV)
-I wore a hoody.	Es valkāju kapuci.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851370 (CK) & #5934767 (SilverBirdLV)
-I work indoors.	Es strādāju iekštelpās.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851363 (CK) & #5934748 (SilverBirdLV)
-I write poetry.	Es rakstu poēmu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851356 (CK) & #5934703 (SilverBirdLV)
-I'm a believer.	Es esmu ticīgais.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851349 (CK) & #5934678 (SilverBirdLV)
-I'm a romantic.	Es esmu romantiķis.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851245 (CK) & #5934725 (SilverBirdLV)
-It's too large.	Tas ir lielu.	CC-BY 2.0 (France) Attribution: tatoeba.org #435410 (CK) & #2525182 (SilverBirdLV)
-It's very cold.	Ir ļoti auksti.	CC-BY 2.0 (France) Attribution: tatoeba.org #435726 (CK) & #2525244 (SilverBirdLV)
-Please come in.	Ludzu nāc iekšā.	CC-BY 2.0 (France) Attribution: tatoeba.org #435705 (CK) & #2525243 (SilverBirdLV)
-They have wine.	Viņiem ir vīns.	CC-BY 2.0 (France) Attribution: tatoeba.org #1764506 (CK) & #2528522 (SilverBirdLV)
-Tom sat calmly.	Toms sēdēja mierīgi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237641 (CK) & #5946810 (SilverBirdLV)
-Tom sat nearby.	Toms apsēdās tuvu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237645 (CK) & #5946954 (SilverBirdLV)
-Clean your room.	Iztīri savu istabu.	CC-BY 2.0 (France) Attribution: tatoeba.org #435774 (CK) & #2525273 (SilverBirdLV)
-Congratulations!	Apsveicam!	CC-BY 2.0 (France) Attribution: tatoeba.org #1437 (CK) & #2525162 (SilverBirdLV)
-Has he come yet?	Vai viņš jau ir atnācis?	CC-BY 2.0 (France) Attribution: tatoeba.org #293048 (CK) & #7790680 (gasis)
-He likes to run.	Viņam patīk skriet.	CC-BY 2.0 (France) Attribution: tatoeba.org #630421 (CK) & #2585130 (UK)
-I'm going to go.	Es iešu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1312 (axcutul) & #2525102 (SilverBirdLV)
-Large, isn't it?	Liels, vai ne?	CC-BY 2.0 (France) Attribution: tatoeba.org #435613 (CK) & #2525207 (SilverBirdLV)
-Lemons are sour.	Citroni ir skābi.	CC-BY 2.0 (France) Attribution: tatoeba.org #435751 (CK) & #2525260 (SilverBirdLV)
-That's too much!	Tas ir par daudz.	CC-BY 2.0 (France) Attribution: tatoeba.org #52024 (CK) & #2588379 (UK)
-They helped Tom.	Viņi palīdzēja Tomam.	CC-BY 2.0 (France) Attribution: tatoeba.org #2243154 (CK) & #2528514 (SilverBirdLV)
-They won't come.	Viņi nenāks.	CC-BY 2.0 (France) Attribution: tatoeba.org #2243524 (CK) & #2528591 (SilverBirdLV)
-Tom is confused.	Toms ir apjucis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868218 (CK) & #5942727 (SilverBirdLV)
-Tom kept silent.	Toms turpināja klusēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237098 (CK) & #5946732 (SilverBirdLV)
-Tom seems bored.	Toms izskatās garlaikots.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237683 (CK) & #2588314 (UK)
-We're dedicated.	Mēs esam izlēmuši.	CC-BY 2.0 (France) Attribution: tatoeba.org #2202734 (CK) & #2588245 (UK)
-Were you crying?	Vai tu raudāji?	CC-BY 2.0 (France) Attribution: tatoeba.org #1866426 (Spamster) & #8260428 (User77812)
-What do you say?	Ko jūs sakāt?	CC-BY 2.0 (France) Attribution: tatoeba.org #1174872 (CK) & #2527727 (SilverBirdLV)
-He kept his word.	Viņš turēja savu vārdu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2292317 (Hybrid) & #2588520 (UK)
-I dislike coffee.	Man nepatīk kafija.	CC-BY 2.0 (France) Attribution: tatoeba.org #435429 (CK) & #2525189 (SilverBirdLV)
-I drink to relax.	Es dzeru lai relaksētos.	CC-BY 2.0 (France) Attribution: tatoeba.org #2325142 (CK) & #2530048 (SilverBirdLV)
-I had to go back.	Man vajadzēja iet atpakaļ.	CC-BY 2.0 (France) Attribution: tatoeba.org #2331814 (CK) & #2525088 (SilverBirdLV)
-I like them both.	Man patīk viņi abi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2930608 (astyng) & #2931164 (SilverBirdLV)
-I play the piano.	Es spēlēju klavieres.	CC-BY 2.0 (France) Attribution: tatoeba.org #382917 (ver) & #6787706 (User77812)
-I wrote a letter.	Es uzrakstīju vēstuli.	CC-BY 2.0 (France) Attribution: tatoeba.org #258457 (CK) & #2527741 (SilverBirdLV)
-I'm really sorry.	Man ir ļoti žēl.	CC-BY 2.0 (France) Attribution: tatoeba.org #680224 (Source_VOA) & #2528540 (SilverBirdLV)
-It's just a cold.	Tā ir tikai saaukstēšanās.	CC-BY 2.0 (France) Attribution: tatoeba.org #319735 (CK) & #2528361 (UK)
-Let's have lunch.	Ēdīsim pusdienas!	CC-BY 2.0 (France) Attribution: tatoeba.org #64175 (CK) & #2562637 (UK)
-No one will know.	Neviens nezinās.	CC-BY 2.0 (France) Attribution: tatoeba.org #1421 (CK) & #2525143 (SilverBirdLV)
-The line is busy.	Līnija ir aizņemta.	CC-BY 2.0 (France) Attribution: tatoeba.org #63854 (CK) & #2588201 (UK)
-This is above me.	Tas ir pāri manām spējām.	CC-BY 2.0 (France) Attribution: tatoeba.org #55633 (CM) & #8217232 (User77812)
-Tom is an orphan.	Toms ir bārenis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868229 (CK) & #5942771 (SilverBirdLV)
-Tom is angry now.	Toms ir dusmīgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868228 (CK) & #5942770 (SilverBirdLV)
-Tom kept running.	Toms turpināja skriet.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237093 (CK) & #5946726 (SilverBirdLV)
-Tom kept sighing.	Toms turpināja dziedāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237097 (CK) & #5946731 (SilverBirdLV)
-Tom kept singing.	Toms turpināja dziedāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237099 (CK) & #5946731 (SilverBirdLV)
-Tom kept smiling.	Toms turpināja smaidīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237100 (CK) & #5946733 (SilverBirdLV)
-Tom kept staring.	Toms turpināja lukoties.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237101 (CK) & #5946734 (SilverBirdLV)
-Tom kept staring.	Toms turpināja skatīties.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237101 (CK) & #5946736 (SilverBirdLV)
-Tom kept talking.	Toms turpināja runāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237102 (CK) & #5946756 (SilverBirdLV)
-What could it be?	Kas tas varētu būt?	CC-BY 2.0 (France) Attribution: tatoeba.org #2402179 (CK) & #2588603 (UK)
-Whose turn is it?	Kura kārta ir?	CC-BY 2.0 (France) Attribution: tatoeba.org #435279 (CK) & #2525169 (SilverBirdLV)
-You must join me.	Tev vajag man piebiedroties.	CC-BY 2.0 (France) Attribution: tatoeba.org #1875949 (Spamster) & #2588228 (UK)
-You should sleep.	Tev vajadzētu gulēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1311 (CK) & #2525101 (SilverBirdLV)
-You'll stay here.	Tu paliksi šeit.	CC-BY 2.0 (France) Attribution: tatoeba.org #2255392 (CK) & #2508304 (UK)
-You're in danger.	Jūs esat briesmās.	CC-BY 2.0 (France) Attribution: tatoeba.org #1651936 (Spamster) & #7649251 (User77812)
-Are you surprised?	Vai tu esi pārsteigts?	CC-BY 2.0 (France) Attribution: tatoeba.org #2206641 (Hybrid) & #2585136 (UK)
-Give me your book.	Iedod man savu grāmatu!	CC-BY 2.0 (France) Attribution: tatoeba.org #1572927 (fanty) & #2588498 (UK)
-How are you going?	Kā jums klājas?	CC-BY 2.0 (France) Attribution: tatoeba.org #1417902 (tien_oroniel) & #474932 (robmen)
-I didn't even ask.	Es pat nejautāju.	CC-BY 2.0 (France) Attribution: tatoeba.org #2271713 (CK) & #2528378 (UK)
-I hope we find it.	Es ceru, ka mēs to atradīsim.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780530 (CK) & #6780719 (User77812)
-I need to find it.	Man vajag to atrast.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780532 (CK) & #6780727 (User77812)
-I prefer comedies.	Es dodu priekšroku komēdijām.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780534 (CK) & #6780858 (User77812)
-I'll set you free.	Es tevi atbrīvošu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1841638 (CK) & #2588368 (UK)
-I'll set you free.	Es jūs atbrīvošu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1841638 (CK) & #2588370 (UK)
-It's not my fault.	Tā nav mana vaina.	CC-BY 2.0 (France) Attribution: tatoeba.org #321324 (CK) & #2589502 (UK)
-Life is enjoyable.	Dzīve ir patīkama.	CC-BY 2.0 (France) Attribution: tatoeba.org #435771 (CK) & #2525270 (SilverBirdLV)
-My father is busy.	Mans tēvs ir aizņemts.	CC-BY 2.0 (France) Attribution: tatoeba.org #251731 (CK) & #2588464 (UK)
-Now, that's funny.	Lūk, tas bija smieklīgi.	CC-BY 2.0 (France) Attribution: tatoeba.org #4495155 (CK) & #5932128 (SilverBirdLV)
-October was worse.	Oktobris bija slikts.	CC-BY 2.0 (France) Attribution: tatoeba.org #4495154 (CK) & #5932127 (SilverBirdLV)
-Shouldn't we help?	Vai mums nevajadzētu palīdzēt?	CC-BY 2.0 (France) Attribution: tatoeba.org #6780536 (CK) & #6780860 (User77812)
-The pizza is here.	Pica ir klāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780538 (CK) & #6780863 (User77812)
-They are our cars.	Tās ir mūsu mašīnas.	CC-BY 2.0 (France) Attribution: tatoeba.org #41949 (CK) & #2588648 (UK)
-This is Tom's cat.	Šis ir Toma kaķis.	CC-BY 2.0 (France) Attribution: tatoeba.org #3588378 (Ooneykcall) & #6806097 (User77812)
-Tom is at the bar.	Toms ir pie bāra.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868225 (CK) & #5942761 (SilverBirdLV)
-Tom is behind you.	Toms ir aiz tevis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868220 (CK) & #5942735 (SilverBirdLV)
-Tom returned fire.	Toms šāva pretīm.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237632 (CK) & #5946769 (SilverBirdLV)
-Tom returned home.	Toms atgriezās mājās.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237633 (CK) & #5946772 (SilverBirdLV)
-Tom won't find me.	Toms mani neatradīs.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780533 (CK) & #6780728 (User77812)
-Tom won't find us.	Toms mūs neatradīs.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780535 (CK) & #6780859 (User77812)
-Tom won't help me.	Toms man nepalīdzēs.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780537 (CK) & #6780861 (User77812)
-Tom won't stop me.	Toms mani neapturēs.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780539 (CK) & #6780873 (User77812)
-Tom's dog is dead.	Toma suns ir miris.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780540 (CK) & #6780993 (User77812)
-Were you prepared?	Jūs bijāt gatavi?	CC-BY 2.0 (France) Attribution: tatoeba.org #2254509 (CK) & #2528553 (SilverBirdLV)
-When will Tom eat?	Kad Toms ēdīs?	CC-BY 2.0 (France) Attribution: tatoeba.org #6780542 (CK) & #6781094 (User77812)
-Will Tom help you?	Vai Toms tev palīdzēs?	CC-BY 2.0 (France) Attribution: tatoeba.org #6780544 (CK) & #6780997 (User77812)
-Will you kiss Tom?	Vai tu noskūptīsi Tomu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6780546 (CK) & #6781063 (User77812)
-Will you warn Tom?	Vai tu brīdināsi Tomu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6780548 (CK) & #6781115 (User77812)
-You can wait here.	Tu vari gaidīt šeit.	CC-BY 2.0 (France) Attribution: tatoeba.org #1895802 (CK) & #2528016 (SilverBirdLV)
-You deserved that.	Tu to biji pelnījis.	CC-BY 2.0 (France) Attribution: tatoeba.org #3408850 (CK) & #6806102 (User77812)
-All apples are red.	Visi āboli ir sarkani.	CC-BY 2.0 (France) Attribution: tatoeba.org #1123550 (CK) & #2525062 (SilverBirdLV)
-Can you forgive me?	Vai vari man piedot?	CC-BY 2.0 (France) Attribution: tatoeba.org #737331 (CK) & #2528288 (UK)
-Do you have a plan?	Vai tev ir plāns?	CC-BY 2.0 (France) Attribution: tatoeba.org #25117 (CK) & #2588268 (UK)
-Hand me that phone.	Paspiedz man to telefonu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491236 (mailohilohi) & #5493686 (robmen)
-Here are your bags.	Šeit ir jūsu somas.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780541 (CK) & #6780995 (User77812)
-How did he find us?	Kā viņš mūs atrada?	CC-BY 2.0 (France) Attribution: tatoeba.org #1787902 (sadhen) & #2562660 (UK)
-I brought you this.	Es tev atnesu šo.	CC-BY 2.0 (France) Attribution: tatoeba.org #2299568 (CK) & #2578346 (UK)
-I don't have a cow.	Man nav govs.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780543 (CK) & #6780996 (User77812)
-I entered her room.	Es iegāju viņas istabā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1164821 (cntrational) & #2527945 (SilverBirdLV)
-I found a good job.	Es atradu labu darbu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780545 (CK) & #6781005 (User77812)
-I haven't paid yet.	Es vēl neesmu samaksājis.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780549 (CK) & #6781116 (User77812)
-I just sold my car.	Es tikko pārdevu savu mašīnu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780551 (CK) & #6781117 (User77812)
-I left Tom at home.	Es atstāju Tomu mājās.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780554 (CK) & #6781119 (User77812)
-I like candlelight.	Man patīk sveču gaisma.	CC-BY 2.0 (France) Attribution: tatoeba.org #1425 (CK) & #2525145 (SilverBirdLV)
-I live near a park.	Es dzīvoju netālu no parka.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780553 (CK) & #6781118 (User77812)
-I need a corkscrew.	Man vajag korķviļķi.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780555 (CK) & #6781142 (User77812)
-I never drink beer.	Es nekad nedzeru alu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780557 (CK) & #6781203 (User77812)
-I'll find somebody.	Es kādu atradīšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2247718 (CK) & #2508300 (UK)
-I'm Tom's neighbor.	Es esmu Toma kaimiņš.	CC-BY 2.0 (France) Attribution: tatoeba.org #2235795 (CK) & #2588128 (UK)
-Is this book yours?	Vai šī grāmata ir tava?	CC-BY 2.0 (France) Attribution: tatoeba.org #56970 (CK) & #2525577 (UK)
-It really happened.	Es patiešām esmu laimīgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #2524712 (CM) & #2527552 (SilverBirdLV)
-It's now your turn.	Tagad ir tava kārta.	CC-BY 2.0 (France) Attribution: tatoeba.org #435280 (CK) & #2525170 (SilverBirdLV)
-Let me pay tonight.	Ļauj man spēlēt šovakar.	CC-BY 2.0 (France) Attribution: tatoeba.org #435633 (CK) & #2525218 (SilverBirdLV)
-She has seven sons.	Viņai ir septiņi dēli.	CC-BY 2.0 (France) Attribution: tatoeba.org #640686 (jakov) & #2528535 (SilverBirdLV)
-Tom has passed out.	Toms ir atslēdzies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868268 (CK) & #2533028 (SilverBirdLV)
-Tom is a great kid.	Toms ir labs puika.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868239 (CK) & #5942796 (SilverBirdLV)
-Tom is a smart kid.	Toms ir gudrs zēns.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868236 (CK) & #5942791 (SilverBirdLV)
-Tom is about to go.	Toms tulīt ies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868235 (CK) & #5942787 (SilverBirdLV)
-Tom is at the door.	Toms ir pie durvīm.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868224 (CK) & #5942755 (SilverBirdLV)
-Tom is coming back.	Toms atgriezīsies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868219 (CK) & #5942732 (SilverBirdLV)
-Tom kept screaming.	Toms turpināja kliegt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237094 (CK) & #5946727 (SilverBirdLV)
-Tom might be upset.	Toms varētu būt apbēdināts.	CC-BY 2.0 (France) Attribution: tatoeba.org #6220030 (CK) & #8217246 (User77812)
-Tom said goodnight.	Toms pateica ar labunakti.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237637 (CK) & #5946797 (SilverBirdLV)
-Tom said something.	Toms pateica kautko.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237638 (CK) & #5946799 (SilverBirdLV)
-Tom stayed outside.	Toms palika ārā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2238730 (CK) & #2527916 (SilverBirdLV)
-Wait just a moment.	Pagaidi mirkli.	CC-BY 2.0 (France) Attribution: tatoeba.org #435746 (CK) & #2525254 (SilverBirdLV)
-We're just friends?	Mēs esam tikai draugi?	CC-BY 2.0 (France) Attribution: tatoeba.org #2523819 (CK) & #2527757 (SilverBirdLV)
-What is it made of?	No kā tas ir izgatavots?	CC-BY 2.0 (France) Attribution: tatoeba.org #464586 (lukaszpp) & #2585230 (UK)
-Where will I sleep?	Kur es gulēšu?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781719 (CK) & #6781736 (User77812)
-You've lost weight.	Tu pazaudēji svaru.	CC-BY 2.0 (France) Attribution: tatoeba.org #2255446 (CK) & #2525286 (SilverBirdLV)
-Are these your skis?	Šīs ir tavas slēpes?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781721 (CK) & #6781737 (User77812)
-Do you like cycling?	Vai tev patīk riteņbraukšana?	CC-BY 2.0 (France) Attribution: tatoeba.org #6786183 (CK) & #6787689 (User77812)
-He has a loud voice.	Viņam ir skaļa balss.	CC-BY 2.0 (France) Attribution: tatoeba.org #286988 (CK) & #2536543 (UK)
-He seemed to be ill.	Viņš izskatījās saslimis.	CC-BY 2.0 (France) Attribution: tatoeba.org #318397 (CM) & #2585203 (UK)
-I am sad to hear it.	Man ir skumji to dzirdēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #41755 (CK) & #2588236 (UK)
-I bought milk today.	Es šodien nopirku pienu.	CC-BY 2.0 (France) Attribution: tatoeba.org #3365833 (roobarb) & #2930778 (SilverBirdLV)
-I don't have a list.	Man nav saraksta.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781725 (CK) & #6781739 (User77812)
-I don't like flying.	Man nepatīk lidot.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781727 (CK) & #6781741 (User77812)
-I have to go to bed.	Man vajag iet gulēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1395 (brauliobezerra) & #2525118 (SilverBirdLV)
-I know what I'll do.	Es zinu, ko es darīšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #814425 (Zaphod) & #2562567 (UK)
-I need some hangers.	Man vajag dažus pakaramos.	CC-BY 2.0 (France) Attribution: tatoeba.org #34960 (CK) & #2525554 (UK)
-I painted the house.	Es nokrāsoju māju.	CC-BY 2.0 (France) Attribution: tatoeba.org #6786185 (CK) & #6787694 (User77812)
-I sent you a letter.	Es tev nosūtīju vēstuli.	CC-BY 2.0 (France) Attribution: tatoeba.org #1123307 (CK) & #2508312 (UK)
-I think you're nice.	Es domāju, ka tu esi jauks.	CC-BY 2.0 (France) Attribution: tatoeba.org #1887795 (CK) & #2528623 (SilverBirdLV)
-I'm tired of losing.	Es esmu noguris no zaudēšanas.	CC-BY 2.0 (France) Attribution: tatoeba.org #2548196 (CK) & #2930746 (SilverBirdLV)
-I'm worried for you.	Es esmu noraizējies par tevi.	CC-BY 2.0 (France) Attribution: tatoeba.org #435421 (blay_paul) & #2525185 (SilverBirdLV)
-I've never hurt Tom.	Es nekad neesmu sāpinājis Tomu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780529 (CK) & #6780720 (User77812)
-I've never hurt Tom.	Es nekad neesmu sāpinājusi Tomu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780529 (CK) & #6781575 (User77812)
-It is white as snow.	Tas ir balts kā sniegs.	CC-BY 2.0 (France) Attribution: tatoeba.org #272579 (CK) & #2508315 (UK)
-Keep away from that.	Turies pa gabalu no tā.	CC-BY 2.0 (France) Attribution: tatoeba.org #42883 (CK) & #2528592 (SilverBirdLV)
-May I ask your name?	Vai es varētu pajautāt kā tevi sauc.	CC-BY 2.0 (France) Attribution: tatoeba.org #347327 (sysko) & #2525099 (SilverBirdLV)
-My dad will kill me.	Mans tēvs mani nogalinās.	CC-BY 2.0 (France) Attribution: tatoeba.org #1977711 (Spamster) & #5942812 (SilverBirdLV)
-Please give me that.	Lūdzu iedod man to.	CC-BY 2.0 (France) Attribution: tatoeba.org #6786187 (CK) & #6787702 (User77812)
-Read the book aloud.	Lasi grāmatu skaļi.	CC-BY 2.0 (France) Attribution: tatoeba.org #271934 (CK) & #2588137 (UK)
-That's an imitation.	Tā ir imitācija.	CC-BY 2.0 (France) Attribution: tatoeba.org #435733 (CK) & #2525245 (SilverBirdLV)
-That's not my fault.	Tā nav mana vaina.	CC-BY 2.0 (France) Attribution: tatoeba.org #1897805 (CK) & #2589502 (UK)
-That's your opinion.	Tā ir tava izvēle.	CC-BY 2.0 (France) Attribution: tatoeba.org #2252556 (CK) & #2528564 (SilverBirdLV)
-The news isn't good.	Ziņas nav labas.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491731 (CK) & #5493669 (robmen)
-They aren't like us.	Viņi nav tādi kā mēs.	CC-BY 2.0 (France) Attribution: tatoeba.org #5494241 (CK) & #7790689 (gasis)
-They really did win.	Viņi tiešām neuzvarēja.	CC-BY 2.0 (France) Attribution: tatoeba.org #435534 (CK) & #2525199 (SilverBirdLV)
-Tom can't fire Mary.	Toms nevar atlaist Mariju.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781718 (CK) & #6781735 (User77812)
-Tom is back in town.	Toms ir atgriezies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868222 (CK) & #5942746 (SilverBirdLV)
-Tom is barely alive.	Toms ir knapi dzīvs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868221 (CK) & #5942740 (SilverBirdLV)
-Tom is disappointed.	Toms ir vīlies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868215 (CK) & #5942722 (SilverBirdLV)
-Tom let Mary escape.	Toms ļāva Marijai aizmukt.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781720 (CK) & #6781734 (User77812)
-Tom often says that.	Toms bieži to saka.	CC-BY 2.0 (France) Attribution: tatoeba.org #6781724 (CK) & #6781738 (User77812)
-Tom rushed upstairs.	Toms steidzās aukšup pa kapnēm.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237636 (CK) & #5946791 (SilverBirdLV)
-Tom sat impatiently.	Toms apsēdās uzreiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237643 (CK) & #5946952 (SilverBirdLV)
-We'll send somebody.	Mēs kādu aizsūtīsim.	CC-BY 2.0 (France) Attribution: tatoeba.org #2241617 (CK) & #7790684 (gasis)
-We're still nervous.	Mēs vēl esam nervozi.	CC-BY 2.0 (France) Attribution: tatoeba.org #5488323 (CK) & #5490845 (robmen)
-We're trying to win.	Mēs mēģinam uzvarēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491745 (CK) & #5493665 (robmen)
-What did you answer?	Ko tu atbildēji?	CC-BY 2.0 (France) Attribution: tatoeba.org #1426 (Zifre) & #2525146 (SilverBirdLV)
-Where's Tom's watch?	Kur ir Toma pulkstenis?	CC-BY 2.0 (France) Attribution: tatoeba.org #6781726 (CK) & #6781740 (User77812)
-You don't work here.	Tu šeit nestrādā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2274019 (CK) & #2588291 (UK)
-You have bad breath.	Tev ir slikta elpa.	CC-BY 2.0 (France) Attribution: tatoeba.org #2527282 (CK) & #2527382 (SilverBirdLV)
-Call Tom immediately.	Zvani Tomam nekavējoties.	CC-BY 2.0 (France) Attribution: tatoeba.org #761870 (Zifre) & #2535974 (UK)
-Go and see who it is.	Ej un paskaties kas tas ir.	CC-BY 2.0 (France) Attribution: tatoeba.org #276272 (CK) & #2930835 (SilverBirdLV)
-How many do you want?	Cik cik daudz tu gribi?	CC-BY 2.0 (France) Attribution: tatoeba.org #880520 (CK) & #2532686 (SilverBirdLV)
-I forget who said it.	Es aizmirsu kurš to teica.	CC-BY 2.0 (France) Attribution: tatoeba.org #276227 (CK) & #2536258 (UK)
-I know that he knows.	Es zinu, ka viņš zin.	CC-BY 2.0 (France) Attribution: tatoeba.org #1687480 (Spamster) & #2578389 (UK)
-I still think of Tom.	Es aizvien domāju par Tomu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5754858 (CM) & #5944824 (SilverBirdLV)
-I wasn't too worried.	Es nebiju parāk uztraucies.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851389 (CK) & #5934808 (SilverBirdLV)
-I went out by myself.	Es izgāju viens pacs.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851382 (CK) & #5934795 (SilverBirdLV)
-I wish I were famous.	Es vēlos kaut es būtu slavens.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851375 (CK) & #5934781 (SilverBirdLV)
-I won't eat anything.	Es neēdīšu neko.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851368 (CK) & #5934762 (SilverBirdLV)
-I won't sing tonight.	Es šonakt nedziedāšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851361 (CK) & #5934724 (SilverBirdLV)
-I'll let you do that.	Es tev atļauju to darīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851354 (CK) & #5934699 (SilverBirdLV)
-I'm already a father.	Es jau esmu tēvs.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851347 (CK) & #5934673 (SilverBirdLV)
-I'm happy to hear it.	Es priecājos to dzirdēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2044467 (CK) & #2588524 (UK)
-It's a stupid system.	Tā ir stulba sistēma.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220218 (Hybrid) & #5220476 (Turaida)
-It's an easy victory.	Tā ir viegla uzvara.	CC-BY 2.0 (France) Attribution: tatoeba.org #435761 (CK) & #2525262 (SilverBirdLV)
-Look at that red car.	Paskaties uz to sarkano mašīnu.	CC-BY 2.0 (France) Attribution: tatoeba.org #3365844 (roobarb) & #2528655 (SilverBirdLV)
-Please lock the safe.	Lūdzu aizslēdz seifu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1003552 (CK) & #2526659 (UK)
-They resumed walking.	Viņi turpināja iet.	CC-BY 2.0 (France) Attribution: tatoeba.org #2243296 (CK) & #2525567 (UK)
-Tom is a good friend.	Toms ir labs draugs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868240 (CK) & #5942801 (SilverBirdLV)
-Tom is already there.	Toms jau ir šeit.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868231 (CK) & #5942781 (SilverBirdLV)
-Tom is an old friend.	Toms ir mans vecs draugs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868230 (CK) & #5942776 (SilverBirdLV)
-Tom needed your help.	Tomam vajag tavu palīdzību.	CC-BY 2.0 (France) Attribution: tatoeba.org #2646901 (CK) & #2930995 (SilverBirdLV)
-Tom resumed speaking.	Toms atsāka runāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237630 (CK) & #5946758 (SilverBirdLV)
-Tom wore a straw hat.	Toms valkāja salmu cepuri.	CC-BY 2.0 (France) Attribution: tatoeba.org #6620369 (Hybrid) & #6781728 (User77812)
-We can't give up now.	Mēs nevaram padoties.	CC-BY 2.0 (France) Attribution: tatoeba.org #1654040 (Spamster) & #2930736 (SilverBirdLV)
-We did nothing wrong.	Mēs neizdarījām neko sliktu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1879046 (Spamster) & #2588655 (UK)
-We didn't do a thing.	Mēs neko nedarījām.	CC-BY 2.0 (France) Attribution: tatoeba.org #2401247 (CK) & #2588615 (UK)
-We need your support.	Mums vajag jūsu atbalsu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1166445 (etoile) & #2585063 (UK)
-When's your birthday?	Kad ir tava dzimšanas diena?	CC-BY 2.0 (France) Attribution: tatoeba.org #2254571 (CK) & #2589197 (UK)
-Where is the problem?	Kur ir problēma?	CC-BY 2.0 (France) Attribution: tatoeba.org #1431 (Zifre) & #2525152 (SilverBirdLV)
-Why should they hide?	Kāpēc viņiem būtu jāslēpjas?	CC-BY 2.0 (France) Attribution: tatoeba.org #3436417 (CK) & #7649274 (User77812)
-Yesterday was Sunday.	Vakar bija Svētdiena.	CC-BY 2.0 (France) Attribution: tatoeba.org #435641 (CK) & #2525226 (SilverBirdLV)
-Your son is a genius.	Tavs dēls ir ģēnijs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1527289 (quickfitter) & #2528367 (UK)
-Your son is a genius.	Jūsu dēls ir ģēnijs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1527289 (quickfitter) & #2528369 (UK)
-Do you need this book?	Vai tev vajag šo grāmatu?	CC-BY 2.0 (France) Attribution: tatoeba.org #372452 (ilayde) & #2588442 (UK)
-Does Tom have an iPad?	Vai Tomam ir iPad?	CC-BY 2.0 (France) Attribution: tatoeba.org #6786184 (CK) & #6787690 (User77812)
-Everyone else does it.	Visi citi to dara.	CC-BY 2.0 (France) Attribution: tatoeba.org #4579188 (Hybrid) & #7649259 (User77812)
-How long did you stay?	Cik ilgi tu paliki?	CC-BY 2.0 (France) Attribution: tatoeba.org #1373 (CK) & #2525109 (SilverBirdLV)
-I didn't want to lose.	Es negribēju zaudēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220171 (CK) & #5220494 (Turaida)
-I know Tom lied to us.	Es zinu, ka Toms mums sameloja.	CC-BY 2.0 (France) Attribution: tatoeba.org #6786186 (CK) & #6787701 (User77812)
-I know what Tom likes.	Es zinu kas Tomam patīk.	CC-BY 2.0 (France) Attribution: tatoeba.org #2376361 (CK) & #2930898 (SilverBirdLV)
-I met her an hour ago.	Es viņu satiku pirms stundas.	CC-BY 2.0 (France) Attribution: tatoeba.org #27746 (CK) & #2535977 (UK)
-I need a box of nails.	Man vajag naglu kasti.	CC-BY 2.0 (France) Attribution: tatoeba.org #2267044 (_undertoad) & #2508258 (UK)
-I need to feed my dog.	Man ir jāpabaro mans suns.	CC-BY 2.0 (France) Attribution: tatoeba.org #2387593 (CK) & #7649276 (User77812)
-I usually get up at 8.	Es parasti ceļos astoņos.	CC-BY 2.0 (France) Attribution: tatoeba.org #545886 (sysko) & #2536054 (UK)
-I'd like to know more.	Es gribētu uzzināt vairāk.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220169 (CK) & #5220490 (Turaida)
-I'll show you my room.	Es tev parādīšu savu istabu.	CC-BY 2.0 (France) Attribution: tatoeba.org #251793 (CK) & #2588664 (UK)
-I'll tell you a story.	Es tev pastāstīšu stāstu.	CC-BY 2.0 (France) Attribution: tatoeba.org #27849 (CK) & #8217244 (User77812)
-I'm sure I'll do that.	Esmu pārliecināts, ka es to izdarīšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220167 (CK) & #5220508 (Turaida)
-Is your daughter here?	Vai tava meita ir šeit.	CC-BY 2.0 (France) Attribution: tatoeba.org #1956324 (Spamster) & #2930907 (SilverBirdLV)
-It seems warm outside.	Šķiet ka ārā ir silts.	CC-BY 2.0 (France) Attribution: tatoeba.org #21993 (CK) & #2528530 (SilverBirdLV)
-Let's not go to class.	Neiesi uz klasi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2007655 (CK) & #2930839 (SilverBirdLV)
-That's good, isn't it?	Tas ir labi, vai ne?	CC-BY 2.0 (France) Attribution: tatoeba.org #435579 (CK) & #2525203 (SilverBirdLV)
-This is going too far.	Tas ir aizgājis par tālu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2524378 (CM) & #2527596 (SilverBirdLV)
-Tom appeared confused.	Toms izskatījās apmulsis.	CC-BY 2.0 (France) Attribution: tatoeba.org #680230 (Source_VOA) & #2562587 (UK)
-Tom doesn't live here.	Toms šeit nedzīvo.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868346 (CK) & #2585014 (UK)
-Tom gave me that book.	Toms man iedeva to grāmatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2991359 (CK) & #6806079 (User77812)
-Tom has a good excuse.	Tomam ir labs attaisnojums.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780526 (Eccles17) & #6780578 (User77812)
-Tom has good eyesight.	Tomam ir laba redze.	CC-BY 2.0 (France) Attribution: tatoeba.org #1025384 (CK) & #5490844 (robmen)
-Tom hung up the phone.	Toms nolika klausuli.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868242 (CK) & #5942808 (SilverBirdLV)
-Tom is at the airport.	Toms ir pie lidostas.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868226 (CK) & #5942765 (SilverBirdLV)
-Tom resuscitated Mary.	Toms atdzīvināja Mariju.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237631 (CK) & #5946765 (SilverBirdLV)
-We climbed to the top.	Mēs uzkāpām līdz virsotnei.	CC-BY 2.0 (France) Attribution: tatoeba.org #1543550 (JimBreen) & #2930743 (SilverBirdLV)
-Who's Tom looking for?	Ko Toms meklē?	CC-BY 2.0 (France) Attribution: tatoeba.org #3428421 (CK) & #5939426 (SilverBirdLV)
-You always seem tired.	Tu vienmēr izskaties noguris.	CC-BY 2.0 (France) Attribution: tatoeba.org #1895826 (CK) & #2588372 (UK)
-Can you close the door?	Vai tu vari aizvērt durvis?	CC-BY 2.0 (France) Attribution: tatoeba.org #2309227 (Hybrid) & #2508327 (UK)
-Do you come here often?	Vai tu šeit nāc bieži?	CC-BY 2.0 (France) Attribution: tatoeba.org #619636 (ulyssemc1) & #2588375 (UK)
-Has something happened?	Vai kaut kas ir noticis?	CC-BY 2.0 (France) Attribution: tatoeba.org #435754 (CK) & #2525261 (SilverBirdLV)
-He can't walk any more.	Viņš vairs nevar pastaigāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #289990 (CK) & #6782849 (User77812)
-He didn't even read it.	Viņš pat to neizlasīja	CC-BY 2.0 (France) Attribution: tatoeba.org #2930618 (astyng) & #2931147 (SilverBirdLV)
-I can't help you today.	Es tev šodien nevaru palīdzēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220163 (CK) & #5220507 (Turaida)
-I don't agree with him.	Es viņam nepiekrītu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2453 (CK) & #2562555 (UK)
-I don't have any plans.	Man nav nekādu plānu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220161 (CK) & #5220509 (Turaida)
-I don't know the cause.	Es nezinu iemeslu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5490607 (Mar1L) & #5490825 (robmen)
-I hope that it'll work.	Es ceru, ka tas strādās.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220159 (CK) & #5220539 (Turaida)
-I never had much money.	Man nekad nav bijis daudz naudas.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220155 (CK) & #5220548 (Turaida)
-I was happy I did that.	Es biju priecīgs, ka to izdarīju.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220153 (CK) & #5220550 (Turaida)
-I will gladly help you.	Es tev ar prieku palīdzēšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #20664 (CK) & #2525094 (SilverBirdLV)
-It doesn't surprise me.	Tas mani nepārsteidz.	CC-BY 2.0 (France) Attribution: tatoeba.org #1330 (CK) & #2525105 (SilverBirdLV)
-My TV has quit working.	Mans TV ir pārstājis darboties.	CC-BY 2.0 (France) Attribution: tatoeba.org #435792 (CK) & #2525279 (SilverBirdLV)
-Now, this is a problem.	Tagad tā ir problēma.	CC-BY 2.0 (France) Attribution: tatoeba.org #435634 (CK) & #2525219 (SilverBirdLV)
-Tell it to him, not me!	Saki to viņam, nevis man!	CC-BY 2.0 (France) Attribution: tatoeba.org #706859 (papabear) & #2585215 (UK)
-That's a good question.	Tas ir labs jautājums.	CC-BY 2.0 (France) Attribution: tatoeba.org #435750 (CK) & #2525258 (SilverBirdLV)
-They suspected nothing.	Viņi neko nenojauš.	CC-BY 2.0 (France) Attribution: tatoeba.org #2243342 (CK) & #2562714 (UK)
-Tom cut the wrong wire.	Toms pārgrieza nepareizo vadu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220224 (Hybrid) & #5220467 (Turaida)
-Tom is all alone again.	Toms atkal ir pilnīgi viens.	CC-BY 2.0 (France) Attribution: tatoeba.org #2208431 (CK) & #2588333 (UK)
-Tom is studying French.	Toms mācās Franču valodu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024855 (CK) & #6806077 (User77812)
-What has he done today?	Ko viņš šodien ir izdarījis?	CC-BY 2.0 (France) Attribution: tatoeba.org #738804 (Zifre) & #2588652 (UK)
-What has he done today?	Ko viņš ir izdarījis šodien?	CC-BY 2.0 (France) Attribution: tatoeba.org #738804 (Zifre) & #2930861 (SilverBirdLV)
-What're we waiting for?	Ko mēs gaidām?	CC-BY 2.0 (France) Attribution: tatoeba.org #2402186 (CK) & #2588599 (UK)
-What're we waiting for?	Ko jūs gaidāt?	CC-BY 2.0 (France) Attribution: tatoeba.org #2402186 (CK) & #2588600 (UK)
-Why aren't you at work?	Kāpēc tu neesi darbā?	CC-BY 2.0 (France) Attribution: tatoeba.org #5219731 (krzysiek) & #5220575 (Turaida)
-Why do I feel this way?	Kāpēc es šādi jūtos?	CC-BY 2.0 (France) Attribution: tatoeba.org #36461 (CM) & #2526642 (UK)
-Will she get well soon?	Vai viņa drīz atlabs?	CC-BY 2.0 (France) Attribution: tatoeba.org #310987 (CK) & #2589205 (UK)
-You asked for our help.	Tu lūdzi mūsu palīdzību.	CC-BY 2.0 (France) Attribution: tatoeba.org #3434313 (CK) & #7790686 (gasis)
-You can't hypnotize me.	Tu nespēj mani hipnotizēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1951883 (CK) & #2525084 (SilverBirdLV)
-You must do it at once.	Tev vajaga beidzot to izdarīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #16557 (Swift) & #2528551 (SilverBirdLV)
-Did he support her idea?	Vai viņš atbalstīja viņas ideju.	CC-BY 2.0 (France) Attribution: tatoeba.org #803003 (Source_VOA) & #2562563 (UK)
-Do you require our help?	Vai tev vajag mūsu palīdzību.	CC-BY 2.0 (France) Attribution: tatoeba.org #1491632 (fanty) & #2528590 (SilverBirdLV)
-Her kindness touched me.	Viņas laipnība mani aizkustināja.	CC-BY 2.0 (France) Attribution: tatoeba.org #309464 (CM) & #2536569 (UK)
-I can't just do nothing.	Es varu nedarīt neko.	CC-BY 2.0 (France) Attribution: tatoeba.org #1951982 (CK) & #2930748 (SilverBirdLV)
-I don't care either way.	Man vienalga jebkurā gadījumā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5558787 (CK) & #7644654 (User77812)
-I don't want to eat now.	Es tagad negribu ēst.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220149 (CK) & #5220551 (Turaida)
-I go there all the time.	Es tur eju visu laiku.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220145 (CK) & #5220557 (Turaida)
-I hope we'll meet again.	Es ceru, ka mēs tiksimies vēlreiz.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220143 (CK) & #5220556 (Turaida)
-I love to take pictures.	Man patīk fotogrāfēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5490076 (Mar1L) & #5490834 (robmen)
-I think you're mistaken.	Es domāju, ka tu kļūdies.	CC-BY 2.0 (France) Attribution: tatoeba.org #2458589 (CK) & #2562611 (UK)
-I've seen Tom in action.	Es esmu redzējis Tomu darbībā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220170 (CK) & #5220488 (Turaida)
-If you want to cry, cry.	Ja tu gribi raudāt, raudi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1209925 (CK) & #2529975 (SilverBirdLV)
-It's time for Tom to go.	Tomam ir laiks doties.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220168 (CK) & #5220502 (Turaida)
-She didn't need to come.	Viņai nevajadzēja nākt.	CC-BY 2.0 (France) Attribution: tatoeba.org #308542 (CK) & #2589568 (UK)
-She knocked on the door.	Viņa pieklauvēja pie durvīm.	CC-BY 2.0 (France) Attribution: tatoeba.org #311667 (CK) & #2588295 (UK)
-The skeptics were right.	Skeptiķiem bija taisnība.	CC-BY 2.0 (France) Attribution: tatoeba.org #5219414 (Hybrid) & #5220581 (Turaida)
-They know what happened.	Viņi zin, kas notika.	CC-BY 2.0 (France) Attribution: tatoeba.org #1522320 (Spamster) & #2562646 (UK)
-Tom has no friends here.	Tomam šeit nav draugu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491734 (CK) & #5493667 (robmen)
-Tom is a visual thinker.	Toms ir vizuāls domātājs.	CC-BY 2.0 (France) Attribution: tatoeba.org #5488496 (Hybrid) & #5490842 (robmen)
-Tom is my second cousin.	Toms ir mans otrais brālēns.	CC-BY 2.0 (France) Attribution: tatoeba.org #2495053 (sharptoothed) & #2525291 (SilverBirdLV)
-Tom isn't being careful.	Toms nav piesardzīgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #680474 (Source_VOA) & #2528544 (SilverBirdLV)
-Tom just didn't like it.	Tomam tas nepatika.	CC-BY 2.0 (France) Attribution: tatoeba.org #3736533 (CK) & #5946725 (SilverBirdLV)
-We don't even need this.	Mums pat to nevajag.	CC-BY 2.0 (France) Attribution: tatoeba.org #2401250 (CK) & #2588614 (UK)
-We don't have any proof.	Mums nav nekādu pierādījumu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2401253 (CK) & #2588612 (UK)
-We've been there before.	Mēs jau tur esam bijuši.	CC-BY 2.0 (France) Attribution: tatoeba.org #1702600 (Spamster) & #2526657 (UK)
-What did Tom talk about?	Par ko Toms runāja?	CC-BY 2.0 (France) Attribution: tatoeba.org #5220154 (CK) & #5220549 (Turaida)
-What do you think of me?	Ko tu domā par mani?	CC-BY 2.0 (France) Attribution: tatoeba.org #2892551 (CK) & #5939441 (SilverBirdLV)
-What're you looking for?	Ko tu meklē?	CC-BY 2.0 (France) Attribution: tatoeba.org #2402188 (CK) & #2588596 (UK)
-You didn't miss a thing.	Tu neko nenokavēji.	CC-BY 2.0 (France) Attribution: tatoeba.org #2283628 (CK) & #2508323 (UK)
-You explained that well.	Tu to labi izskaidroji.	CC-BY 2.0 (France) Attribution: tatoeba.org #2274020 (CK) & #2585213 (UK)
-You have plenty of time.	Tev ir daudz laika.	CC-BY 2.0 (France) Attribution: tatoeba.org #1895743 (CK) & #2536415 (UK)
-Can you help me a little?	Vai tu man varētu nedaudz palīdzēt?	CC-BY 2.0 (France) Attribution: tatoeba.org #39986 (CK) & #2585201 (UK)
-He drank a lot yesterday.	Viņš dzēra daudz vakar.	CC-BY 2.0 (France) Attribution: tatoeba.org #435643 (CK) & #2525229 (SilverBirdLV)
-He has never been abroad.	Viņš nekad nav bijis ārzemēs.	CC-BY 2.0 (France) Attribution: tatoeba.org #294736 (CK) & #2588205 (UK)
-He is too tired to study.	Viņš ir pārāk noguris, lai mācītos.	CC-BY 2.0 (France) Attribution: tatoeba.org #302934 (CK) & #2585160 (UK)
-He missed the last train.	Viņš nokavēja pēdējo vilcienu.	CC-BY 2.0 (France) Attribution: tatoeba.org #296751 (CK) & #2585158 (UK)
-He'll be glad to see you.	Viņš priecāsies tevi redzēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #295626 (CK) & #2588126 (UK)
-He'll be glad to see you.	Viņš priecāsies jūs redzēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #295626 (CK) & #2588127 (UK)
-How tall is your brother?	Cik garš ir tavs brālis?	CC-BY 2.0 (France) Attribution: tatoeba.org #237832 (CK) & #2536280 (UK)
-I advised Tom to go home.	Es ieteicu Tomam doties mājās.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220148 (CK) & #5220552 (Turaida)
-I can help if you'd like.	Es varu palīdzēt ja tu gribi.	CC-BY 2.0 (France) Attribution: tatoeba.org #5794349 (CK) & #5931020 (SilverBirdLV)
-I can't help you do that.	Es nevaru tev palīdzēt to izdarīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1951854 (CK) & #2527238 (UK)
-I don't like cold coffee.	Man nepatīk auksta kafija.	CC-BY 2.0 (France) Attribution: tatoeba.org #524397 (CK) & #2528386 (UK)
-I don't like you anymore.	Man tu vairs nepatīc.	CC-BY 2.0 (France) Attribution: tatoeba.org #1435 (CK) & #2525157 (SilverBirdLV)
-I go to school by subway.	Es dodos uz skolu ar metro.	CC-BY 2.0 (France) Attribution: tatoeba.org #259409 (CK) & #2528356 (UK)
-I knew Tom meant no harm.	Es zinu, ka Toms nedomāja ļaunu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220144 (CK) & #5220554 (Turaida)
-I saw it from the window.	Es to ieraudzīju no loga.	CC-BY 2.0 (France) Attribution: tatoeba.org #2253337 (_undertoad) & #2528519 (SilverBirdLV)
-I wonder if this is love.	Es domāju vai tā ir mīlestība.	CC-BY 2.0 (France) Attribution: tatoeba.org #435651 (CK) & #2525235 (SilverBirdLV)
-I'll study hard tomorrow.	Es rīt cītīgi mācīšos	CC-BY 2.0 (France) Attribution: tatoeba.org #1365850 (CK) & #2562559 (UK)
-I'm not excited about it.	Es neesmu par to sajūsmā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491552 (CK) & #5493674 (robmen)
-I'm really glad you came.	Esmu ļoti priecīgs, ka tu atnāci.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220105 (Hybrid) & #5220558 (Turaida)
-I've got nothing to hide.	Man nav nekas slēpjams.	CC-BY 2.0 (France) Attribution: tatoeba.org #2359671 (CK) & #2528008 (SilverBirdLV)
-Mary is Tom's girlfriend.	Marijas draugs ir Toms	CC-BY 2.0 (France) Attribution: tatoeba.org #1668970 (wallebot) & #2527739 (SilverBirdLV)
-Maybe we should be quiet.	Varbūt mums vajadzētu būt klusiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #1898319 (CK) & #2528405 (UK)
-That wasn't my intention.	Tas nebija mans nodoms.	CC-BY 2.0 (France) Attribution: tatoeba.org #1402 (CK) & #2525129 (SilverBirdLV)
-That's not going to help.	Tas nelīdzēs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1897801 (CK) & #2562705 (UK)
-The two boys are cousins.	Šie zēni ir brālēni.	CC-BY 2.0 (France) Attribution: tatoeba.org #2495065 (sharptoothed) & #2525290 (SilverBirdLV)
-They became very nervous.	Viņi kļuva ļoti nervozi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1481683 (weihaiping) & #2536045 (UK)
-This watch is waterproof.	Šis rokaspulkstenis ir ūdensizturīgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #58908 (CK) & #2578418 (UK)
-Tom is already in Boston.	Toms jau ir Bostonā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868232 (CK) & #5942785 (SilverBirdLV)
-Tom returned immediately.	Toms atgriezās uzreizs.	CC-BY 2.0 (France) Attribution: tatoeba.org #2237634 (CK) & #5946783 (SilverBirdLV)
-Turtles don't have teeth.	Bruņurupučiem nav zobu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5308161 (Balamax) & #5932100 (SilverBirdLV)
-We should study together.	Mums vajadzētu mācīties kopā.	CC-BY 2.0 (France) Attribution: tatoeba.org #886269 (CM) & #2578383 (UK)
-What do you mean by that?	Ko tu ar to domā?	CC-BY 2.0 (France) Attribution: tatoeba.org #43210 (CK) & #2536513 (UK)
-Would you like to see it?	Vai tu gribētu redzēt to.	CC-BY 2.0 (France) Attribution: tatoeba.org #1920442 (Spamster) & #2530180 (SilverBirdLV)
-You don't have to eat it.	Tev nevajag to ēst.	CC-BY 2.0 (France) Attribution: tatoeba.org #435767 (CK) & #2525267 (SilverBirdLV)
-Everyone, please be quiet.	Visi lūdz esat klusi.	CC-BY 2.0 (France) Attribution: tatoeba.org #435748 (CK) & #2525256 (SilverBirdLV)
-He can speak Russian, too.	Viņš ari var runāt Krieviski.	CC-BY 2.0 (France) Attribution: tatoeba.org #435646 (CK) & #2525231 (SilverBirdLV)
-I can get anything I want.	Es varu dabūt visu ko es gribu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2523426 (CK) & #2527798 (SilverBirdLV)
-I don't have many friends.	Man nav daudz draugu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1970154 (CK) & #2930990 (SilverBirdLV)
-I don't know how I did it.	Es nezinu kā es to izdarīju.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220102 (Hybrid) & #5220559 (Turaida)
-I don't want you to worry.	Es negribu lai tu uztrauktos.	CC-BY 2.0 (France) Attribution: tatoeba.org #2012439 (CK) & #2930890 (SilverBirdLV)
-I just want a normal life.	Es tikai vēlos normālu dzīvi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2374023 (CK) & #2528363 (UK)
-I need to know everything.	Man jāzin viss.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491209 (Hybrid) & #5493688 (robmen)
-I was terribly frightened.	Es biju ļoti nobijies.	CC-BY 2.0 (France) Attribution: tatoeba.org #318802 (CM) & #2930832 (SilverBirdLV)
-I'm having a heart attack.	Man ir sirdstrieka.	CC-BY 2.0 (France) Attribution: tatoeba.org #2544754 (CK) & #2930998 (SilverBirdLV)
-Please give me this money.	Lūdz iedod man šo naudu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2525160 (CK) & #2527533 (SilverBirdLV)
-Tell me what you find out.	Pastāsti man ko esi atklājis.	CC-BY 2.0 (France) Attribution: tatoeba.org #3736820 (CK) & #7790688 (gasis)
-They should ask Tom first.	Viņiem vispirms vajadzētu pajautāt Tomam.	CC-BY 2.0 (France) Attribution: tatoeba.org #6787464 (raggione) & #6787677 (User77812)
-They're young and healthy.	Viņi ir jauni un veselīgi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1690585 (Spamster) & #2508341 (UK)
-Tom isn't like other boys.	Toms nav tāds kā citi puiši.	CC-BY 2.0 (France) Attribution: tatoeba.org #3421991 (CK) & #6782851 (User77812)
-Tom seems different today.	Toms šodien izskatās savādāk.	CC-BY 2.0 (France) Attribution: tatoeba.org #2273669 (CK) & #2528400 (UK)
-Watch out for pickpockets.	Uzmanies no zagļiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #5378111 (Zurich899) & #5378200 (Turaida)
-What do you suppose it is?	Kā tu domā kas tas ir?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851399 (CK) & #5934834 (SilverBirdLV)
-What do you want for that?	Ko tu vēlies par to?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851392 (CK) & #5934820 (SilverBirdLV)
-What's your cousin's name?	Kads ir tava brālēna vārds?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851385 (CK) & #5934800 (SilverBirdLV)
-What's your cousin's name?	Kāds ir tavas māsīcas vārds?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851385 (CK) & #5934802 (SilverBirdLV)
-Why do we have to go home?	Kāpec mums vajaga iet mājās?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851371 (CK) & #5934769 (SilverBirdLV)
-You must be really hungry.	Tu noteikti esi ļoti izsalcis.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851364 (CK) & #5934751 (SilverBirdLV)
-Did you see where Tom went?	Vai tu redzēji kur palika Toms?	CC-BY 2.0 (France) Attribution: tatoeba.org #4011940 (CK) & #5932129 (SilverBirdLV)
-Do they have any good news?	Vai tev ir labi jaunumi.	CC-BY 2.0 (France) Attribution: tatoeba.org #886142 (CM) & #2930854 (SilverBirdLV)
-Do you ever wear a bow tie?	Vai tu kādreiz velc tauriņu?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851357 (CK) & #5934708 (SilverBirdLV)
-Do you know the bus driver?	Vai tu pazīsti autobusa vadītāju?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851350 (CK) & #5934680 (SilverBirdLV)
-He didn't order dinner yet.	Es vel nepasūtīju vakariņas.	CC-BY 2.0 (France) Attribution: tatoeba.org #1290241 (Vortarulo) & #2528407 (UK)
-He is a teacher of English.	Viņš ir angļu valodas skolotājs.	CC-BY 2.0 (France) Attribution: tatoeba.org #293991 (CK) & #2585093 (UK)
-I don't care what it costs.	Man vienalga, cik tas maksā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220190 (Hybrid) & #5220483 (Turaida)
-I don't have a spare shirt.	Man nav lieka krekla.	CC-BY 2.0 (France) Attribution: tatoeba.org #384721 (CK) & #2529977 (SilverBirdLV)
-I don't know what you mean.	Es nezinu ko tu ar to domā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1408 (CK) & #2525139 (SilverBirdLV)
-I started writing the book.	Es sāku rakstīt grāmatu.	CC-BY 2.0 (France) Attribution: tatoeba.org #421681 (CK) & #7649275 (User77812)
-I wish I could go to Japan.	Es vēlo kaut es varētu doties uz Japānu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1393 (CK) & #2525115 (SilverBirdLV)
-I'd like to live in Europe.	Man patīk dzīvot Eiropā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2652927 (CK) & #2930864 (SilverBirdLV)
-I'll never make it in time.	Es nekad neuzspēšu laikā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220183 (Hybrid) & #5220499 (Turaida)
-I'll stay at home tomorrow.	Es rīt palikšu mājās.	CC-BY 2.0 (France) Attribution: tatoeba.org #386762 (Mouseneb) & #2585148 (UK)
-I'm not going to die today.	Es netaisos mirt šodien.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491213 (CarpeLanam) & #5493687 (robmen)
-Is your brother's name Tom?	Vai tava brāļa vārds ir Toms?	CC-BY 2.0 (France) Attribution: tatoeba.org #5491539 (CK) & #5493676 (robmen)
-It seems interesting to me.	Man tas liekas intraneti!	CC-BY 2.0 (France) Attribution: tatoeba.org #1423 (CK) & #2525144 (SilverBirdLV)
-Japan is full of surprises!	Japāna ir pārsteigumu pilna!	CC-BY 2.0 (France) Attribution: tatoeba.org #281519 (CK) & #7649248 (User77812)
-Nobody lives in this house.	Šajā mājā neviens nedzīvo.	CC-BY 2.0 (France) Attribution: tatoeba.org #487172 (adjusting) & #2585059 (UK)
-She was washing the dishes.	Viņa mazgāja traukus.	CC-BY 2.0 (France) Attribution: tatoeba.org #501378 (CK) & #2589522 (UK)
-Should I wait for you here?	Vai man tevi vajadzēja gaidīt šeit?	CC-BY 2.0 (France) Attribution: tatoeba.org #762147 (CK) & #2508288 (UK)
-The cows are milked at six.	Govis tiek slauktas sešos.	CC-BY 2.0 (France) Attribution: tatoeba.org #2495069 (sharptoothed) & #2525289 (SilverBirdLV)
-The flowers cheered her up.	Ziedi viņu uzmundrināja.	CC-BY 2.0 (France) Attribution: tatoeba.org #312907 (CM) & #2585233 (UK)
-They are eating a sandwich.	Viņi ēd sendviču.	CC-BY 2.0 (France) Attribution: tatoeba.org #463148 (lukaszpp) & #2562615 (UK)
-This car is very expensive.	Šī automašīna ir ļoti dārga.	CC-BY 2.0 (France) Attribution: tatoeba.org #2675062 (Joseph) & #8217251 (User77812)
-Tom is asleep on the bench.	Toms ir aizmidzis uz soliņa.	CC-BY 2.0 (France) Attribution: tatoeba.org #2543989 (CK) & #2930926 (SilverBirdLV)
-Tom is asleep on the couch.	Toms ir aizmidzis uz dīvāna.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868227 (CK) & #5942767 (SilverBirdLV)
-Tom is awfully quiet today.	Toms šodien ir diezgan klus.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868223 (CK) & #5942753 (SilverBirdLV)
-Tom traveled around Europe.	Toms ceļoja apkārt Eiropai.	CC-BY 2.0 (France) Attribution: tatoeba.org #2821429 (CK) & #2930891 (SilverBirdLV)
-Tom works in a coffee shop.	Toms strādā kafejnīcā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5629472 (Hybrid) & #5630232 (Turaida)
-We have to be very careful.	Mums jābūt ļoti uzmanīgiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #2047649 (CK) & #2508314 (UK)
-We'll certainly invite Tom.	Mēs noteikti ielūgsim Tomu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491748 (CK) & #5493661 (robmen)
-What are you talking about?	Par ko tu runā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2066 (CK) & #2525282 (SilverBirdLV)
-Ask her when she comes back.	Pajautā viņai kad viņa atgriezīsies.	CC-BY 2.0 (France) Attribution: tatoeba.org #686489 (sysko) & #2528296 (UK)
-How could you be so certain?	Kā tu vari būt tik drošs?	CC-BY 2.0 (France) Attribution: tatoeba.org #5491747 (CK) & #5493663 (robmen)
-I can teach you if you want.	Es varu jūs iemācīt, ja jūs to gribat.	CC-BY 2.0 (France) Attribution: tatoeba.org #2524321 (dimitris) & #2527612 (SilverBirdLV)
-I don't know how I did that.	Es nezinu kā es to izdarīju.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220101 (Hybrid) & #5220559 (Turaida)
-I enlisted in the Air Force.	Es brīvprātīgi pievienojāties Gaisa spēku.	CC-BY 2.0 (France) Attribution: tatoeba.org #1198879 (etoile) & #2527915 (SilverBirdLV)
-I have to cook dinner today.	Man šodien jāpagatavo vakariņas	CC-BY 2.0 (France) Attribution: tatoeba.org #257600 (CK) & #2528333 (UK)
-I shouldn't have logged off.	Man nevajadzēja izlogoties.	CC-BY 2.0 (France) Attribution: tatoeba.org #1442 (CK) & #2525166 (SilverBirdLV)
-I try not to think about it.	Es mēģinu par to nedomāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1159938 (tinytina) & #2585196 (UK)
-I will wait until she comes.	Es gaidīšu kamēr viņa atnāks.	CC-BY 2.0 (France) Attribution: tatoeba.org #308541 (CK) & #2588678 (UK)
-I'm an actress, not a model.	Es esmu aktrise, nevis modele.	CC-BY 2.0 (France) Attribution: tatoeba.org #5644479 (Hybrid) & #8217250 (User77812)
-I'm sorry you feel that way.	Man ir žēl ka tu jūties tā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2543482 (CK) & #2930814 (SilverBirdLV)
-It is said that she is rich.	Tas ir skumji ka viņa ir bagāta.	CC-BY 2.0 (France) Attribution: tatoeba.org #313311 (CM) & #2930922 (SilverBirdLV)
-She was almost hit by a car.	Viņu gandrīz notrieca mašīna.	CC-BY 2.0 (France) Attribution: tatoeba.org #388645 (CK) & #5944817 (SilverBirdLV)
-Stop playing with your hair.	Beidz spēlēties ar saviem matiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #5629466 (Hybrid) & #5630240 (Turaida)
-Thanks for your explanation.	Paldies par paskaidrojumu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1403 (CK) & #2525135 (SilverBirdLV)
-The dog didn't eat the meat.	Suns neapēda gaļu.	CC-BY 2.0 (France) Attribution: tatoeba.org #48226 (CK) & #2930827 (SilverBirdLV)
-They don't want you to know.	Viņi nevēlas, lai tu zini.	CC-BY 2.0 (France) Attribution: tatoeba.org #1808187 (Spamster) & #2585214 (UK)
-We don't have time for this.	Mums tam nav laika.	CC-BY 2.0 (France) Attribution: tatoeba.org #1893881 (CK) & #2508311 (UK)
-We really enjoyed ourselves.	Mēs patiešām patika sevi.	CC-BY 2.0 (France) Attribution: tatoeba.org #435426 (CK) & #2525188 (SilverBirdLV)
-Where are your credit cards?	Kur ir tava kredītkarte?	CC-BY 2.0 (France) Attribution: tatoeba.org #62770 (CK) & #2527963 (SilverBirdLV)
-Why don't you come visit us?	Kāpēc tu neapciemo mūs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1439 (LittleBoy) & #2525164 (SilverBirdLV)
-You'll sleep better tonight.	Šonakt tu gulēsi labāk.	CC-BY 2.0 (France) Attribution: tatoeba.org #2274051 (CK) & #2578311 (UK)
-Can you tell me what this is?	Vai tu vari man pateikt, kas tas ir?	CC-BY 2.0 (France) Attribution: tatoeba.org #55865 (CK) & #2578342 (UK)
-Did you try to listen to her?	Vai tu mēģināji viņā ieklausīties?	CC-BY 2.0 (France) Attribution: tatoeba.org #1572100 (fanty) & #2528372 (UK)
-Give me the report on Monday.	Atdodiet man ziņojumu Pirmdien.	CC-BY 2.0 (France) Attribution: tatoeba.org #2523872 (CK) & #2527678 (SilverBirdLV)
-How's it going? Are you busy?	Kā iet? Vai tu esi aizņemts?	CC-BY 2.0 (France) Attribution: tatoeba.org #435500 (CK) & #2525198 (SilverBirdLV)
-I can't answer this question.	Es nevaru atbildēt uz šo jautājumu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451991 (sharptoothed) & #2930821 (SilverBirdLV)
-I can't get this lock opened.	Es nevaru šo slēdzeni atvērt.	CC-BY 2.0 (France) Attribution: tatoeba.org #3732361 (CK) & #8260370 (User77812)
-I can't recall who said that.	Es nevaru atcerēties kurš to teica.	CC-BY 2.0 (France) Attribution: tatoeba.org #1954757 (CK) & #2536535 (UK)
-I don't think you understand.	Es nedomāju, ka tu saproti.	CC-BY 2.0 (France) Attribution: tatoeba.org #1887272 (CK) & #2588325 (UK)
-I wish I had a better memory.	Es vēlētos lai man būtu labākas atmiņas.	CC-BY 2.0 (France) Attribution: tatoeba.org #31271 (CK) & #2530047 (SilverBirdLV)
-My husband gave me a red car.	Mans vīrs man iedeva sarkanu mašīnu.	CC-BY 2.0 (France) Attribution: tatoeba.org #6782528 (Yougailes30) & #6782842 (User77812)
-Prices have dropped recently.	Cena ir kritusies nesen.	CC-BY 2.0 (France) Attribution: tatoeba.org #435636 (CK) & #2525220 (SilverBirdLV)
-She dressed up for the party.	Viņa ir saģērbusies ballītei.	CC-BY 2.0 (France) Attribution: tatoeba.org #311927 (CK) & #7790681 (gasis)
-She let him drive on his own.	Viņa viņam ļāva braukt pašam.	CC-BY 2.0 (France) Attribution: tatoeba.org #428078 (witbrock) & #2528331 (UK)
-Some people relax by reading.	Daži cilvēki atpūšas lasot.	CC-BY 2.0 (France) Attribution: tatoeba.org #280594 (CK) & #2563894 (UK)
-That bed is very comfortable.	Tā gulta ir ļoti ērta.	CC-BY 2.0 (France) Attribution: tatoeba.org #2523846 (CK) & #2527744 (SilverBirdLV)
-That shop has many customers.	Veikalam ir daudz apmeklētāku.	CC-BY 2.0 (France) Attribution: tatoeba.org #435417 (blay_paul) & #2525184 (SilverBirdLV)
-That's the only way to do it.	Ir tikai viens veids, kā to izdarīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2524271 (CM) & #2527618 (SilverBirdLV)
-There are also fish that fly.	Ir arī zivs kas lido.	CC-BY 2.0 (France) Attribution: tatoeba.org #435780 (CM) & #2525274 (SilverBirdLV)
-Tom drove to the supermarket.	Toms piebrauca pie lielveikala.	CC-BY 2.0 (France) Attribution: tatoeba.org #2542831 (CK) & #2930816 (SilverBirdLV)
-Tom hasn't changed very much.	Toms nav daudz mainījies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1177575 (CK) & #6807734 (User77812)
-Tom is a bit older than Mary.	Toms ir mazliet vecāks par Mariju	CC-BY 2.0 (France) Attribution: tatoeba.org #2496026 (CK) & #2525281 (SilverBirdLV)
-Tom is a martial arts expert.	Toms ir cīņas mākslu eksperts.	CC-BY 2.0 (France) Attribution: tatoeba.org #5219990 (Hybrid) & #5220573 (Turaida)
-Tom wanted to wash his hands.	Toms gribēja nomazgāt rokas.	CC-BY 2.0 (France) Attribution: tatoeba.org #1141040 (CK) & #2588666 (UK)
-We all need to stay together.	Mums visiem jāpaliek kopā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2401244 (CK) & #2588616 (UK)
-We don't know where Tom went.	Mēs nezinam kur Toms palika.	CC-BY 2.0 (France) Attribution: tatoeba.org #4011941 (CK) & #5932130 (SilverBirdLV)
-You're an artist, aren't you?	Tu esi mākslinieks, vai ne?	CC-BY 2.0 (France) Attribution: tatoeba.org #5469225 (CK) & #7644655 (User77812)
-Your brother will not buy it.	Tavs brālis to nepirks.	CC-BY 2.0 (France) Attribution: tatoeba.org #770168 (marloncori) & #2930799 (SilverBirdLV)
-Your daughters are beautiful.	Tava meita ir skaista.	CC-BY 2.0 (France) Attribution: tatoeba.org #2524226 (dimitris) & #2527651 (SilverBirdLV)
-He climbed down from the tree.	Viņš nokāpa no koka.	CC-BY 2.0 (France) Attribution: tatoeba.org #374799 (saeb) & #2526652 (UK)
-I can do it without your help.	Es varu to izdarīt bez tavas palīdzības.	CC-BY 2.0 (France) Attribution: tatoeba.org #866507 (papabear) & #2529976 (SilverBirdLV)
-I can only stay a few minutes.	Es varu palikt tikai uz dažām minūtēm.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780521 (Hybrid) & #6781247 (User77812)
-I didn't know what that meant.	Es nezinu ko tas nozīmē.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851346 (CK) & #5934670 (SilverBirdLV)
-I didn't know what to believe.	Es nezinu kam ticēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851353 (CK) & #5934693 (SilverBirdLV)
-I didn't want to shoot my dog.	Es nevēlos nošaut savu suni.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851360 (CK) & #5934721 (SilverBirdLV)
-I don't have to do that today.	Man to šodien nevajaga darīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851367 (CK) & #5934761 (SilverBirdLV)
-I don't like punk rock at all.	Man nemazs nepatīk roks.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851374 (CK) & #5934780 (SilverBirdLV)
-I don't want to die in prison.	Es nevēlos mirt cietumā.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851388 (CK) & #5934805 (SilverBirdLV)
-I had intended to go shopping.	Es biju domājis doties iepirkties.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851395 (CK) & #5934829 (SilverBirdLV)
-I had to wait for a long time.	Man vajadzēja gaidīt ilgu laiku.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851402 (CK) & #5934836 (SilverBirdLV)
-I know how much money Tom has.	Es zinu cik naudas Tomam ir.	CC-BY 2.0 (France) Attribution: tatoeba.org #2375915 (CK) & #2930987 (SilverBirdLV)
-I think that Tom is dangerous.	Es domāju, ka Toms ir bīstams.	CC-BY 2.0 (France) Attribution: tatoeba.org #5692988 (CK) & #5693664 (Turaida)
-I'm sorry, I'm busy right now.	Es atvainojos, es šobrīd esmu aizņemts.	CC-BY 2.0 (France) Attribution: tatoeba.org #51478 (CK) & #2562704 (UK)
-Nothing much is happening yet.	Nekas nav noticis pagaidām.	CC-BY 2.0 (France) Attribution: tatoeba.org #2495651 (CK) & #2525284 (SilverBirdLV)
-People should love each other.	Cilvēkiem vajadzētu mīlēt citam citu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2523935 (CK) & #2527660 (SilverBirdLV)
-Please take me to the airport.	Lūdzu aizvediet mani uz lidostu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4034841 (CK) & #6806091 (User77812)
-She's really smart, isn't she?	Viņa ir ļoti gudra, vai ne?	CC-BY 2.0 (France) Attribution: tatoeba.org #1864 (CK) & #2588197 (UK)
-The cops won't find you there.	Policisti neatradīs tevi šeit.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491710 (Akenaseryan) & #5493671 (robmen)
-The meeting will end tomorrow.	Sanāksme beigsies rīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #1137006 (soj4l) & #2589527 (UK)
-The rain washed away the soil.	Lietus aizskaloja augsni.	CC-BY 2.0 (France) Attribution: tatoeba.org #660392 (CK) & #2562618 (UK)
-They did not have enough gold.	Viņiem nebija pietiekoši daudz zelta.	CC-BY 2.0 (France) Attribution: tatoeba.org #802211 (Source_VOA) & #2562573 (UK)
-This flower is very beautiful.	Šis zieds ir ļoti skaists.	CC-BY 2.0 (France) Attribution: tatoeba.org #60054 (CK) & #4897963 (RaivisSkadins)
-This place is large, isn't it?	Šī vieta ir liela, vai ne?	CC-BY 2.0 (France) Attribution: tatoeba.org #435614 (CK) & #2525208 (SilverBirdLV)
-Tom is playing the violin now.	Toms šobrīd spēle vijoli.	CC-BY 2.0 (France) Attribution: tatoeba.org #37145 (CK) & #2588196 (UK)
-All of my attempts have failed.	Visi mani mēģinājumi ir izgāzušies.	CC-BY 2.0 (France) Attribution: tatoeba.org #1159932 (tinytina) & #2585193 (UK)
-He earns his living by writing.	Viņš nopelna viņa dzīvei rakstot	CC-BY 2.0 (France) Attribution: tatoeba.org #435292 (CK) & #2525171 (SilverBirdLV)
-He sent his luggage in advance.	Viņš jau iepriekš nosūtīja savu bagāžu.	CC-BY 2.0 (France) Attribution: tatoeba.org #300715 (Eldad) & #2585217 (UK)
-I don't want to live by myself.	Es negribu dzīvot viens pats.	CC-BY 2.0 (France) Attribution: tatoeba.org #256072 (CK) & #2530044 (SilverBirdLV)
-I don't want to wait that long.	Es negribu gaidīt tik ilgi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1438 (CK) & #2525163 (SilverBirdLV)
-I thought I put it right there.	Man likās, ka es to noliku tur.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220211 (Hybrid) & #5220506 (Turaida)
-It will cost around 10,000 yen.	Tas maksās aptuveni 10000 jēnu.	CC-BY 2.0 (France) Attribution: tatoeba.org #42831 (CK) & #2528406 (UK)
-My husband is a very good cook.	Mans vīrs ir ļoti labs pavārs.	CC-BY 2.0 (France) Attribution: tatoeba.org #251602 (CK) & #8260824 (User77812)
-Say it clearly in a loud voice.	Saki to skaidri skaļā balsī.	CC-BY 2.0 (France) Attribution: tatoeba.org #435404 (CK) & #2525179 (SilverBirdLV)
-She asked how to cook the fish.	Viņa jautāja, kā pagatavot zivi.	CC-BY 2.0 (France) Attribution: tatoeba.org #311177 (CK) & #2508337 (UK)
-There are some eggs in the box.	Tur ir dažas olas kastē.	CC-BY 2.0 (France) Attribution: tatoeba.org #282641 (CK) & #2930802 (SilverBirdLV)
-Tom just couldn't help himself.	Toms nevarēja palīdzēt sev.	CC-BY 2.0 (France) Attribution: tatoeba.org #1868123 (CK) & #2930741 (SilverBirdLV)
-Tom locked his keys in his car.	Toms ieslēdza savas atslēgas mašīnā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1164451 (CK) & #2527943 (SilverBirdLV)
-Tom seems to have lost his key.	Toms izskatās ka ir pazaudējis savas atslēgas.	CC-BY 2.0 (France) Attribution: tatoeba.org #1092950 (CK) & #2528539 (SilverBirdLV)
-We don't want to take anything.	Mēs neko nevēlamies ņemt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2401255 (CK) & #2588611 (UK)
-We were surprised by that news.	Mēs bijām pārsteigti par šo ziņu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2527200 (CK) & #2527390 (SilverBirdLV)
-What part don't you understand?	Kuru daļu tu nesaproti?	CC-BY 2.0 (France) Attribution: tatoeba.org #2281824 (CK) & #2508316 (UK)
-Do not cast pearls before swine.	Neber cūkām pērles	CC-BY 2.0 (France) Attribution: tatoeba.org #280735 (Zifre) & #7790678 (gasis)
-I can't let Tom keep doing that.	Es nevaru ļaut Tomam turpināt to darīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2303596 (CK) & #2588186 (UK)
-I didn't quite know what to say.	Es īsti nezināju, ko teikt.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491867 (Akenaseryan) & #5493657 (robmen)
-I have no time even for reading.	Man nav laika pat lasīšanai.	CC-BY 2.0 (France) Attribution: tatoeba.org #280634 (CM) & #2578339 (UK)
-I'm going to miss that somewhat.	Man tas mazliet pietrūks.	CC-BY 2.0 (France) Attribution: tatoeba.org #5729191 (CM) & #7790691 (gasis)
-I'm sure you can do even better.	Esmu pārliecināts ka tu to vari izdarīt vel labāk.	CC-BY 2.0 (France) Attribution: tatoeba.org #2541302 (CK) & #2930897 (SilverBirdLV)
-I'm trying very hard not to cry.	Es ļoti cenšos neraudāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #3620329 (CK) & #5932134 (SilverBirdLV)
-That restaurant's too expensive.	Tas restorāns ir pārāk dārgs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1230543 (alec) & #2508321 (UK)
-Tom really likes chocolate cake.	Tomam ļoti garšo šokolādes kūka.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491547 (CK) & #7649249 (User77812)
-We often talk about the weather.	Mēs bieži runājam par laika apstākļiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #2402172 (CK) & #2588606 (UK)
-We went for a walk on the beach.	Mēs devāmies pastaigā pa pludmali.	CC-BY 2.0 (France) Attribution: tatoeba.org #2193752 (Hybrid) & #2535976 (UK)
-What time do you arrive at work?	Kādā laikā tu ierodies darbā?	CC-BY 2.0 (France) Attribution: tatoeba.org #1696944 (Amastan) & #2527942 (SilverBirdLV)
-He has a brother and two sisters.	Viņam ir brālis un divas māsas.	CC-BY 2.0 (France) Attribution: tatoeba.org #284774 (CK) & #2588250 (UK)
-He's a professional photographer.	Viņš ir profesionāls fotogrāfs.	CC-BY 2.0 (France) Attribution: tatoeba.org #1749141 (Spamster) & #2536411 (UK)
-I love you more than you love me.	Es mīlu tevi vairāk nekā tu mani mīli.	CC-BY 2.0 (France) Attribution: tatoeba.org #17829 (lazycat) & #2931014 (SilverBirdLV)
-I take the bus to work every day.	Es ar autobusu uz darbu dodos katru dienu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2523937 (CK) & #2527659 (SilverBirdLV)
-I thought the show was excellent.	Es domāju, ka šovs bija lielisks.	CC-BY 2.0 (France) Attribution: tatoeba.org #1961427 (CK) & #2588199 (UK)
-I tore the newspaper into pieces.	Es saplēsu avīzi druskās.	CC-BY 2.0 (France) Attribution: tatoeba.org #923541 (xtofu80) & #2508294 (UK)
-I've had a lot on my mind lately.	Es pēdējā laikā esmu daudz ko pārdomājis.	CC-BY 2.0 (France) Attribution: tatoeba.org #918913 (CK) & #2508330 (UK)
-It was his habit to get up early.	Tas bija viņa ieradums pamosties agri.	CC-BY 2.0 (France) Attribution: tatoeba.org #395727 (CK) & #2588225 (UK)
-Some even accused him of treason.	Daži pat apsūdzēja viņu nodevībā.	CC-BY 2.0 (France) Attribution: tatoeba.org #807150 (Source_VOA) & #2585210 (UK)
-The door is opened every morning.	Durvis ir atvērtas katru rītu.	CC-BY 2.0 (France) Attribution: tatoeba.org #39041 (CK) & #2536578 (UK)
-Tom did that entirely on his own.	Toms to visu paveica pats.	CC-BY 2.0 (France) Attribution: tatoeba.org #3412977 (CK) & #8217515 (User77812)
-Tom has three gorgeous daughters.	Tomam ir trīs skaistas meitas.	CC-BY 2.0 (France) Attribution: tatoeba.org #5692992 (CK) & #5693669 (Turaida)
-Tom has to do that before Monday.	Tomam tas ir jāizdara līz pirmdienai.	CC-BY 2.0 (France) Attribution: tatoeba.org #5692990 (CK) & #5693665 (Turaida)
-We protested, but it was in vain.	Mēs protestējām, bet tas bija veltīgi.	CC-BY 2.0 (France) Attribution: tatoeba.org #240876 (CK) & #2562667 (UK)
-Fortunately, the weather was good.	Par laimi, laiks ir labs.	CC-BY 2.0 (France) Attribution: tatoeba.org #240769 (CK) & #2535986 (UK)
-He came from a tiny mountain town.	Viņš nāca no mazas kalnu pilsētiņas.	CC-BY 2.0 (France) Attribution: tatoeba.org #296996 (CK) & #2585207 (UK)
-He knows everything about Germany.	Viņš zin visu par Vāciju.	CC-BY 2.0 (France) Attribution: tatoeba.org #1761955 (Amastan) & #2562737 (UK)
-I had a horrible dream last night.	Man bija slikts sapnis pagājušajā naktī.	CC-BY 2.0 (France) Attribution: tatoeba.org #244777 (CK) & #2930813 (SilverBirdLV)
-It's great! You'll laugh for sure.	Tas ir lieliski! Jūs smieties, noteikti.	CC-BY 2.0 (France) Attribution: tatoeba.org #435764 (CK) & #2525264 (SilverBirdLV)
-My uncle lives next to the school.	Mans onkulis dzīvo blakus skolai.	CC-BY 2.0 (France) Attribution: tatoeba.org #2576256 (CM) & #2585094 (UK)
-The plate slipped out of my hands.	Šķīvis izslīdēja viņam no rokām.	CC-BY 2.0 (France) Attribution: tatoeba.org #2268447 (_undertoad) & #2585218 (UK)
-The teacher told us a funny story.	Skolotājs mums izstāstīja smieklīgu stāstu.	CC-BY 2.0 (France) Attribution: tatoeba.org #45795 (CK) & #2588675 (UK)
-We have a lot of snow in February.	Februārī mums ir daudz sniega.	CC-BY 2.0 (France) Attribution: tatoeba.org #280853 (CK) & #2508338 (UK)
-What's the best sleeping position?	Kāds ir labākais gulēšanas veids?	CC-BY 2.0 (France) Attribution: tatoeba.org #1541477 (Spamster) & #2528627 (SilverBirdLV)
-What's the title of your new book?	Kāds ir Tavas jaunās grāmatas nosaukums?	CC-BY 2.0 (France) Attribution: tatoeba.org #5490606 (Mar1L) & #5490826 (robmen)
-You've got a great sense of humor.	Tev piemīt lieliska humora izjūta.	CC-BY 2.0 (France) Attribution: tatoeba.org #69716 (CK) & #2585240 (UK)
-Choose the color you like the best.	Izvēlies krāsu, kura tev patīk vislabāk.	CC-BY 2.0 (France) Attribution: tatoeba.org #17851 (dawnbreaksopen) & #2588474 (UK)
-Helsinki is the capital of Finland.	Helsinki ir Somijas galvaspilsēta.	CC-BY 2.0 (France) Attribution: tatoeba.org #1014530 (CK) & #2588676 (UK)
-I can't understand why he did that.	Es nesaprotu kāpēc viņš tā darija.	CC-BY 2.0 (France) Attribution: tatoeba.org #435278 (aliene) & #2525168 (SilverBirdLV)
-I don't want to get you in trouble.	Es nevēlos tevi ievilkt nepatikšanās.	CC-BY 2.0 (France) Attribution: tatoeba.org #2016860 (CK) & #2562645 (UK)
-I know that money isn't everything.	Es zinu, ka nauda nav viss.	CC-BY 2.0 (France) Attribution: tatoeba.org #253262 (CK) & #2536055 (UK)
-I love you and I want to marry you.	Es mīlu tevi un gribu tevi precēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2033637 (CK) & #2931027 (SilverBirdLV)
-I want you to know that I love you.	Es gribu lai tu zini ka es tevi mīlu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2016907 (CK) & #2931026 (SilverBirdLV)
-I was glad to hear of your success.	Es priecājos dzirdēt par taviem panākumiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #17020 (iamgrim) & #2588134 (UK)
-I'll always remember your kindness.	Es vienmēr atcerēšos tavu laipnību.	CC-BY 2.0 (France) Attribution: tatoeba.org #388568 (CK) & #2536519 (UK)
-It's not much of a surprise, is it?	Tas nav daudz priekš pārsteiguma, vai ne?	CC-BY 2.0 (France) Attribution: tatoeba.org #1433 (Eldad) & #2525154 (SilverBirdLV)
-It's too dark to play baseball now.	Ir pārāk tumšs, lai tagad spēlētu beisbolu.	CC-BY 2.0 (France) Attribution: tatoeba.org #67705 (CK) & #2508269 (UK)
-Not all Germans like to drink beer.	Ne visiem Vāciem patīk dzert alu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4836686 (AliBeadle) & #8217495 (User77812)
-This problem is difficult to solve.	Šo problēmu ir grūti atrisināt.	CC-BY 2.0 (France) Attribution: tatoeba.org #43687 (CK) & #2528375 (UK)
-Tom bought new laces for his shoes.	Toms nopirka jaunas šņores savām kurpēm.	CC-BY 2.0 (France) Attribution: tatoeba.org #1095750 (CK) & #2528385 (UK)
-Tom enjoys listening to live music.	Toms patīk klausīties dzīvajā mūzikā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1025837 (CK) & #2533068 (SilverBirdLV)
-You don't seem too happy to see me.	Tu neizskaties priecīgs mani redzot.	CC-BY 2.0 (France) Attribution: tatoeba.org #2591706 (CK) & #2591897 (SilverBirdLV)
-He came in and immediately sat down.	Viņš atnāca un uzreiz apsēdās.	CC-BY 2.0 (France) Attribution: tatoeba.org #2266099 (_undertoad) & #2526644 (UK)
-How often do you use your telephone?	Cik bieži tu izmanto savu telefonu?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851348 (CK) & #5934674 (SilverBirdLV)
-How often should you wash your hair?	Cik bieži vajadzētu mazgāt matus.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851355 (CK) & #5934701 (SilverBirdLV)
-How well do you know your neighbors?	Cik labi tu pazīst savus kaimiņus?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851369 (CK) & #5934765 (SilverBirdLV)
-How will we get this done by Monday?	Kā mēs paspēsim to izdarīt līdz pirmdienai?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851376 (CK) & #5934783 (SilverBirdLV)
-How will we overcome these problems?	Kā mēs parvarēsim šo problēmu?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851383 (CK) & #5934798 (SilverBirdLV)
-How worried should we be about that?	Cik noraizējušiem mums vajadzētu būt par to?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851390 (CK) & #5934811 (SilverBirdLV)
-How would you handle this situation?	Kā tu tiktu galā ar šo situāciju?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851397 (CK) & #5934831 (SilverBirdLV)
-How would your friends describe you?	Kā tavi draugi tevi aprakstītu?	CC-BY 2.0 (France) Attribution: tatoeba.org #5851404 (CK) & #5934838 (SilverBirdLV)
-I thought that I put it right there.	Man likās, ka es to noliku tur.	CC-BY 2.0 (France) Attribution: tatoeba.org #7174160 (CK) & #5220506 (Turaida)
-I want you to take it away from Tom.	Es gribu lai tu to paņēm no Toma.	CC-BY 2.0 (France) Attribution: tatoeba.org #2033676 (CK) & #2528593 (SilverBirdLV)
-I won't ask you anything else today.	Es tev šodien neko citu neprasīšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1397 (human600) & #2525120 (SilverBirdLV)
-Mother is in bed. She caught a cold.	Māte ir gultā. Viņai ir temperatūra.	CC-BY 2.0 (France) Attribution: tatoeba.org #430462 (FeuDRenais) & #8260487 (User77812)
-Please go to the playground to play.	Lūdzu ej uz spēļu laukumu spēlēties.	CC-BY 2.0 (France) Attribution: tatoeba.org #482050 (CK) & #2930774 (SilverBirdLV)
-The Rosetta Stone was found in 1799.	Rosetta akmens tika atrasts 1799.	CC-BY 2.0 (France) Attribution: tatoeba.org #1534740 (CK) & #2530035 (SilverBirdLV)
-The fund was set up to help orphans.	Fonds tika izveidots, lai palīdzētu bāreņiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #239903 (CM) & #2562554 (UK)
-The white boat went down the stream.	Baltā laiva devās lejup pa straumi.	CC-BY 2.0 (France) Attribution: tatoeba.org #282573 (CM) & #2588511 (UK)
-This wasn't an easy decision for us.	Šis mums nebija viegls lēmums.	CC-BY 2.0 (France) Attribution: tatoeba.org #1898062 (CK) & #2562763 (UK)
-To be honest, I don't understand it.	Godīgi sakot, es to nesaprotu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5017549 (don_ramon) & #6780575 (User77812)
-To tell the truth, I don't like him.	Es saku taisnību man viņš nepatīk.	CC-BY 2.0 (France) Attribution: tatoeba.org #265157 (CK) & #2527779 (SilverBirdLV)
-Tom was never very friendly to Mary.	Toms nekad nebija draudzīgs pret Mariju.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851380 (CK) & #5934791 (SilverBirdLV)
-Tom wasn't the one who gave me that.	Toms nebija tas kurš man to iedeva.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851373 (CK) & #5934776 (SilverBirdLV)
-Tom wasn't the one who told me that.	Toms nebija tas kurš to man pateica.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851366 (CK) & #5934760 (SilverBirdLV)
-We want to take your blood pressure.	Mēs vēlamies pārbaudīt jūsu asinsspiedienu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2528533 (CK) & #2528548 (SilverBirdLV)
-What do you think of our collection?	Ko tu domā par mūsu kolekciu?	CC-BY 2.0 (France) Attribution: tatoeba.org #2892552 (CK) & #5939445 (SilverBirdLV)
-Why are people afraid of the police?	Kāpēc cilvēki baidās no policijas?	CC-BY 2.0 (France) Attribution: tatoeba.org #1886541 (CK) & #2930915 (SilverBirdLV)
-You may come with us if you want to.	Tu vari nākt ar mums, ja vēlies.	CC-BY 2.0 (France) Attribution: tatoeba.org #324983 (CK) & #2526660 (UK)
-Are you saying that Tom is a traitor?	Vai tu saki, ka Toms ir nodevējs?	CC-BY 2.0 (France) Attribution: tatoeba.org #5629343 (Hybrid) & #5630242 (Turaida)
-Have you noticed anything suspicious?	Vai tu esi ievērojis kaut ko aizdomīgu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2149282 (Hybrid) & #2585237 (UK)
-I can't believe Tom really said that.	Es nespēju noticēt ka Toms to pateica.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851359 (CK) & #5934717 (SilverBirdLV)
-I didn't want to tell Tom about this.	Es nevēlējos Tomam stāstīt par šo.	CC-BY 2.0 (France) Attribution: tatoeba.org #2019123 (CK) & #2528330 (UK)
-I don't think Tom would've done that.	Es domāju ka Toms to nebūtu darijis.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851352 (CK) & #5934689 (SilverBirdLV)
-I'm sorry. I didn't do it on purpose.	Man žēl. Es to negribēju darīt ar nolūku.	CC-BY 2.0 (France) Attribution: tatoeba.org #2527112 (CK) & #2527400 (SilverBirdLV)
-One cannot embrace the unembraceable.	Neviens nevar apskaut neapskaujamo.	CC-BY 2.0 (France) Attribution: tatoeba.org #1916473 (marafon) & #2525078 (SilverBirdLV)
-That's the question we have to solve.	Tas ir jautājums, kuru mums ir jāatrisina.	CC-BY 2.0 (France) Attribution: tatoeba.org #2267933 (_undertoad) & #2508307 (UK)
-Tom is hoping that Mary will do that.	Toms cer, ka Marija to izdarīs.	CC-BY 2.0 (France) Attribution: tatoeba.org #5915830 (CK) & #8217248 (User77812)
-Tom pushed Mary off the diving board.	Toms nogrūda Mēriju no tramplīna.	CC-BY 2.0 (France) Attribution: tatoeba.org #1028166 (CK) & #2588190 (UK)
-We don't want anyone to find us here.	Mēs negribam lai mūs šeit kāds atrod.	CC-BY 2.0 (France) Attribution: tatoeba.org #2019207 (CK) & #2930909 (SilverBirdLV)
-How did you know Tom was going to die?	Kā tu zināji ka Toms nomirs?	CC-BY 2.0 (France) Attribution: tatoeba.org #3730472 (CM) & #5932132 (SilverBirdLV)
-I asked him where I could park my car.	Es viņam jautāju, kur es varētu novietot mašīnu.	CC-BY 2.0 (France) Attribution: tatoeba.org #674306 (yessoos) & #2508302 (UK)
-I never dreamed that I would meet you.	Es nekad nesapņoju ka tevi satikšu.	CC-BY 2.0 (France) Attribution: tatoeba.org #483672 (CK) & #2528549 (SilverBirdLV)
-I wonder how much you know about this.	Es domāju cik daudz tu zini par šo.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851351 (CK) & #5934682 (SilverBirdLV)
-I'll be out of town until next Monday.	Es būšū izbraucis līdz nākošajai pirmdienai.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851358 (CK) & #5934711 (SilverBirdLV)
-I'm getting tired of your complaining.	Es sāku nogurt no taviem parmetumiem.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851365 (CK) & #5934757 (SilverBirdLV)
-I'm too old to do something like that.	Es esmu par vecu lai darītu kautko tādu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851372 (CK) & #5934773 (SilverBirdLV)
-I've already seen that movie, I think.	Es domāju ka es esmu jau redzējis to filmu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851379 (CK) & #5934790 (SilverBirdLV)
-I've probably already seen that movie.	Es drošivien esmu jau redzējis to filmu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5851393 (CK) & #5934824 (SilverBirdLV)
-There is a traffic jam on the highway.	Uz šosejas ir satiksmes sastrēgums.	CC-BY 2.0 (France) Attribution: tatoeba.org #435623 (CK) & #2525210 (SilverBirdLV)
-This book isn't as heavy as that book.	Šī grāmata nav tik smaga kā tā grāmata.	CC-BY 2.0 (France) Attribution: tatoeba.org #435788 (CK) & #2525278 (SilverBirdLV)
-Tom almost always goes to work by car.	Toms gandrīz vienmēr uz darbu dodas ar mašīnu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1027205 (CK) & #2578336 (UK)
-Tom cut the wire and defused the bomb.	Toms pārgrieza vadu un atmīnēja bumbu.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220227 (Hybrid) & #5220442 (Turaida)
-Watch your step. The stairs are steep.	Skaties, kur liec kāju. Kāpnes ir stāvas.	CC-BY 2.0 (France) Attribution: tatoeba.org #274493 (CM) & #2508306 (UK)
-We should lock the door when we leave.	Mums vajadzētu aizslēgt durvis, kad mēs aizejam.	CC-BY 2.0 (France) Attribution: tatoeba.org #2270039 (_undertoad) & #2588323 (UK)
-Whatever you do, don't pull this rope.	Lai ko tu darītu, nevelc šo virvi!	CC-BY 2.0 (France) Attribution: tatoeba.org #2402190 (CK) & #2588595 (UK)
-Would you like to drink a bit tonight?	Vai tu gribētu dzert šovakar?	CC-BY 2.0 (France) Attribution: tatoeba.org #435632 (CK) & #2525216 (SilverBirdLV)
-Are you going to eat that piece of pie?	Vai tu ēdīsi to pīrāga gabalu?	CC-BY 2.0 (France) Attribution: tatoeba.org #3730473 (CM) & #5932133 (SilverBirdLV)
-I didn't like my name when I was young.	Man nepatika mans vārds, kad es biju jauns.	CC-BY 2.0 (France) Attribution: tatoeba.org #2527422 (Rezzonance) & #2527427 (SilverBirdLV)
-I found the key in Tom's jacket pocket.	Es atradu atslēgu Toma jakas kabatā.	CC-BY 2.0 (France) Attribution: tatoeba.org #2327225 (CK) & #2536581 (UK)
-I want to send this by registered mail.	Es gribu nosūtīt šo no reģistrēta epasta.	CC-BY 2.0 (France) Attribution: tatoeba.org #1397606 (CK) & #2930756 (SilverBirdLV)
-She advised him to cut down on smoking.	Viņa ieteica viņam mazāk smēķēt.	CC-BY 2.0 (France) Attribution: tatoeba.org #886881 (CK) & #2562713 (UK)
-The child was hiding behind a big tree.	Bērns slēpās aiz liela koka.	CC-BY 2.0 (France) Attribution: tatoeba.org #35735 (CK) & #2578421 (UK)
-The child was hiding behind a big tree.	Bērns slēpās aiz lielā koka.	CC-BY 2.0 (France) Attribution: tatoeba.org #35735 (CK) & #5946955 (SilverBirdLV)
-Tom also teaches geography and history.	Toms arī pasniedz ģeogrāfiju un vēsturi.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780528 (Eccles17) & #6780725 (User77812)
-We had to wait for him for ten minutes.	Mums vajadzēja viņu gaidīt desmit minūtes.	CC-BY 2.0 (France) Attribution: tatoeba.org #263230 (CK) & #2588254 (UK)
-Do you think I haven't anticipated that?	Tu domā ka es to negaidiju.	CC-BY 2.0 (France) Attribution: tatoeba.org #3396564 (CK) & #5932138 (SilverBirdLV)
-The last time I saw Tom he was barefoot.	Pēdējo reizi, kad es redzēju Tomu, viņš bija basām kājām.	CC-BY 2.0 (France) Attribution: tatoeba.org #6240689 (CK) & #7649250 (User77812)
-There are more important things in life.	Dzīvē ir svarīgākas lietas.	CC-BY 2.0 (France) Attribution: tatoeba.org #569216 (CK) & #2589550 (UK)
-Why do you care what other people think?	Kāpēc tu uztraucies ko cilvēki domā?	CC-BY 2.0 (France) Attribution: tatoeba.org #5491208 (Hybrid) & #5493689 (robmen)
-A green banana is not ripe enough to eat.	Zaļš banāns nav pietiekoši nogatavojies, lai to ēstu.	CC-BY 2.0 (France) Attribution: tatoeba.org #271983 (BraveSentry) & #2588489 (UK)
-Could you teach me how to play the piano?	Vai tu man iemācīsi kā spēlēt klavieres?	CC-BY 2.0 (France) Attribution: tatoeba.org #435660 (kazuya00) & #2525238 (SilverBirdLV)
-He goes to sleep with the lights left on.	Viņš iet gulēt, atstājot gaismas ieslēgtas.	CC-BY 2.0 (France) Attribution: tatoeba.org #301797 (CM) & #2508339 (UK)
-He told me to meet him at the restaurant.	Viņš pateica lai es viņu satieku restorānā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1950123 (Spamster) & #2930931 (SilverBirdLV)
-I clicked the link, but nothing happened.	Es klikšķināju uz mājaslapas, bet nekas nenotika.	CC-BY 2.0 (France) Attribution: tatoeba.org #2495664 (CK) & #2525283 (SilverBirdLV)
-I pray that you'll have the best of luck.	Es lūdzu, lai jums būtu veiksme.	CC-BY 2.0 (France) Attribution: tatoeba.org #9049904 (CK) & #2525224 (SilverBirdLV)
-That's mine. I don't know where yours is.	Tas ir mans. Es nezinu, kur ir tavs.	CC-BY 2.0 (France) Attribution: tatoeba.org #9030300 (CK) & #8217506 (User77812)
-This is the house where she used to live.	Šī ir tā māja kurā viņa dzīvoja.	CC-BY 2.0 (France) Attribution: tatoeba.org #387559 (CK) & #2527814 (SilverBirdLV)
-You've bitten off more than you can chew.	Tu esi nokodies vairāk nekā tu vari sakošļāt.	CC-BY 2.0 (France) Attribution: tatoeba.org #874054 (papabear) & #2525091 (SilverBirdLV)
-I want the same jacket as you are wearing.	Es gribu to pašu jaku, kuru tu valkā.	CC-BY 2.0 (France) Attribution: tatoeba.org #252687 (CK) & #2528318 (UK)
-In comparison with Tokyo, London is small.	Salīdzinājumā ar Tokiju, Londona ir maza.	CC-BY 2.0 (France) Attribution: tatoeba.org #279731 (Zifre) & #2585220 (UK)
-Let me introduce you to my beautiful wife.	Ļauj mani iepazīstināt ar manu skaisto sievu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2045851 (CK) & #2528568 (SilverBirdLV)
-That guy got married and started a family.	Tas vīrietis apprecējās un sāka dibināt ģimeni	CC-BY 2.0 (France) Attribution: tatoeba.org #435460 (FeuDRenais) & #2525196 (SilverBirdLV)
-Tom promised to give me anything I wanted.	Toms man apsolīja dot visu ko es gribu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2523427 (CK) & #2527790 (SilverBirdLV)
-He looked small next to my heavyset father.	Viņš izskatījās mazs stāvot blakus manam lielajam tēvam.	CC-BY 2.0 (France) Attribution: tatoeba.org #1316418 (CM) & #2525089 (SilverBirdLV)
-He was standing at the top of the mountain.	Viņš stāvēja kalna galotnē.	CC-BY 2.0 (France) Attribution: tatoeba.org #296997 (CK) & #2585209 (UK)
-I don't want to hear another word about it!	Es nevēlos dzirdēt nevienu vārdu par to!	CC-BY 2.0 (France) Attribution: tatoeba.org #1908517 (Spamster) & #2578323 (UK)
-If he'd known the truth, he'd have told me.	Ja viņš būtu zinājis patiesību, viņš man būtu pateicis.	CC-BY 2.0 (France) Attribution: tatoeba.org #399184 (CK) & #2578359 (UK)
-There used to be big trees around the pond.	Apkārt dīķim kādreiz bija lieli koki.	CC-BY 2.0 (France) Attribution: tatoeba.org #277305 (CK) & #2536296 (UK)
-We also did amputations. We had to do them.	Mēs arī veicām amputācijas. Mums tas bija jādara.	CC-BY 2.0 (France) Attribution: tatoeba.org #5493107 (Dejo) & #5493655 (robmen)
-As soon as the dog saw me, it began to bark.	Tiklīdz kā suns mani ieraudzīja, tas sāka riet.	CC-BY 2.0 (France) Attribution: tatoeba.org #48276 (CK) & #2585023 (UK)
-He has been studying French for eight years.	Viņš ir mācījies Franču valodu astoņus gadus.	CC-BY 2.0 (France) Attribution: tatoeba.org #288662 (CK) & #6807733 (User77812)
-I'll tell you everything from the beginning.	Es tev izstāstīšu visu no paša sākuma.	CC-BY 2.0 (France) Attribution: tatoeba.org #6780524 (CK) & #6781242 (User77812)
-My hobby is taking pictures of wild flowers.	Mans hobijs ir fotografēt savvaļas puķes.	CC-BY 2.0 (France) Attribution: tatoeba.org #251151 (CK) & #2588663 (UK)
-Real friendship is more valuable than money.	Patiesa draudzība ir vērtīgāka par naudu.	CC-BY 2.0 (France) Attribution: tatoeba.org #322233 (CK) & #2563915 (UK)
-The police got to the scene of the accident.	Policija nokļuva negadījuma vietā.	CC-BY 2.0 (France) Attribution: tatoeba.org #238179 (CK) & #2528376 (UK)
-Tom plays the guitar almost as well as Mary.	Toms spēlē ģitāru gandrīz tikpat labi kā Marija.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220234 (CK) & #5220411 (Turaida)
-Tom pushed the button, but nothing happened.	Toms piespieda pogu, bet nekas nenotika.	CC-BY 2.0 (France) Attribution: tatoeba.org #2526746 (CK) & #2527404 (SilverBirdLV)
-What is the unemployment rate at the moment?	Kāds šobrīd ir bezdarba līmenis?	CC-BY 2.0 (France) Attribution: tatoeba.org #239563 (CM) & #2585124 (UK)
-Are there any Japanese restaurants near here?	Vai šeit tuvumā ir kāds Japāņu restorāns?	CC-BY 2.0 (France) Attribution: tatoeba.org #59630 (CK) & #2528004 (SilverBirdLV)
-Even though he apologized, I'm still furious.	Pat tad kad viņš atvainojis es joprojām esmu nikns.	CC-BY 2.0 (France) Attribution: tatoeba.org #1399 (human600) & #2525123 (SilverBirdLV)
-She made a promise to write to me every week.	Viņa man solīja rakstīt katru nedēļu.	CC-BY 2.0 (France) Attribution: tatoeba.org #317064 (CK) & #2508291 (UK)
-Will you take care of my dog while I am away?	Vai tu parūpēsies par manu suni kamēr es būšu prom?	CC-BY 2.0 (France) Attribution: tatoeba.org #252060 (CK) & #2536403 (UK)
-You'll have to learn all these dates by rote.	Tev būs jāpatur prātā visi šie datumi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1513863 (darinmex) & #2508282 (UK)
-How can you avoid the dangers of the Internet?	Kā var izvairīties no briesmām no interneta.	CC-BY 2.0 (France) Attribution: tatoeba.org #435394 (blay_paul) & #2525176 (SilverBirdLV)
-People die, but the things they create endure.	Cilvēki mirst, bet liekas, kuras viņi rada, paliek.	CC-BY 2.0 (France) Attribution: tatoeba.org #5488539 (CarpeLanam) & #5490841 (robmen)
-She walked past him without even noticing him.	Viņa pagāja viņam garām, pat viņu neievērojot.	CC-BY 2.0 (France) Attribution: tatoeba.org #887504 (CK) & #2578354 (UK)
-They wanted to live in peace with the Indians.	Viņi ar Indiāņiem gribēja dzīvot mierā.	CC-BY 2.0 (France) Attribution: tatoeba.org #802597 (Source_VOA) & #2525079 (SilverBirdLV)
-This medicine is still not sold in pharmacies.	Šīs zāles joprojām netiek pārdotas aptiekās.	CC-BY 2.0 (France) Attribution: tatoeba.org #1023305 (Eldad) & #2585243 (UK)
-He's making a lot of money in the stock market.	Viņš pelna daudz naudas akciju tirgū.	CC-BY 2.0 (France) Attribution: tatoeba.org #435586 (CK) & #2525204 (SilverBirdLV)
-My uncle lives in Madrid, the capital of Spain.	Mans onkulis dzīvo Madridē, galvas pilsētā Spānijā.	CC-BY 2.0 (France) Attribution: tatoeba.org #65077 (CK) & #2528542 (SilverBirdLV)
-Sometimes things that happen do not make sense.	Dažreiz notiekošais ir neizprotams.	CC-BY 2.0 (France) Attribution: tatoeba.org #1589553 (mary_s) & #2528402 (UK)
-When I got home, I had a nice, ice-cold shower.	Kad es tiku mājās, es iegāju jaukā, ledainā dušā.	CC-BY 2.0 (France) Attribution: tatoeba.org #1702452 (Spamster) & #2562623 (UK)
-Do you really have free tickets for the concert?	Vai patiešām ir bezmaksas biļetes uz šo koncertu.	CC-BY 2.0 (France) Attribution: tatoeba.org #1334943 (CK) & #2536566 (UK)
-His words excited everyone, even the opposition.	Viņa vārdi aizrāva visus, pat opozīciju.	CC-BY 2.0 (France) Attribution: tatoeba.org #2145007 (MethodGT) & #2508342 (UK)
-I can't go to work today because I have the flu.	Es nevaru šodien iet uz darbu, jo man ir gripa.	CC-BY 2.0 (France) Attribution: tatoeba.org #5956016 (mailohilohi) & #6781742 (User77812)
-I feel the need to do something different today.	Es jūtu vajadzību darīt kautko citu šodien.	CC-BY 2.0 (France) Attribution: tatoeba.org #5491769 (Akenaseryan) & #5493660 (robmen)
-She asked him to stay, but he had to go to work.	Viņa lūdza viņam palikt, bet viņam bija jāiet uz darbu.	CC-BY 2.0 (France) Attribution: tatoeba.org #886984 (CK) & #2588277 (UK)
-That guy is always asking his parents for money.	Tas puisis vienmēr prasa viņa vecākiem naudu.	CC-BY 2.0 (France) Attribution: tatoeba.org #72016 (Eldad) & #2528550 (SilverBirdLV)
-You will soon get accustomed to your new school.	Tu drīz iejutīsies savā jaunajā skolā.	CC-BY 2.0 (France) Attribution: tatoeba.org #16650 (Zifre) & #2563884 (UK)
-Everyone's waiting to see what's going to happen.	Visi gaida, lai redzētu, kas notiks.	CC-BY 2.0 (France) Attribution: tatoeba.org #5488325 (CK) & #5490843 (robmen)
-This is the pen that he signed the document with.	Šī ir tā pildspalva ar kuru viņš parakstīja dokumentus.	CC-BY 2.0 (France) Attribution: tatoeba.org #55461 (CK) & #2527965 (SilverBirdLV)
-Tom plays the guitar almost as well as Mary does.	Toms spēlē ģitāru gandrīz tikpat labi kā Marija.	CC-BY 2.0 (France) Attribution: tatoeba.org #5220231 (CK) & #5220411 (Turaida)
-A gang of three robbed the bank in broad daylight.	Trīs cilvēku banda skaidrā dienas laikā aplaupīja banku.	CC-BY 2.0 (France) Attribution: tatoeba.org #72657 (CK) & #2525081 (SilverBirdLV)
-I did not watch TV but studied English last night.	Es vakarnakt neskatījos televizoru, bet mācījos angļu valodu.	CC-BY 2.0 (France) Attribution: tatoeba.org #244822 (CK) & #2528398 (UK)
-I hate when other people make me wait a long time.	Man nepatīk, ka citi cilvēki liek man ilgi gaidīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #476246 (morganlmallory) & #2536042 (UK)
-My physics teacher doesn't care if I skip classes.	Man fizikas skolotāju neuztrauc ja es bastoju stundas.	CC-BY 2.0 (France) Attribution: tatoeba.org #1392 (LittleBoy) & #2525113 (SilverBirdLV)
-We wondered what would happen after Tom showed up.	Mēs prātoju, kas notiktu pēc tam, kad Toms atnāktu.	CC-BY 2.0 (France) Attribution: tatoeba.org #2495641 (CK) & #2525285 (SilverBirdLV)
-Tom didn't know that Mary had already bought bread.	Toms nezināja, ka Marija jau bija nopirkusi maizi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1094725 (CK) & #2528341 (UK)
-I assumed there must be something else we had to do.	Es pieņemu, ka bija vēl kaut kas, ko mums vajadzēja izdarīt.	CC-BY 2.0 (France) Attribution: tatoeba.org #2293271 (CK) & #2588541 (UK)
-The front windshield of a car was smashed to pieces.	Automašīnas vējstikls tika sadauzīts gabalos.	CC-BY 2.0 (France) Attribution: tatoeba.org #265518 (ArizonaJim) & #6806082 (User77812)
-We shouldn't judge people based on their appearance.	Mums nevajadzētu spriest par cilvēkiem, balstoties uz to, kā viņi izskatās.	CC-BY 2.0 (France) Attribution: tatoeba.org #982618 (CK) & #2578351 (UK)
-Addition and subtraction are functions of mathematics.	Saskaitīšana un atņemšana ir matemātiskās funkcijas.	CC-BY 2.0 (France) Attribution: tatoeba.org #681438 (Source_VOA) & #2528370 (UK)
-Tom is left-handed, but he writes with his right hand.	Toms ir kreilis, bet viņš raksta ar labo roku.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024969 (CK) & #2588643 (UK)
-Can you remember the first word you learned in English?	Vai tu atceries pirmo vārdu, kuru tu iemācījies angļu valodā?	CC-BY 2.0 (France) Attribution: tatoeba.org #953157 (CK) & #2528377 (UK)
-Finishing the report by tomorrow is next to impossible.	Līdz rītdienai pabeigt atskaiti ir gandrīz neiespējami.	CC-BY 2.0 (France) Attribution: tatoeba.org #49701 (CM) & #2528286 (UK)
-Small businesses are often absorbed by a major company.	Mazus uzņēmumus bieži pārņem liela kompānija.	CC-BY 2.0 (France) Attribution: tatoeba.org #267589 (CM) & #2528350 (UK)
-He is not the sort of man who counts on others for help.	Viņš nav tāds cilvēks, kurš paļaujas uz citu palīdzību.	CC-BY 2.0 (France) Attribution: tatoeba.org #301078 (CK) & #2528389 (UK)
-I had a feeling something like that was going to happen.	Man bija priekšnojauta, ka kaut kas tāds notiks.	CC-BY 2.0 (France) Attribution: tatoeba.org #7644638 (_undertoad) & #7644651 (User77812)
-It was such an interesting book that I read it in a day.	Tā bija tik interesanta grāmata, ka es to izlasīju vienā dienā.	CC-BY 2.0 (France) Attribution: tatoeba.org #42139 (CK) & #2508325 (UK)
-"Could you do this instead of me?" "Sorry, I'm too busy."	''Vai tu to varētu izdarīt manā vietā?'' ''Piedod, es esmu pārāk aizņemts.''	CC-BY 2.0 (France) Attribution: tatoeba.org #73669 (CK) & #2508332 (UK)
-What percentage of the students are admitted to colleges?	Procentuāli cik studentu tiek uzņemti koledžās?	CC-BY 2.0 (France) Attribution: tatoeba.org #275631 (CK) & #2525086 (SilverBirdLV)
-He was wearing black trousers and a beautiful white shirt.	Viņš valkāja melnas bikses un skaistu baltu kreklu.	CC-BY 2.0 (France) Attribution: tatoeba.org #241479 (CK) & #2529973 (SilverBirdLV)
-It almost scared me not to see you online for a whole day.	Neredzot tiešsaistē veselu dienu, tu mani gandrīz pārbiedēji.	CC-BY 2.0 (France) Attribution: tatoeba.org #1407 (Zifre) & #2525137 (SilverBirdLV)
-Now's the time to decide if you want to go with us or not.	Tagad ir laiks izlemtu vai tu vēlies iet ar mums, vai nē.	CC-BY 2.0 (France) Attribution: tatoeba.org #2042716 (CK) & #2525589 (UK)
-He's a good guy now, so he'll make a good husband in the future.	Viņš ir labs vīrietis tagad tātad viņš būs labs vīrs nākotnē.	CC-BY 2.0 (France) Attribution: tatoeba.org #435628 (CK) & #2525213 (SilverBirdLV)
-Tom put his bags in the trunk, then hopped in the car and drove off.	Toms ielika savas somas bagāžniekā, tad ieleca mašīnā un aizbrauca.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024319 (CK) & #2536486 (UK)
-I hate myself for not having the will power to quit eating junk food.	Es ienīstu sevi, ka man nav gribasspēka atmests ātro ēdienu ēšanu.	CC-BY 2.0 (France) Attribution: tatoeba.org #953471 (CK) & #2527941 (SilverBirdLV)
-I wonder if keeping your head down and living safely is a survival instinct.	Es brīnos, ja turot savu galvu uz leju un dzīvojot droši ir izdzīvošanas instinkts?	CC-BY 2.0 (France) Attribution: tatoeba.org #435414 (blay_paul) & #2525183 (SilverBirdLV)
-You need to stop talking all the time and start listening to what others say.	Tev vajadzētu beigt runāt visu laiku un sākt klausīties to, ko es saku.	CC-BY 2.0 (France) Attribution: tatoeba.org #997103 (CK) & #2528565 (SilverBirdLV)
-What I really want is for Tom to teach me how to play a few chords on my guitar.	Ko es patiešām gribu, lai Toms man iemāca, kā spēlēt dažus akordus uz mana ģitāras.	CC-BY 2.0 (France) Attribution: tatoeba.org #2042916 (CK) & #2530041 (SilverBirdLV)
+Hello!	Sveiki!
+Calm down.	Nomierines.
+Do it now.	Dariet to tagad.
+I'm timid.	Esmu kautrīgs.
+It's free.	Tas ir bezmaksas.
+Who is he?	Kas viņš ir.
+I love you.	Es mīlu tevi.
+I miss you.	Man tevis pietrūkst.
+I sat down.	Es apsēdos.
+I'm so fat.	Es esmu tāds tusnis.
+Take cover!	Slēpes!
+Who did it?	Kurš to izdarīja?
+I buy tapes.	Es nopirku lentes
+I was wrong.	Es kļūdījos.
+I was wrong.	Man nebija taisnība.
+I'll attend.	Es ieradīšos.
+Life is fun.	Dzīve ir smieklīga.
+Tom is dead.	Toms ir miris.
+Tom is sure.	Toms ir pārliecināts.
+Are you sure?	Vai tu esi pārliecināts?
+I am curious.	Es esmu ziņkārīgs.
+I can't sing.	Es nevaru dziedāt.
+It's too big.	Tas ir par lielu.
+Tom sat down.	Toms apsēdās.
+Who's hungry?	Kāds ir izsalcis?
+Everyone dies.	Visi mirst.
+Get back here.	Nāc atpakaļ.
+I hate coffee.	Es ienīstu kafiju.
+It's improved.	Tās ir uzlabojies.
+That's a fake.	Tas ir neīsts.
+The bell rang.	Zvans nozvanīja.
+Tom is stable.	Toms ir stabils.
+Tom rushed in.	Toms ieskrēja iekšā.
+Tom said that.	Toms pateica to.
+Tom sat alone.	Toms sēdēja viens.
+You can do it.	Tu to vari.
+You may speak.	Tu vari runāt.
+Do you have it?	Vai tev tas ir?
+Get out of bed.	Ārā no gultas!
+Happy New Year!	Laimīgu Jauno gadu!
+He looks tired.	Viņš izskatās noguris.
+I borrow money.	Es aizņēmos naudu.
+I love parties.	Es mīlu ballītes.
+I wasn't fired.	Mani neatlaida.
+I went outside.	Es izgāju ārā.
+I won't eat it.	Es to neēdīšu.
+I won't starve.	Es nenomiršu badā.
+I wore a hoody.	Es valkāju kapuci.
+I work indoors.	Es strādāju iekštelpās.
+I write poetry.	Es rakstu poēmu.
+I'm a believer.	Es esmu ticīgais.
+I'm a romantic.	Es esmu romantiķis.
+It's too large.	Tas ir lielu.
+It's very cold.	Ir ļoti auksti.
+Please come in.	Ludzu nāc iekšā.
+They have wine.	Viņiem ir vīns.
+Tom sat calmly.	Toms sēdēja mierīgi.
+Tom sat nearby.	Toms apsēdās tuvu.
+Clean your room.	Iztīri savu istabu.
+Congratulations!	Apsveicam!
+Has he come yet?	Vai viņš jau ir atnācis?
+He likes to run.	Viņam patīk skriet.
+I'm going to go.	Es iešu.
+Large, isn't it?	Liels, vai ne?
+Lemons are sour.	Citroni ir skābi.
+That's too much!	Tas ir par daudz.
+They helped Tom.	Viņi palīdzēja Tomam.
+They won't come.	Viņi nenāks.
+Tom is confused.	Toms ir apjucis.
+Tom kept silent.	Toms turpināja klusēt.
+Tom seems bored.	Toms izskatās garlaikots.
+We're dedicated.	Mēs esam izlēmuši.
+Were you crying?	Vai tu raudāji?
+What do you say?	Ko jūs sakāt?
+He kept his word.	Viņš turēja savu vārdu.
+I dislike coffee.	Man nepatīk kafija.
+I drink to relax.	Es dzeru lai relaksētos.
+I had to go back.	Man vajadzēja iet atpakaļ.
+I like them both.	Man patīk viņi abi.
+I play the piano.	Es spēlēju klavieres.
+I wrote a letter.	Es uzrakstīju vēstuli.
+I'm really sorry.	Man ir ļoti žēl.
+It's just a cold.	Tā ir tikai saaukstēšanās.
+Let's have lunch.	Ēdīsim pusdienas!
+No one will know.	Neviens nezinās.
+The line is busy.	Līnija ir aizņemta.
+This is above me.	Tas ir pāri manām spējām.
+Tom is an orphan.	Toms ir bārenis.
+Tom is angry now.	Toms ir dusmīgs.
+Tom kept running.	Toms turpināja skriet.
+Tom kept sighing.	Toms turpināja dziedāt.
+Tom kept singing.	Toms turpināja dziedāt.
+Tom kept smiling.	Toms turpināja smaidīt.
+Tom kept staring.	Toms turpināja lukoties.
+Tom kept staring.	Toms turpināja skatīties.
+Tom kept talking.	Toms turpināja runāt.
+What could it be?	Kas tas varētu būt?
+Whose turn is it?	Kura kārta ir?
+You must join me.	Tev vajag man piebiedroties.
+You should sleep.	Tev vajadzētu gulēt.
+You'll stay here.	Tu paliksi šeit.
+You're in danger.	Jūs esat briesmās.
+Are you surprised?	Vai tu esi pārsteigts?
+Give me your book.	Iedod man savu grāmatu!
+How are you going?	Kā jums klājas?
+I didn't even ask.	Es pat nejautāju.
+I hope we find it.	Es ceru, ka mēs to atradīsim.
+I need to find it.	Man vajag to atrast.
+I prefer comedies.	Es dodu priekšroku komēdijām.
+I'll set you free.	Es tevi atbrīvošu.
+I'll set you free.	Es jūs atbrīvošu.
+It's not my fault.	Tā nav mana vaina.
+Life is enjoyable.	Dzīve ir patīkama.
+My father is busy.	Mans tēvs ir aizņemts.
+Now, that's funny.	Lūk, tas bija smieklīgi.
+October was worse.	Oktobris bija slikts.
+Shouldn't we help?	Vai mums nevajadzētu palīdzēt?
+The pizza is here.	Pica ir klāt.
+They are our cars.	Tās ir mūsu mašīnas.
+This is Tom's cat.	Šis ir Toma kaķis.
+Tom is at the bar.	Toms ir pie bāra.
+Tom is behind you.	Toms ir aiz tevis.
+Tom returned fire.	Toms šāva pretīm.
+Tom returned home.	Toms atgriezās mājās.
+Tom won't find me.	Toms mani neatradīs.
+Tom won't find us.	Toms mūs neatradīs.
+Tom won't help me.	Toms man nepalīdzēs.
+Tom won't stop me.	Toms mani neapturēs.
+Tom's dog is dead.	Toma suns ir miris.
+Were you prepared?	Jūs bijāt gatavi?
+When will Tom eat?	Kad Toms ēdīs?
+Will Tom help you?	Vai Toms tev palīdzēs?
+Will you kiss Tom?	Vai tu noskūptīsi Tomu?
+Will you warn Tom?	Vai tu brīdināsi Tomu?
+You can wait here.	Tu vari gaidīt šeit.
+You deserved that.	Tu to biji pelnījis.
+All apples are red.	Visi āboli ir sarkani.
+Can you forgive me?	Vai vari man piedot?
+Do you have a plan?	Vai tev ir plāns?
+Hand me that phone.	Paspiedz man to telefonu.
+Here are your bags.	Šeit ir jūsu somas.
+How did he find us?	Kā viņš mūs atrada?
+I brought you this.	Es tev atnesu šo.
+I don't have a cow.	Man nav govs.
+I entered her room.	Es iegāju viņas istabā.
+I found a good job.	Es atradu labu darbu.
+I haven't paid yet.	Es vēl neesmu samaksājis.
+I just sold my car.	Es tikko pārdevu savu mašīnu.
+I left Tom at home.	Es atstāju Tomu mājās.
+I like candlelight.	Man patīk sveču gaisma.
+I live near a park.	Es dzīvoju netālu no parka.
+I need a corkscrew.	Man vajag korķviļķi.
+I never drink beer.	Es nekad nedzeru alu.
+I'll find somebody.	Es kādu atradīšu.
+I'm Tom's neighbor.	Es esmu Toma kaimiņš.
+Is this book yours?	Vai šī grāmata ir tava?
+It really happened.	Es patiešām esmu laimīgs.
+It's now your turn.	Tagad ir tava kārta.
+Let me pay tonight.	Ļauj man spēlēt šovakar.
+She has seven sons.	Viņai ir septiņi dēli.
+Tom has passed out.	Toms ir atslēdzies.
+Tom is a great kid.	Toms ir labs puika.
+Tom is a smart kid.	Toms ir gudrs zēns.
+Tom is about to go.	Toms tulīt ies.
+Tom is at the door.	Toms ir pie durvīm.
+Tom is coming back.	Toms atgriezīsies.
+Tom kept screaming.	Toms turpināja kliegt.
+Tom might be upset.	Toms varētu būt apbēdināts.
+Tom said goodnight.	Toms pateica ar labunakti.
+Tom said something.	Toms pateica kautko.
+Tom stayed outside.	Toms palika ārā.
+Wait just a moment.	Pagaidi mirkli.
+We're just friends?	Mēs esam tikai draugi?
+What is it made of?	No kā tas ir izgatavots?
+Where will I sleep?	Kur es gulēšu?
+You've lost weight.	Tu pazaudēji svaru.
+Are these your skis?	Šīs ir tavas slēpes?
+Do you like cycling?	Vai tev patīk riteņbraukšana?
+He has a loud voice.	Viņam ir skaļa balss.
+He seemed to be ill.	Viņš izskatījās saslimis.
+I am sad to hear it.	Man ir skumji to dzirdēt.
+I bought milk today.	Es šodien nopirku pienu.
+I don't have a list.	Man nav saraksta.
+I don't like flying.	Man nepatīk lidot.
+I have to go to bed.	Man vajag iet gulēt.
+I know what I'll do.	Es zinu, ko es darīšu.
+I need some hangers.	Man vajag dažus pakaramos.
+I painted the house.	Es nokrāsoju māju.
+I sent you a letter.	Es tev nosūtīju vēstuli.
+I think you're nice.	Es domāju, ka tu esi jauks.
+I'm tired of losing.	Es esmu noguris no zaudēšanas.
+I'm worried for you.	Es esmu noraizējies par tevi.
+I've never hurt Tom.	Es nekad neesmu sāpinājis Tomu.
+I've never hurt Tom.	Es nekad neesmu sāpinājusi Tomu.
+It is white as snow.	Tas ir balts kā sniegs.
+Keep away from that.	Turies pa gabalu no tā.
+May I ask your name?	Vai es varētu pajautāt kā tevi sauc.
+My dad will kill me.	Mans tēvs mani nogalinās.
+Please give me that.	Lūdzu iedod man to.
+Read the book aloud.	Lasi grāmatu skaļi.
+That's an imitation.	Tā ir imitācija.
+That's not my fault.	Tā nav mana vaina.
+That's your opinion.	Tā ir tava izvēle.
+The news isn't good.	Ziņas nav labas.
+They aren't like us.	Viņi nav tādi kā mēs.
+They really did win.	Viņi tiešām neuzvarēja.
+Tom can't fire Mary.	Toms nevar atlaist Mariju.
+Tom is back in town.	Toms ir atgriezies.
+Tom is barely alive.	Toms ir knapi dzīvs.
+Tom is disappointed.	Toms ir vīlies.
+Tom let Mary escape.	Toms ļāva Marijai aizmukt.
+Tom often says that.	Toms bieži to saka.
+Tom rushed upstairs.	Toms steidzās aukšup pa kapnēm.
+Tom sat impatiently.	Toms apsēdās uzreiz.
+We'll send somebody.	Mēs kādu aizsūtīsim.
+We're still nervous.	Mēs vēl esam nervozi.
+We're trying to win.	Mēs mēģinam uzvarēt.
+What did you answer?	Ko tu atbildēji?
+Where's Tom's watch?	Kur ir Toma pulkstenis?
+You don't work here.	Tu šeit nestrādā.
+You have bad breath.	Tev ir slikta elpa.
+Call Tom immediately.	Zvani Tomam nekavējoties.
+Go and see who it is.	Ej un paskaties kas tas ir.
+How many do you want?	Cik cik daudz tu gribi?
+I forget who said it.	Es aizmirsu kurš to teica.
+I know that he knows.	Es zinu, ka viņš zin.
+I still think of Tom.	Es aizvien domāju par Tomu.
+I wasn't too worried.	Es nebiju parāk uztraucies.
+I went out by myself.	Es izgāju viens pacs.
+I wish I were famous.	Es vēlos kaut es būtu slavens.
+I won't eat anything.	Es neēdīšu neko.
+I won't sing tonight.	Es šonakt nedziedāšu.
+I'll let you do that.	Es tev atļauju to darīt.
+I'm already a father.	Es jau esmu tēvs.
+I'm happy to hear it.	Es priecājos to dzirdēt.
+It's a stupid system.	Tā ir stulba sistēma.
+It's an easy victory.	Tā ir viegla uzvara.
+Look at that red car.	Paskaties uz to sarkano mašīnu.
+Please lock the safe.	Lūdzu aizslēdz seifu.
+They resumed walking.	Viņi turpināja iet.
+Tom is a good friend.	Toms ir labs draugs.
+Tom is already there.	Toms jau ir šeit.
+Tom is an old friend.	Toms ir mans vecs draugs.
+Tom needed your help.	Tomam vajag tavu palīdzību.
+Tom resumed speaking.	Toms atsāka runāt.
+Tom wore a straw hat.	Toms valkāja salmu cepuri.
+We can't give up now.	Mēs nevaram padoties.
+We did nothing wrong.	Mēs neizdarījām neko sliktu.
+We didn't do a thing.	Mēs neko nedarījām.
+We need your support.	Mums vajag jūsu atbalsu.
+When's your birthday?	Kad ir tava dzimšanas diena?
+Where is the problem?	Kur ir problēma?
+Why should they hide?	Kāpēc viņiem būtu jāslēpjas?
+Yesterday was Sunday.	Vakar bija Svētdiena.
+Your son is a genius.	Tavs dēls ir ģēnijs.
+Your son is a genius.	Jūsu dēls ir ģēnijs.
+Do you need this book?	Vai tev vajag šo grāmatu?
+Does Tom have an iPad?	Vai Tomam ir iPad?
+Everyone else does it.	Visi citi to dara.
+How long did you stay?	Cik ilgi tu paliki?
+I didn't want to lose.	Es negribēju zaudēt.
+I know Tom lied to us.	Es zinu, ka Toms mums sameloja.
+I know what Tom likes.	Es zinu kas Tomam patīk.
+I met her an hour ago.	Es viņu satiku pirms stundas.
+I need a box of nails.	Man vajag naglu kasti.
+I need to feed my dog.	Man ir jāpabaro mans suns.
+I usually get up at 8.	Es parasti ceļos astoņos.
+I'd like to know more.	Es gribētu uzzināt vairāk.
+I'll show you my room.	Es tev parādīšu savu istabu.
+I'll tell you a story.	Es tev pastāstīšu stāstu.
+I'm sure I'll do that.	Esmu pārliecināts, ka es to izdarīšu.
+Is your daughter here?	Vai tava meita ir šeit.
+It seems warm outside.	Šķiet ka ārā ir silts.
+Let's not go to class.	Neiesi uz klasi.
+That's good, isn't it?	Tas ir labi, vai ne?
+This is going too far.	Tas ir aizgājis par tālu.
+Tom appeared confused.	Toms izskatījās apmulsis.
+Tom doesn't live here.	Toms šeit nedzīvo.
+Tom gave me that book.	Toms man iedeva to grāmatu.
+Tom has a good excuse.	Tomam ir labs attaisnojums.
+Tom has good eyesight.	Tomam ir laba redze.
+Tom hung up the phone.	Toms nolika klausuli.
+Tom is at the airport.	Toms ir pie lidostas.
+Tom resuscitated Mary.	Toms atdzīvināja Mariju.
+We climbed to the top.	Mēs uzkāpām līdz virsotnei.
+Who's Tom looking for?	Ko Toms meklē?
+You always seem tired.	Tu vienmēr izskaties noguris.
+Can you close the door?	Vai tu vari aizvērt durvis?
+Do you come here often?	Vai tu šeit nāc bieži?
+Has something happened?	Vai kaut kas ir noticis?
+He can't walk any more.	Viņš vairs nevar pastaigāt.
+He didn't even read it.	Viņš pat to neizlasīja
+I can't help you today.	Es tev šodien nevaru palīdzēt.
+I don't agree with him.	Es viņam nepiekrītu.
+I don't have any plans.	Man nav nekādu plānu.
+I don't know the cause.	Es nezinu iemeslu.
+I hope that it'll work.	Es ceru, ka tas strādās.
+I never had much money.	Man nekad nav bijis daudz naudas.
+I was happy I did that.	Es biju priecīgs, ka to izdarīju.
+I will gladly help you.	Es tev ar prieku palīdzēšu.
+It doesn't surprise me.	Tas mani nepārsteidz.
+My TV has quit working.	Mans TV ir pārstājis darboties.
+Now, this is a problem.	Tagad tā ir problēma.
+Tell it to him, not me!	Saki to viņam, nevis man!
+That's a good question.	Tas ir labs jautājums.
+They suspected nothing.	Viņi neko nenojauš.
+Tom cut the wrong wire.	Toms pārgrieza nepareizo vadu.
+Tom is all alone again.	Toms atkal ir pilnīgi viens.
+Tom is studying French.	Toms mācās Franču valodu.
+What has he done today?	Ko viņš šodien ir izdarījis?
+What has he done today?	Ko viņš ir izdarījis šodien?
+What're we waiting for?	Ko mēs gaidām?
+What're we waiting for?	Ko jūs gaidāt?
+Why aren't you at work?	Kāpēc tu neesi darbā?
+Why do I feel this way?	Kāpēc es šādi jūtos?
+Will she get well soon?	Vai viņa drīz atlabs?
+You asked for our help.	Tu lūdzi mūsu palīdzību.
+You can't hypnotize me.	Tu nespēj mani hipnotizēt.
+You must do it at once.	Tev vajaga beidzot to izdarīt.
+Did he support her idea?	Vai viņš atbalstīja viņas ideju.
+Do you require our help?	Vai tev vajag mūsu palīdzību.
+Her kindness touched me.	Viņas laipnība mani aizkustināja.
+I can't just do nothing.	Es varu nedarīt neko.
+I don't care either way.	Man vienalga jebkurā gadījumā.
+I don't want to eat now.	Es tagad negribu ēst.
+I go there all the time.	Es tur eju visu laiku.
+I hope we'll meet again.	Es ceru, ka mēs tiksimies vēlreiz.
+I love to take pictures.	Man patīk fotogrāfēt.
+I think you're mistaken.	Es domāju, ka tu kļūdies.
+I've seen Tom in action.	Es esmu redzējis Tomu darbībā.
+If you want to cry, cry.	Ja tu gribi raudāt, raudi.
+It's time for Tom to go.	Tomam ir laiks doties.
+She didn't need to come.	Viņai nevajadzēja nākt.
+She knocked on the door.	Viņa pieklauvēja pie durvīm.
+The skeptics were right.	Skeptiķiem bija taisnība.
+They know what happened.	Viņi zin, kas notika.
+Tom has no friends here.	Tomam šeit nav draugu.
+Tom is a visual thinker.	Toms ir vizuāls domātājs.
+Tom is my second cousin.	Toms ir mans otrais brālēns.
+Tom isn't being careful.	Toms nav piesardzīgs.
+Tom just didn't like it.	Tomam tas nepatika.
+We don't even need this.	Mums pat to nevajag.
+We don't have any proof.	Mums nav nekādu pierādījumu.
+We've been there before.	Mēs jau tur esam bijuši.
+What did Tom talk about?	Par ko Toms runāja?
+What do you think of me?	Ko tu domā par mani?
+What're you looking for?	Ko tu meklē?
+You didn't miss a thing.	Tu neko nenokavēji.
+You explained that well.	Tu to labi izskaidroji.
+You have plenty of time.	Tev ir daudz laika.
+Can you help me a little?	Vai tu man varētu nedaudz palīdzēt?
+He drank a lot yesterday.	Viņš dzēra daudz vakar.
+He has never been abroad.	Viņš nekad nav bijis ārzemēs.
+He is too tired to study.	Viņš ir pārāk noguris, lai mācītos.
+He missed the last train.	Viņš nokavēja pēdējo vilcienu.
+He'll be glad to see you.	Viņš priecāsies tevi redzēt.
+He'll be glad to see you.	Viņš priecāsies jūs redzēt.
+How tall is your brother?	Cik garš ir tavs brālis?
+I advised Tom to go home.	Es ieteicu Tomam doties mājās.
+I can help if you'd like.	Es varu palīdzēt ja tu gribi.
+I can't help you do that.	Es nevaru tev palīdzēt to izdarīt.
+I don't like cold coffee.	Man nepatīk auksta kafija.
+I don't like you anymore.	Man tu vairs nepatīc.
+I go to school by subway.	Es dodos uz skolu ar metro.
+I knew Tom meant no harm.	Es zinu, ka Toms nedomāja ļaunu.
+I saw it from the window.	Es to ieraudzīju no loga.
+I wonder if this is love.	Es domāju vai tā ir mīlestība.
+I'll study hard tomorrow.	Es rīt cītīgi mācīšos
+I'm not excited about it.	Es neesmu par to sajūsmā.
+I'm really glad you came.	Esmu ļoti priecīgs, ka tu atnāci.
+I've got nothing to hide.	Man nav nekas slēpjams.
+Mary is Tom's girlfriend.	Marijas draugs ir Toms
+Maybe we should be quiet.	Varbūt mums vajadzētu būt klusiem.
+That wasn't my intention.	Tas nebija mans nodoms.
+That's not going to help.	Tas nelīdzēs.
+The two boys are cousins.	Šie zēni ir brālēni.
+They became very nervous.	Viņi kļuva ļoti nervozi.
+This watch is waterproof.	Šis rokaspulkstenis ir ūdensizturīgs.
+Tom is already in Boston.	Toms jau ir Bostonā.
+Tom returned immediately.	Toms atgriezās uzreizs.
+Turtles don't have teeth.	Bruņurupučiem nav zobu.
+We should study together.	Mums vajadzētu mācīties kopā.
+What do you mean by that?	Ko tu ar to domā?
+Would you like to see it?	Vai tu gribētu redzēt to.
+You don't have to eat it.	Tev nevajag to ēst.
+Everyone, please be quiet.	Visi lūdz esat klusi.
+He can speak Russian, too.	Viņš ari var runāt Krieviski.
+I can get anything I want.	Es varu dabūt visu ko es gribu.
+I don't have many friends.	Man nav daudz draugu.
+I don't know how I did it.	Es nezinu kā es to izdarīju.
+I don't want you to worry.	Es negribu lai tu uztrauktos.
+I just want a normal life.	Es tikai vēlos normālu dzīvi.
+I need to know everything.	Man jāzin viss.
+I was terribly frightened.	Es biju ļoti nobijies.
+I'm having a heart attack.	Man ir sirdstrieka.
+Please give me this money.	Lūdz iedod man šo naudu.
+Tell me what you find out.	Pastāsti man ko esi atklājis.
+They should ask Tom first.	Viņiem vispirms vajadzētu pajautāt Tomam.
+They're young and healthy.	Viņi ir jauni un veselīgi.
+Tom isn't like other boys.	Toms nav tāds kā citi puiši.
+Tom seems different today.	Toms šodien izskatās savādāk.
+Watch out for pickpockets.	Uzmanies no zagļiem.
+What do you suppose it is?	Kā tu domā kas tas ir?
+What do you want for that?	Ko tu vēlies par to?
+What's your cousin's name?	Kads ir tava brālēna vārds?
+What's your cousin's name?	Kāds ir tavas māsīcas vārds?
+Why do we have to go home?	Kāpec mums vajaga iet mājās?
+You must be really hungry.	Tu noteikti esi ļoti izsalcis.
+Did you see where Tom went?	Vai tu redzēji kur palika Toms?
+Do they have any good news?	Vai tev ir labi jaunumi.
+Do you ever wear a bow tie?	Vai tu kādreiz velc tauriņu?
+Do you know the bus driver?	Vai tu pazīsti autobusa vadītāju?
+He didn't order dinner yet.	Es vel nepasūtīju vakariņas.
+He is a teacher of English.	Viņš ir angļu valodas skolotājs.
+I don't care what it costs.	Man vienalga, cik tas maksā.
+I don't have a spare shirt.	Man nav lieka krekla.
+I don't know what you mean.	Es nezinu ko tu ar to domā.
+I started writing the book.	Es sāku rakstīt grāmatu.
+I wish I could go to Japan.	Es vēlo kaut es varētu doties uz Japānu.
+I'd like to live in Europe.	Man patīk dzīvot Eiropā.
+I'll never make it in time.	Es nekad neuzspēšu laikā.
+I'll stay at home tomorrow.	Es rīt palikšu mājās.
+I'm not going to die today.	Es netaisos mirt šodien.
+Is your brother's name Tom?	Vai tava brāļa vārds ir Toms?
+It seems interesting to me.	Man tas liekas intraneti!
+Japan is full of surprises!	Japāna ir pārsteigumu pilna!
+Nobody lives in this house.	Šajā mājā neviens nedzīvo.
+She was washing the dishes.	Viņa mazgāja traukus.
+Should I wait for you here?	Vai man tevi vajadzēja gaidīt šeit?
+The cows are milked at six.	Govis tiek slauktas sešos.
+The flowers cheered her up.	Ziedi viņu uzmundrināja.
+They are eating a sandwich.	Viņi ēd sendviču.
+This car is very expensive.	Šī automašīna ir ļoti dārga.
+Tom is asleep on the bench.	Toms ir aizmidzis uz soliņa.
+Tom is asleep on the couch.	Toms ir aizmidzis uz dīvāna.
+Tom is awfully quiet today.	Toms šodien ir diezgan klus.
+Tom traveled around Europe.	Toms ceļoja apkārt Eiropai.
+Tom works in a coffee shop.	Toms strādā kafejnīcā.
+We have to be very careful.	Mums jābūt ļoti uzmanīgiem.
+We'll certainly invite Tom.	Mēs noteikti ielūgsim Tomu.
+What are you talking about?	Par ko tu runā.
+Ask her when she comes back.	Pajautā viņai kad viņa atgriezīsies.
+How could you be so certain?	Kā tu vari būt tik drošs?
+I can teach you if you want.	Es varu jūs iemācīt, ja jūs to gribat.
+I don't know how I did that.	Es nezinu kā es to izdarīju.
+I enlisted in the Air Force.	Es brīvprātīgi pievienojāties Gaisa spēku.
+I have to cook dinner today.	Man šodien jāpagatavo vakariņas
+I shouldn't have logged off.	Man nevajadzēja izlogoties.
+I try not to think about it.	Es mēģinu par to nedomāt.
+I will wait until she comes.	Es gaidīšu kamēr viņa atnāks.
+I'm an actress, not a model.	Es esmu aktrise, nevis modele.
+I'm sorry you feel that way.	Man ir žēl ka tu jūties tā.
+It is said that she is rich.	Tas ir skumji ka viņa ir bagāta.
+She was almost hit by a car.	Viņu gandrīz notrieca mašīna.
+Stop playing with your hair.	Beidz spēlēties ar saviem matiem.
+Thanks for your explanation.	Paldies par paskaidrojumu.
+The dog didn't eat the meat.	Suns neapēda gaļu.
+They don't want you to know.	Viņi nevēlas, lai tu zini.
+We don't have time for this.	Mums tam nav laika.
+We really enjoyed ourselves.	Mēs patiešām patika sevi.
+Where are your credit cards?	Kur ir tava kredītkarte?
+Why don't you come visit us?	Kāpēc tu neapciemo mūs.
+You'll sleep better tonight.	Šonakt tu gulēsi labāk.
+Can you tell me what this is?	Vai tu vari man pateikt, kas tas ir?
+Did you try to listen to her?	Vai tu mēģināji viņā ieklausīties?
+Give me the report on Monday.	Atdodiet man ziņojumu Pirmdien.
+How's it going? Are you busy?	Kā iet? Vai tu esi aizņemts?
+I can't answer this question.	Es nevaru atbildēt uz šo jautājumu.
+I can't get this lock opened.	Es nevaru šo slēdzeni atvērt.
+I can't recall who said that.	Es nevaru atcerēties kurš to teica.
+I don't think you understand.	Es nedomāju, ka tu saproti.
+I wish I had a better memory.	Es vēlētos lai man būtu labākas atmiņas.
+My husband gave me a red car.	Mans vīrs man iedeva sarkanu mašīnu.
+Prices have dropped recently.	Cena ir kritusies nesen.
+She dressed up for the party.	Viņa ir saģērbusies ballītei.
+She let him drive on his own.	Viņa viņam ļāva braukt pašam.
+Some people relax by reading.	Daži cilvēki atpūšas lasot.
+That bed is very comfortable.	Tā gulta ir ļoti ērta.
+That shop has many customers.	Veikalam ir daudz apmeklētāku.
+That's the only way to do it.	Ir tikai viens veids, kā to izdarīt.
+There are also fish that fly.	Ir arī zivs kas lido.
+Tom drove to the supermarket.	Toms piebrauca pie lielveikala.
+Tom hasn't changed very much.	Toms nav daudz mainījies.
+Tom is a bit older than Mary.	Toms ir mazliet vecāks par Mariju
+Tom is a martial arts expert.	Toms ir cīņas mākslu eksperts.
+Tom wanted to wash his hands.	Toms gribēja nomazgāt rokas.
+We all need to stay together.	Mums visiem jāpaliek kopā.
+We don't know where Tom went.	Mēs nezinam kur Toms palika.
+You're an artist, aren't you?	Tu esi mākslinieks, vai ne?
+Your brother will not buy it.	Tavs brālis to nepirks.
+Your daughters are beautiful.	Tava meita ir skaista.
+He climbed down from the tree.	Viņš nokāpa no koka.
+I can do it without your help.	Es varu to izdarīt bez tavas palīdzības.
+I can only stay a few minutes.	Es varu palikt tikai uz dažām minūtēm.
+I didn't know what that meant.	Es nezinu ko tas nozīmē.
+I didn't know what to believe.	Es nezinu kam ticēt.
+I didn't want to shoot my dog.	Es nevēlos nošaut savu suni.
+I don't have to do that today.	Man to šodien nevajaga darīt.
+I don't like punk rock at all.	Man nemazs nepatīk roks.
+I don't want to die in prison.	Es nevēlos mirt cietumā.
+I had intended to go shopping.	Es biju domājis doties iepirkties.
+I had to wait for a long time.	Man vajadzēja gaidīt ilgu laiku.
+I know how much money Tom has.	Es zinu cik naudas Tomam ir.
+I think that Tom is dangerous.	Es domāju, ka Toms ir bīstams.
+I'm sorry, I'm busy right now.	Es atvainojos, es šobrīd esmu aizņemts.
+Nothing much is happening yet.	Nekas nav noticis pagaidām.
+People should love each other.	Cilvēkiem vajadzētu mīlēt citam citu.
+Please take me to the airport.	Lūdzu aizvediet mani uz lidostu.
+She's really smart, isn't she?	Viņa ir ļoti gudra, vai ne?
+The cops won't find you there.	Policisti neatradīs tevi šeit.
+The meeting will end tomorrow.	Sanāksme beigsies rīt.
+The rain washed away the soil.	Lietus aizskaloja augsni.
+They did not have enough gold.	Viņiem nebija pietiekoši daudz zelta.
+This flower is very beautiful.	Šis zieds ir ļoti skaists.
+This place is large, isn't it?	Šī vieta ir liela, vai ne?
+Tom is playing the violin now.	Toms šobrīd spēle vijoli.
+All of my attempts have failed.	Visi mani mēģinājumi ir izgāzušies.
+He earns his living by writing.	Viņš nopelna viņa dzīvei rakstot
+He sent his luggage in advance.	Viņš jau iepriekš nosūtīja savu bagāžu.
+I don't want to live by myself.	Es negribu dzīvot viens pats.
+I don't want to wait that long.	Es negribu gaidīt tik ilgi.
+I thought I put it right there.	Man likās, ka es to noliku tur.
+It will cost around 10,000 yen.	Tas maksās aptuveni 10000 jēnu.
+My husband is a very good cook.	Mans vīrs ir ļoti labs pavārs.
+Say it clearly in a loud voice.	Saki to skaidri skaļā balsī.
+She asked how to cook the fish.	Viņa jautāja, kā pagatavot zivi.
+There are some eggs in the box.	Tur ir dažas olas kastē.
+Tom just couldn't help himself.	Toms nevarēja palīdzēt sev.
+Tom locked his keys in his car.	Toms ieslēdza savas atslēgas mašīnā.
+Tom seems to have lost his key.	Toms izskatās ka ir pazaudējis savas atslēgas.
+We don't want to take anything.	Mēs neko nevēlamies ņemt.
+We were surprised by that news.	Mēs bijām pārsteigti par šo ziņu.
+What part don't you understand?	Kuru daļu tu nesaproti?
+Do not cast pearls before swine.	Neber cūkām pērles
+I can't let Tom keep doing that.	Es nevaru ļaut Tomam turpināt to darīt.
+I didn't quite know what to say.	Es īsti nezināju, ko teikt.
+I have no time even for reading.	Man nav laika pat lasīšanai.
+I'm going to miss that somewhat.	Man tas mazliet pietrūks.
+I'm sure you can do even better.	Esmu pārliecināts ka tu to vari izdarīt vel labāk.
+I'm trying very hard not to cry.	Es ļoti cenšos neraudāt.
+That restaurant's too expensive.	Tas restorāns ir pārāk dārgs.
+Tom really likes chocolate cake.	Tomam ļoti garšo šokolādes kūka.
+We often talk about the weather.	Mēs bieži runājam par laika apstākļiem.
+We went for a walk on the beach.	Mēs devāmies pastaigā pa pludmali.
+What time do you arrive at work?	Kādā laikā tu ierodies darbā?
+He has a brother and two sisters.	Viņam ir brālis un divas māsas.
+He's a professional photographer.	Viņš ir profesionāls fotogrāfs.
+I love you more than you love me.	Es mīlu tevi vairāk nekā tu mani mīli.
+I take the bus to work every day.	Es ar autobusu uz darbu dodos katru dienu.
+I thought the show was excellent.	Es domāju, ka šovs bija lielisks.
+I tore the newspaper into pieces.	Es saplēsu avīzi druskās.
+I've had a lot on my mind lately.	Es pēdējā laikā esmu daudz ko pārdomājis.
+It was his habit to get up early.	Tas bija viņa ieradums pamosties agri.
+Some even accused him of treason.	Daži pat apsūdzēja viņu nodevībā.
+The door is opened every morning.	Durvis ir atvērtas katru rītu.
+Tom did that entirely on his own.	Toms to visu paveica pats.
+Tom has three gorgeous daughters.	Tomam ir trīs skaistas meitas.
+Tom has to do that before Monday.	Tomam tas ir jāizdara līz pirmdienai.
+We protested, but it was in vain.	Mēs protestējām, bet tas bija veltīgi.
+Fortunately, the weather was good.	Par laimi, laiks ir labs.
+He came from a tiny mountain town.	Viņš nāca no mazas kalnu pilsētiņas.
+He knows everything about Germany.	Viņš zin visu par Vāciju.
+I had a horrible dream last night.	Man bija slikts sapnis pagājušajā naktī.
+It's great! You'll laugh for sure.	Tas ir lieliski! Jūs smieties, noteikti.
+My uncle lives next to the school.	Mans onkulis dzīvo blakus skolai.
+The plate slipped out of my hands.	Šķīvis izslīdēja viņam no rokām.
+The teacher told us a funny story.	Skolotājs mums izstāstīja smieklīgu stāstu.
+We have a lot of snow in February.	Februārī mums ir daudz sniega.
+What's the best sleeping position?	Kāds ir labākais gulēšanas veids?
+What's the title of your new book?	Kāds ir Tavas jaunās grāmatas nosaukums?
+You've got a great sense of humor.	Tev piemīt lieliska humora izjūta.
+Choose the color you like the best.	Izvēlies krāsu, kura tev patīk vislabāk.
+Helsinki is the capital of Finland.	Helsinki ir Somijas galvaspilsēta.
+I can't understand why he did that.	Es nesaprotu kāpēc viņš tā darija.
+I don't want to get you in trouble.	Es nevēlos tevi ievilkt nepatikšanās.
+I know that money isn't everything.	Es zinu, ka nauda nav viss.
+I love you and I want to marry you.	Es mīlu tevi un gribu tevi precēt.
+I want you to know that I love you.	Es gribu lai tu zini ka es tevi mīlu.
+I was glad to hear of your success.	Es priecājos dzirdēt par taviem panākumiem.
+I'll always remember your kindness.	Es vienmēr atcerēšos tavu laipnību.
+It's not much of a surprise, is it?	Tas nav daudz priekš pārsteiguma, vai ne?
+It's too dark to play baseball now.	Ir pārāk tumšs, lai tagad spēlētu beisbolu.
+Not all Germans like to drink beer.	Ne visiem Vāciem patīk dzert alu.
+This problem is difficult to solve.	Šo problēmu ir grūti atrisināt.
+Tom bought new laces for his shoes.	Toms nopirka jaunas šņores savām kurpēm.
+Tom enjoys listening to live music.	Toms patīk klausīties dzīvajā mūzikā.
+You don't seem too happy to see me.	Tu neizskaties priecīgs mani redzot.
+He came in and immediately sat down.	Viņš atnāca un uzreiz apsēdās.
+How often do you use your telephone?	Cik bieži tu izmanto savu telefonu?
+How often should you wash your hair?	Cik bieži vajadzētu mazgāt matus.
+How well do you know your neighbors?	Cik labi tu pazīst savus kaimiņus?
+How will we get this done by Monday?	Kā mēs paspēsim to izdarīt līdz pirmdienai?
+How will we overcome these problems?	Kā mēs parvarēsim šo problēmu?
+How worried should we be about that?	Cik noraizējušiem mums vajadzētu būt par to?
+How would you handle this situation?	Kā tu tiktu galā ar šo situāciju?
+How would your friends describe you?	Kā tavi draugi tevi aprakstītu?
+I thought that I put it right there.	Man likās, ka es to noliku tur.
+I want you to take it away from Tom.	Es gribu lai tu to paņēm no Toma.
+I won't ask you anything else today.	Es tev šodien neko citu neprasīšu.
+Mother is in bed. She caught a cold.	Māte ir gultā. Viņai ir temperatūra.
+Please go to the playground to play.	Lūdzu ej uz spēļu laukumu spēlēties.
+The Rosetta Stone was found in 1799.	Rosetta akmens tika atrasts 1799.
+The fund was set up to help orphans.	Fonds tika izveidots, lai palīdzētu bāreņiem.
+The white boat went down the stream.	Baltā laiva devās lejup pa straumi.
+This wasn't an easy decision for us.	Šis mums nebija viegls lēmums.
+To be honest, I don't understand it.	Godīgi sakot, es to nesaprotu.
+To tell the truth, I don't like him.	Es saku taisnību man viņš nepatīk.
+Tom was never very friendly to Mary.	Toms nekad nebija draudzīgs pret Mariju.
+Tom wasn't the one who gave me that.	Toms nebija tas kurš man to iedeva.
+Tom wasn't the one who told me that.	Toms nebija tas kurš to man pateica.
+We want to take your blood pressure.	Mēs vēlamies pārbaudīt jūsu asinsspiedienu.
+What do you think of our collection?	Ko tu domā par mūsu kolekciu?
+Why are people afraid of the police?	Kāpēc cilvēki baidās no policijas?
+You may come with us if you want to.	Tu vari nākt ar mums, ja vēlies.
+Are you saying that Tom is a traitor?	Vai tu saki, ka Toms ir nodevējs?
+Have you noticed anything suspicious?	Vai tu esi ievērojis kaut ko aizdomīgu.
+I can't believe Tom really said that.	Es nespēju noticēt ka Toms to pateica.
+I didn't want to tell Tom about this.	Es nevēlējos Tomam stāstīt par šo.
+I don't think Tom would've done that.	Es domāju ka Toms to nebūtu darijis.
+I'm sorry. I didn't do it on purpose.	Man žēl. Es to negribēju darīt ar nolūku.
+One cannot embrace the unembraceable.	Neviens nevar apskaut neapskaujamo.
+That's the question we have to solve.	Tas ir jautājums, kuru mums ir jāatrisina.
+Tom is hoping that Mary will do that.	Toms cer, ka Marija to izdarīs.
+Tom pushed Mary off the diving board.	Toms nogrūda Mēriju no tramplīna.
+We don't want anyone to find us here.	Mēs negribam lai mūs šeit kāds atrod.
+How did you know Tom was going to die?	Kā tu zināji ka Toms nomirs?
+I asked him where I could park my car.	Es viņam jautāju, kur es varētu novietot mašīnu.
+I never dreamed that I would meet you.	Es nekad nesapņoju ka tevi satikšu.
+I wonder how much you know about this.	Es domāju cik daudz tu zini par šo.
+I'll be out of town until next Monday.	Es būšū izbraucis līdz nākošajai pirmdienai.
+I'm getting tired of your complaining.	Es sāku nogurt no taviem parmetumiem.
+I'm too old to do something like that.	Es esmu par vecu lai darītu kautko tādu.
+I've already seen that movie, I think.	Es domāju ka es esmu jau redzējis to filmu.
+I've probably already seen that movie.	Es drošivien esmu jau redzējis to filmu.
+There is a traffic jam on the highway.	Uz šosejas ir satiksmes sastrēgums.
+This book isn't as heavy as that book.	Šī grāmata nav tik smaga kā tā grāmata.
+Tom almost always goes to work by car.	Toms gandrīz vienmēr uz darbu dodas ar mašīnu.
+Tom cut the wire and defused the bomb.	Toms pārgrieza vadu un atmīnēja bumbu.
+Watch your step. The stairs are steep.	Skaties, kur liec kāju. Kāpnes ir stāvas.
+We should lock the door when we leave.	Mums vajadzētu aizslēgt durvis, kad mēs aizejam.
+Whatever you do, don't pull this rope.	Lai ko tu darītu, nevelc šo virvi!
+Would you like to drink a bit tonight?	Vai tu gribētu dzert šovakar?
+Are you going to eat that piece of pie?	Vai tu ēdīsi to pīrāga gabalu?
+I didn't like my name when I was young.	Man nepatika mans vārds, kad es biju jauns.
+I found the key in Tom's jacket pocket.	Es atradu atslēgu Toma jakas kabatā.
+I want to send this by registered mail.	Es gribu nosūtīt šo no reģistrēta epasta.
+She advised him to cut down on smoking.	Viņa ieteica viņam mazāk smēķēt.
+The child was hiding behind a big tree.	Bērns slēpās aiz liela koka.
+The child was hiding behind a big tree.	Bērns slēpās aiz lielā koka.
+Tom also teaches geography and history.	Toms arī pasniedz ģeogrāfiju un vēsturi.
+We had to wait for him for ten minutes.	Mums vajadzēja viņu gaidīt desmit minūtes.
+Do you think I haven't anticipated that?	Tu domā ka es to negaidiju.
+The last time I saw Tom he was barefoot.	Pēdējo reizi, kad es redzēju Tomu, viņš bija basām kājām.
+There are more important things in life.	Dzīvē ir svarīgākas lietas.
+Why do you care what other people think?	Kāpēc tu uztraucies ko cilvēki domā?
+A green banana is not ripe enough to eat.	Zaļš banāns nav pietiekoši nogatavojies, lai to ēstu.
+Could you teach me how to play the piano?	Vai tu man iemācīsi kā spēlēt klavieres?
+He goes to sleep with the lights left on.	Viņš iet gulēt, atstājot gaismas ieslēgtas.
+He told me to meet him at the restaurant.	Viņš pateica lai es viņu satieku restorānā.
+I clicked the link, but nothing happened.	Es klikšķināju uz mājaslapas, bet nekas nenotika.
+I pray that you'll have the best of luck.	Es lūdzu, lai jums būtu veiksme.
+That's mine. I don't know where yours is.	Tas ir mans. Es nezinu, kur ir tavs.
+This is the house where she used to live.	Šī ir tā māja kurā viņa dzīvoja.
+You've bitten off more than you can chew.	Tu esi nokodies vairāk nekā tu vari sakošļāt.
+I want the same jacket as you are wearing.	Es gribu to pašu jaku, kuru tu valkā.
+In comparison with Tokyo, London is small.	Salīdzinājumā ar Tokiju, Londona ir maza.
+Let me introduce you to my beautiful wife.	Ļauj mani iepazīstināt ar manu skaisto sievu.
+That guy got married and started a family.	Tas vīrietis apprecējās un sāka dibināt ģimeni
+Tom promised to give me anything I wanted.	Toms man apsolīja dot visu ko es gribu.
+He looked small next to my heavyset father.	Viņš izskatījās mazs stāvot blakus manam lielajam tēvam.
+He was standing at the top of the mountain.	Viņš stāvēja kalna galotnē.
+I don't want to hear another word about it!	Es nevēlos dzirdēt nevienu vārdu par to!
+If he'd known the truth, he'd have told me.	Ja viņš būtu zinājis patiesību, viņš man būtu pateicis.
+There used to be big trees around the pond.	Apkārt dīķim kādreiz bija lieli koki.
+We also did amputations. We had to do them.	Mēs arī veicām amputācijas. Mums tas bija jādara.
+As soon as the dog saw me, it began to bark.	Tiklīdz kā suns mani ieraudzīja, tas sāka riet.
+He has been studying French for eight years.	Viņš ir mācījies Franču valodu astoņus gadus.
+I'll tell you everything from the beginning.	Es tev izstāstīšu visu no paša sākuma.
+My hobby is taking pictures of wild flowers.	Mans hobijs ir fotografēt savvaļas puķes.
+Real friendship is more valuable than money.	Patiesa draudzība ir vērtīgāka par naudu.
+The police got to the scene of the accident.	Policija nokļuva negadījuma vietā.
+Tom plays the guitar almost as well as Mary.	Toms spēlē ģitāru gandrīz tikpat labi kā Marija.
+Tom pushed the button, but nothing happened.	Toms piespieda pogu, bet nekas nenotika.
+What is the unemployment rate at the moment?	Kāds šobrīd ir bezdarba līmenis?
+Are there any Japanese restaurants near here?	Vai šeit tuvumā ir kāds Japāņu restorāns?
+Even though he apologized, I'm still furious.	Pat tad kad viņš atvainojis es joprojām esmu nikns.
+She made a promise to write to me every week.	Viņa man solīja rakstīt katru nedēļu.
+Will you take care of my dog while I am away?	Vai tu parūpēsies par manu suni kamēr es būšu prom?
+You'll have to learn all these dates by rote.	Tev būs jāpatur prātā visi šie datumi.
+How can you avoid the dangers of the Internet?	Kā var izvairīties no briesmām no interneta.
+People die, but the things they create endure.	Cilvēki mirst, bet liekas, kuras viņi rada, paliek.
+She walked past him without even noticing him.	Viņa pagāja viņam garām, pat viņu neievērojot.
+They wanted to live in peace with the Indians.	Viņi ar Indiāņiem gribēja dzīvot mierā.
+This medicine is still not sold in pharmacies.	Šīs zāles joprojām netiek pārdotas aptiekās.
+He's making a lot of money in the stock market.	Viņš pelna daudz naudas akciju tirgū.
+My uncle lives in Madrid, the capital of Spain.	Mans onkulis dzīvo Madridē, galvas pilsētā Spānijā.
+Sometimes things that happen do not make sense.	Dažreiz notiekošais ir neizprotams.
+When I got home, I had a nice, ice-cold shower.	Kad es tiku mājās, es iegāju jaukā, ledainā dušā.
+Do you really have free tickets for the concert?	Vai patiešām ir bezmaksas biļetes uz šo koncertu.
+His words excited everyone, even the opposition.	Viņa vārdi aizrāva visus, pat opozīciju.
+I can't go to work today because I have the flu.	Es nevaru šodien iet uz darbu, jo man ir gripa.
+I feel the need to do something different today.	Es jūtu vajadzību darīt kautko citu šodien.
+She asked him to stay, but he had to go to work.	Viņa lūdza viņam palikt, bet viņam bija jāiet uz darbu.
+That guy is always asking his parents for money.	Tas puisis vienmēr prasa viņa vecākiem naudu.
+You will soon get accustomed to your new school.	Tu drīz iejutīsies savā jaunajā skolā.
+Everyone's waiting to see what's going to happen.	Visi gaida, lai redzētu, kas notiks.
+This is the pen that he signed the document with.	Šī ir tā pildspalva ar kuru viņš parakstīja dokumentus.
+Tom plays the guitar almost as well as Mary does.	Toms spēlē ģitāru gandrīz tikpat labi kā Marija.
+A gang of three robbed the bank in broad daylight.	Trīs cilvēku banda skaidrā dienas laikā aplaupīja banku.
+I did not watch TV but studied English last night.	Es vakarnakt neskatījos televizoru, bet mācījos angļu valodu.
+I hate when other people make me wait a long time.	Man nepatīk, ka citi cilvēki liek man ilgi gaidīt.
+My physics teacher doesn't care if I skip classes.	Man fizikas skolotāju neuztrauc ja es bastoju stundas.
+We wondered what would happen after Tom showed up.	Mēs prātoju, kas notiktu pēc tam, kad Toms atnāktu.
+Tom didn't know that Mary had already bought bread.	Toms nezināja, ka Marija jau bija nopirkusi maizi.
+I assumed there must be something else we had to do.	Es pieņemu, ka bija vēl kaut kas, ko mums vajadzēja izdarīt.
+The front windshield of a car was smashed to pieces.	Automašīnas vējstikls tika sadauzīts gabalos.
+We shouldn't judge people based on their appearance.	Mums nevajadzētu spriest par cilvēkiem, balstoties uz to, kā viņi izskatās.
+Addition and subtraction are functions of mathematics.	Saskaitīšana un atņemšana ir matemātiskās funkcijas.
+Tom is left-handed, but he writes with his right hand.	Toms ir kreilis, bet viņš raksta ar labo roku.
+Can you remember the first word you learned in English?	Vai tu atceries pirmo vārdu, kuru tu iemācījies angļu valodā?
+Finishing the report by tomorrow is next to impossible.	Līdz rītdienai pabeigt atskaiti ir gandrīz neiespējami.
+Small businesses are often absorbed by a major company.	Mazus uzņēmumus bieži pārņem liela kompānija.
+He is not the sort of man who counts on others for help.	Viņš nav tāds cilvēks, kurš paļaujas uz citu palīdzību.
+I had a feeling something like that was going to happen.	Man bija priekšnojauta, ka kaut kas tāds notiks.
+It was such an interesting book that I read it in a day.	Tā bija tik interesanta grāmata, ka es to izlasīju vienā dienā.
+"Could you do this instead of me?" "Sorry, I'm too busy."	''Vai tu to varētu izdarīt manā vietā?'' ''Piedod, es esmu pārāk aizņemts.''
+What percentage of the students are admitted to colleges?	Procentuāli cik studentu tiek uzņemti koledžās?
+He was wearing black trousers and a beautiful white shirt.	Viņš valkāja melnas bikses un skaistu baltu kreklu.
+It almost scared me not to see you online for a whole day.	Neredzot tiešsaistē veselu dienu, tu mani gandrīz pārbiedēji.
+Now's the time to decide if you want to go with us or not.	Tagad ir laiks izlemtu vai tu vēlies iet ar mums, vai nē.
+He's a good guy now, so he'll make a good husband in the future.	Viņš ir labs vīrietis tagad tātad viņš būs labs vīrs nākotnē.
+Tom put his bags in the trunk, then hopped in the car and drove off.	Toms ielika savas somas bagāžniekā, tad ieleca mašīnā un aizbrauca.
+I hate myself for not having the will power to quit eating junk food.	Es ienīstu sevi, ka man nav gribasspēka atmests ātro ēdienu ēšanu.
+I wonder if keeping your head down and living safely is a survival instinct.	Es brīnos, ja turot savu galvu uz leju un dzīvojot droši ir izdzīvošanas instinkts?
+You need to stop talking all the time and start listening to what others say.	Tev vajadzētu beigt runāt visu laiku un sākt klausīties to, ko es saku.
+What I really want is for Tom to teach me how to play a few chords on my guitar.	Ko es patiešām gribu, lai Toms man iemāca, kā spēlēt dažus akordus uz mana ģitāras.

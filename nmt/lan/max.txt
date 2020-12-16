@@ -1,172 +1,172 @@
-Who?	Sapa?	CC-BY 2.0 (France) Attribution: tatoeba.org #2083030 (CK) & #4616323 (yatyayat)
-I know.	Kita tau.	CC-BY 2.0 (France) Attribution: tatoeba.org #319990 (CK) & #4616347 (yatyayat)
-Listen.	Dengar!	CC-BY 2.0 (France) Attribution: tatoeba.org #1913088 (CK) & #4616322 (yatyayat)
-Why me?	Bikiapa kong kita?	CC-BY 2.0 (France) Attribution: tatoeba.org #24958 (CK) & #4616326 (yatyayat)
-Go away.	Bajao!	CC-BY 2.0 (France) Attribution: tatoeba.org #433491 (CK) & #4616350 (yatyayat)
-Me, too.	Kita lagi.	CC-BY 2.0 (France) Attribution: tatoeba.org #321985 (CK) & #4616348 (yatyayat)
-Birds fly.	Burung tarbang.	CC-BY 2.0 (France) Attribution: tatoeba.org #278213 (CK) & #4616343 (yatyayat)
-Follow me.	Iko kita.	CC-BY 2.0 (France) Attribution: tatoeba.org #250135 (CK) & #4616337 (yatyayat)
-I fainted.	Kita semaput.	CC-BY 2.0 (France) Attribution: tatoeba.org #20364 (CK) & #4616324 (yatyayat)
-I laughed.	Kita tatawa.	CC-BY 2.0 (France) Attribution: tatoeba.org #258713 (CK) & #4616338 (yatyayat)
-It's 8:30.	Ini su stenga sambilan.	CC-BY 2.0 (France) Attribution: tatoeba.org #4636492 (CK) & #4639004 (yatyayat)
-Look back!	Lia kabalakang!	CC-BY 2.0 (France) Attribution: tatoeba.org #240166 (CK) & #4616336 (yatyayat)
-She cried.	Dia manangis.	CC-BY 2.0 (France) Attribution: tatoeba.org #313193 (CK) & #4616345 (yatyayat)
-She walks.	Dia tatawa.	CC-BY 2.0 (France) Attribution: tatoeba.org #316925 (CK) & #4616346 (yatyayat)
-Birds sing.	Burung manyanyi.	CC-BY 2.0 (France) Attribution: tatoeba.org #278174 (CK) & #4616341 (yatyayat)
-She smiled.	Dia senyum.	CC-BY 2.0 (France) Attribution: tatoeba.org #311898 (CK) & #4616344 (yatyayat)
-Tom is ugly.	Tom tu tara bae.	CC-BY 2.0 (France) Attribution: tatoeba.org #4638297 (CK) & #4638985 (yatyayat)
-Walk slowly.	Bajalang palang-palang.	CC-BY 2.0 (France) Attribution: tatoeba.org #30117 (CK) & #4616329 (yatyayat)
-Are you lost?	Ngana ilang ka?	CC-BY 2.0 (France) Attribution: tatoeba.org #280393 (CK) & #4558213 (yatyayat)
-Drive slowly.	Bawa kendaraan palang-palang.	CC-BY 2.0 (France) Attribution: tatoeba.org #30126 (CK) & #4616330 (yatyayat)
-I don't know.	Kita tara tau.	CC-BY 2.0 (France) Attribution: tatoeba.org #349064 (fatih) & #4558119 (yatyayat)
-I understand.	Kita mangarti.	CC-BY 2.0 (France) Attribution: tatoeba.org #433468 (CK) & #4616349 (yatyayat)
-I'm not here.	Kita tara di sini.	CC-BY 2.0 (France) Attribution: tatoeba.org #2299500 (Hybrid) & #4558173 (yatyayat)
-Ladies first.	Parampuang kamuka.	CC-BY 2.0 (France) Attribution: tatoeba.org #54331 (CK) & #4616334 (yatyayat)
-Let's go eat.	Tong makang mari!	CC-BY 2.0 (France) Attribution: tatoeba.org #1256581 (CK) & #4616383 (yatyayat)
-Let's go eat.	Makang mari!	CC-BY 2.0 (France) Attribution: tatoeba.org #1256581 (CK) & #4616384 (yatyayat)
-Let's go eat.	Mari torang makang.	CC-BY 2.0 (France) Attribution: tatoeba.org #1256581 (CK) & #4616385 (yatyayat)
-Let's go eat.	Mari la torang makang.	CC-BY 2.0 (France) Attribution: tatoeba.org #1256581 (CK) & #4616386 (yatyayat)
-Let's go eat.	Mari la torang pigi makang.	CC-BY 2.0 (France) Attribution: tatoeba.org #1256581 (CK) & #4616387 (yatyayat)
-Let's go eat.	Tong pi makang mari!	CC-BY 2.0 (France) Attribution: tatoeba.org #1256581 (CK) & #4616388 (yatyayat)
-Stop smoking.	Barenti baisap!	CC-BY 2.0 (France) Attribution: tatoeba.org #40632 (CK) & #4616333 (yatyayat)
-Stop talking.	Barenti bacarita.	CC-BY 2.0 (France) Attribution: tatoeba.org #277720 (CK) & #4616340 (yatyayat)
-I hate French.	Kita binci bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451690 (CK) & #4616412 (yatyayat)
-I like French.	Kita suka bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451689 (CK) & #4616411 (yatyayat)
-I love French.	Kita suka skali bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451688 (CK) & #4616410 (yatyayat)
-It's 2:00 p.m.	Ini su siang jam dua.	CC-BY 2.0 (France) Attribution: tatoeba.org #593257 (CK) & #4558178 (yatyayat)
-Who called me?	Sapa pangge kita tu?	CC-BY 2.0 (France) Attribution: tatoeba.org #1624931 (marcelostockle) & #4558184 (yatyayat)
-I speak French.	Kita bicara deng bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451687 (CK) & #4616407 (yatyayat)
-I study French.	Kita balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #4015809 (CK) & #4616415 (yatyayat)
-I teach French.	Kita mangajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451686 (CK) & #4616406 (yatyayat)
-Is that French?	Itu bahasa Prancis?	CC-BY 2.0 (France) Attribution: tatoeba.org #1493450 (CK) & #4616398 (yatyayat)
-Louder, please.	Tolong kase basar suara sadiki.	CC-BY 2.0 (France) Attribution: tatoeba.org #30399 (CK) & #4616331 (yatyayat)
-They're joking.	Dorang basedu saja.	CC-BY 2.0 (France) Attribution: tatoeba.org #4552640 (Eldad) & #4558381 (yatyayat)
-I was too small.	Kita talalu kacil.	CC-BY 2.0 (France) Attribution: tatoeba.org #4554552 (CK) & #4558372 (yatyayat)
-I'm going to go.	Kita mu pigi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1312 (axcutul) & #4558282 (yatyayat)
-Let's fly kites.	Mari torang kase tarbang falinggir.	CC-BY 2.0 (France) Attribution: tatoeba.org #276074 (CK) & #4616375 (yatyayat)
-Tom was running.	Tom ada lari.	CC-BY 2.0 (France) Attribution: tatoeba.org #2239841 (CK) & #4616378 (yatyayat)
-We study French.	Torang balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451685 (CK) & #4616405 (yatyayat)
-He speaks French.	Dia bicara deng bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #292634 (CK) & #4616397 (yatyayat)
-I eat everything.	Samua-samua kita makang.	CC-BY 2.0 (France) Attribution: tatoeba.org #2100009 (AlanF_US) & #4611680 (yatyayat)
-I sell umbrellas.	Kita bajual payung-payung.	CC-BY 2.0 (France) Attribution: tatoeba.org #4609565 (CK) & #4615159 (yatyayat)
-Listen carefully.	Dengar bae-bae.	CC-BY 2.0 (France) Attribution: tatoeba.org #29922 (CK) & #4616328 (yatyayat)
-Nothing happened.	Tara bikiapa-bikiapa.	CC-BY 2.0 (France) Attribution: tatoeba.org #24616 (CK) & #4616325 (yatyayat)
-She may be French.	Mangkali dia orang Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #312129 (CK) & #4616427 (yatyayat)
-She may be French.	Dia ini mangkali orang Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #312129 (CK) & #4616428 (yatyayat)
-They spoke French.	Dorang bicara deng bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2243322 (CK) & #4616399 (yatyayat)
-Tom speaks French.	Tom bicara deng bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451681 (CK) & #4616404 (yatyayat)
-What is your name?	Ngana pe nama sapa?	CC-BY 2.0 (France) Attribution: tatoeba.org #70623 (sacredceltic) & #4611644 (yatyayat)
-Who speaks French?	Sapa bicara deng bahasa Prancis?	CC-BY 2.0 (France) Attribution: tatoeba.org #2254884 (CK) & #4616400 (yatyayat)
-I can speak French.	Kita bisa bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #255548 (CK) & #4616422 (yatyayat)
-Is everyone hungry?	Samua su lapar?	CC-BY 2.0 (France) Attribution: tatoeba.org #2648110 (CK) & #4616390 (yatyayat)
-Tom studies French.	Tom balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451675 (CK) & #4616403 (yatyayat)
-Tom teaches French.	Tom mangajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451674 (CK) & #4616402 (yatyayat)
-What are you doing?	Ngana ada bikiapa tu?	CC-BY 2.0 (France) Attribution: tatoeba.org #16492 (CK) & #4611650 (yatyayat)
-What are you doing?	Ngana ada biking apa tu?	CC-BY 2.0 (France) Attribution: tatoeba.org #16492 (CK) & #4611651 (yatyayat)
-Can he speak French?	Dia bisa bahasa Prancis?	CC-BY 2.0 (France) Attribution: tatoeba.org #292639 (CK) & #4616423 (yatyayat)
-French is difficult.	Bahasa Prancis tu susa.	CC-BY 2.0 (France) Attribution: tatoeba.org #2739215 (CK) & #4616413 (yatyayat)
-How old is your car?	Ngana pe oto tu su barapa taong?	CC-BY 2.0 (France) Attribution: tatoeba.org #3636412 (CK) & #4558169 (yatyayat)
-I speak French, too.	Kita bicara deng bahasa Prancis lagi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2406545 (CK) & #4616446 (yatyayat)
-I speak French, too.	Kita tau bahasa Prancis lagi.	CC-BY 2.0 (France) Attribution: tatoeba.org #2406545 (CK) & #4616447 (yatyayat)
-I will be back soon.	Nanti kita bale lagi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1284 (brauliobezerra) & #4558261 (yatyayat)
-I'm richer than you.	Kita deng ngana tu kita yang kaya.	CC-BY 2.0 (France) Attribution: tatoeba.org #3736908 (CK) & #4558452 (yatyayat)
-I'm richer than you.	Kita deng ngana tu kita labe kaya.	CC-BY 2.0 (France) Attribution: tatoeba.org #3736908 (CK) & #4558453 (yatyayat)
-I've studied French.	Kita su balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2360376 (CK) & #4616442 (yatyayat)
-No one could see us.	Tarada yang bisa lia torang.	CC-BY 2.0 (France) Attribution: tatoeba.org #2091124 (CK) & #4558133 (yatyayat)
-Please speak French.	Tolong bicara deng bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #4044345 (CK) & #4616416 (yatyayat)
-Can Tom speak French?	Tom bisa bahasa Prancis?	CC-BY 2.0 (France) Attribution: tatoeba.org #2446586 (CK) & #4616449 (yatyayat)
-Can you speak French?	Ngana bisa bahasa Prancis?	CC-BY 2.0 (France) Attribution: tatoeba.org #16428 (CK) & #4616418 (yatyayat)
-He will study French.	Dia akang balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #292632 (CK) & #4616425 (yatyayat)
-I don't use Facebook.	Kita tara pake efbi.	CC-BY 2.0 (France) Attribution: tatoeba.org #4633390 (Monk) & #4639029 (yatyayat)
-I don't use Facebook.	Kita tara pake fesbuk.	CC-BY 2.0 (France) Attribution: tatoeba.org #4633390 (Monk) & #4639032 (yatyayat)
-I love French movies.	Kita suka skali felem Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #521658 (CK) & #4616429 (yatyayat)
-She can speak French.	Dia bisa bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #312110 (CK) & #4616426 (yatyayat)
-This will cost €30.	Ini akang torang bayar 30 pound.	CC-BY 2.0 (France) Attribution: tatoeba.org #1298 (djinni74) & #4558265 (yatyayat)
-We have no more rice.	Torang pe nasi su sisa ini suda.	CC-BY 2.0 (France) Attribution: tatoeba.org #4614264 (LeeSooHa) & #4615142 (yatyayat)
-Who broke the bottle?	Sapa kase pica botol tu?	CC-BY 2.0 (France) Attribution: tatoeba.org #4555682 (Choctaw_Irish) & #4558337 (yatyayat)
-He also speaks French.	Dia bicara deng bahasa Prancis lagi.	CC-BY 2.0 (France) Attribution: tatoeba.org #1446280 (CK) & #4616437 (yatyayat)
-He understands French.	Dia mangarti bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #292605 (CK) & #4616395 (yatyayat)
-I dialed Tom's number.	Kita telfon pa Tom pe nomor telfon.	CC-BY 2.0 (France) Attribution: tatoeba.org #2261937 (CK) & #4611696 (yatyayat)
-I have to go to sleep.	Kita musti nae tidor skarang.	CC-BY 2.0 (France) Attribution: tatoeba.org #1277 (vinhan) & #4558244 (yatyayat)
-I hid behind the tree.	Kita basambunyi di pohong pe balakang.	CC-BY 2.0 (France) Attribution: tatoeba.org #4614588 (CK) & #4615133 (yatyayat)
-I should study French.	Kita musti balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2406365 (CK) & #4616445 (yatyayat)
-I'm not good at lying.	Kita tara pintar bafoya.	CC-BY 2.0 (France) Attribution: tatoeba.org #4570969 (Hybrid) & #4574981 (yatyayat)
-My French is terrible.	Kita pe bahasa Prancis ancor.	CC-BY 2.0 (France) Attribution: tatoeba.org #2262863 (CK) & #4616441 (yatyayat)
-She's eight years old.	Dia su lapan taong.	CC-BY 2.0 (France) Attribution: tatoeba.org #2763592 (CK) & #4616379 (yatyayat)
-She's eight years old.	Dia pe umur su lapan taong.	CC-BY 2.0 (France) Attribution: tatoeba.org #2763592 (CK) & #4616380 (yatyayat)
-Tom knows some French.	Tom cuma tau bahasa Prancis sasadiki.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024616 (CK) & #4616431 (yatyayat)
-Tom teaches us French.	Tom mangajar pa torang bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1092834 (CK) & #4616433 (yatyayat)
-Tom teaches us French.	Tom kase ajar bahasa Prancis pa torang.	CC-BY 2.0 (France) Attribution: tatoeba.org #1092834 (CK) & #4616434 (yatyayat)
-What's your father do?	Ngana pe papa ada bikiapa?	CC-BY 2.0 (France) Attribution: tatoeba.org #3636407 (CK) & #4616373 (yatyayat)
-I didn't hear anything.	Kita tara dengar apa-apa.	CC-BY 2.0 (France) Attribution: tatoeba.org #555270 (FeuDRenais) & #4558409 (yatyayat)
-I was hungry, so I ate.	Karna kita su lapar, jadi kita makang suda.	CC-BY 2.0 (France) Attribution: tatoeba.org #4609687 (CK) & #4615158 (yatyayat)
-I was in the mountains.	Itu hari kita di gunung.	CC-BY 2.0 (France) Attribution: tatoeba.org #1290 (CK) & #4558275 (yatyayat)
-I'll go there by plane.	Kita mu pigi kasana deng pesawat.	CC-BY 2.0 (France) Attribution: tatoeba.org #4546233 (CK) & #4558418 (yatyayat)
-Tom bought a newspaper.	Tom bali koran.	CC-BY 2.0 (France) Attribution: tatoeba.org #4217506 (CK) & #4558145 (yatyayat)
-Tom is learning French.	Tom ada balajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024974 (CK) & #4616432 (yatyayat)
-Tom understands French.	Tom mangarti bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451632 (CK) & #4616401 (yatyayat)
-Who teaches you French?	Sapa kase ajar bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #40482 (CK) & #4616419 (yatyayat)
-Don't walk on the grass.	Jang bajalang di rumpu-rumpu.	CC-BY 2.0 (France) Attribution: tatoeba.org #265293 (CK) & #4558188 (yatyayat)
-You speak French, right?	Ngana tau bahasa Prancis, io to?	CC-BY 2.0 (France) Attribution: tatoeba.org #2402235 (CK) & #4616444 (yatyayat)
-I would do it if I could.	Kalo kita bisa tu kita su biking suda.	CC-BY 2.0 (France) Attribution: tatoeba.org #4555298 (Eldad) & #4558355 (yatyayat)
-I played soccer yesterday.	Kalmaring kita barmaeng bola kaki.	CC-BY 2.0 (France) Attribution: tatoeba.org #252254 (CK) & #4558194 (yatyayat)
-I spent 100 dollars today.	Ini hari kita su pake doi saratus dolar.	CC-BY 2.0 (France) Attribution: tatoeba.org #257567 (CK) & #4558197 (yatyayat)
-I was hungry, so I ate it.	Karna kita su lapar, jadi kita makang itu suda.	CC-BY 2.0 (France) Attribution: tatoeba.org #4609688 (CK) & #4615157 (yatyayat)
-It's the third of October.	Ini su 3 Oktober.	CC-BY 2.0 (France) Attribution: tatoeba.org #73449 (CK) & #4616391 (yatyayat)
-It's the third of October.	Ini su bulan spulu tanggal tiga.	CC-BY 2.0 (France) Attribution: tatoeba.org #73449 (CK) & #4616392 (yatyayat)
-Tom knows a lot of people.	Tom kanal orang banya skali.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024625 (CK) & #4611786 (yatyayat)
-Tom said it cost too much.	Tom bilang dia pe harga talalu mahal.	CC-BY 2.0 (France) Attribution: tatoeba.org #2544545 (CK) & #4611674 (yatyayat)
-You don't like it, do you?	Ngana tara suka itu barang, io to?	CC-BY 2.0 (France) Attribution: tatoeba.org #3402324 (CK) & #4611686 (yatyayat)
-Does Tom understand French?	Tom mangarti bahasa Prancis?	CC-BY 2.0 (France) Attribution: tatoeba.org #2930065 (CK) & #4616389 (yatyayat)
-Is that what you're asking?	Itu yang ngana tanya tadi tu?	CC-BY 2.0 (France) Attribution: tatoeba.org #4529870 (CK) & #4616374 (yatyayat)
-Tom speaks French fluently.	Tom bicara pake bahasa Prancis bagus skali.	CC-BY 2.0 (France) Attribution: tatoeba.org #1141182 (CK) & #4616436 (yatyayat)
-I brought something for you.	Kita ada bawa satu barang for kase ngana.	CC-BY 2.0 (France) Attribution: tatoeba.org #2299546 (CK) & #4558148 (yatyayat)
-Most people think I'm crazy.	Banya orang kira kita gila.	CC-BY 2.0 (France) Attribution: tatoeba.org #1322 (CK) & #4558304 (yatyayat)
-Tom prefers speaking French.	Tom lebe suka bicara deng bahasa Prancis.	CC-BY 2.0 (France) Attribution: tatoeba.org #1024332 (CK) & #4616430 (yatyayat)
-What do you do after dinner?	Abis makang malam ngana mu biking apa?	CC-BY 2.0 (France) Attribution: tatoeba.org #4563609 (LeeSooHa) & #4575010 (yatyayat)
-Did Tom die in that accident?	Batul ka tarada Tom mati pas tatabrak tu?	CC-BY 2.0 (France) Attribution: tatoeba.org #4571818 (CK) & #4574966 (yatyayat)
-Speaking French is difficult.	Bicara deng bahasa Prancis tu susa.	CC-BY 2.0 (France) Attribution: tatoeba.org #1449349 (CK) & #4616439 (yatyayat)
-Won't you join us for dinner?	Ngana tara mau pigi makang malam deng torang?	CC-BY 2.0 (France) Attribution: tatoeba.org #262531 (CK) & #4616376 (yatyayat)
-You understand French, right?	Ngana mangarti bahasa Prancis, io to?	CC-BY 2.0 (France) Attribution: tatoeba.org #2402237 (CK) & #4616443 (yatyayat)
-I don't have any money at all.	Kita tarada doi, satu sen me tarada.	CC-BY 2.0 (France) Attribution: tatoeba.org #4568105 (CK) & #4574994 (yatyayat)
-She pretended to be a student.	Dia bafoya jadi ana murid.	CC-BY 2.0 (France) Attribution: tatoeba.org #313021 (Eldad) & #4558182 (yatyayat)
-I acted like I didn't know her.	Kita babiking mudel deng kita tara tau dia ni.	CC-BY 2.0 (France) Attribution: tatoeba.org #4565920 (Hybrid) & #4575003 (yatyayat)
-Where can we make a phone call?	Di mana torang bisa batelfon?	CC-BY 2.0 (France) Attribution: tatoeba.org #693478 (Shishir) & #4558172 (yatyayat)
-"Who is it?" "It's your mother."	"Sapa itu?" "Dia ngana pe mama."	CC-BY 2.0 (France) Attribution: tatoeba.org #1505 (CK) & #4611660 (yatyayat)
-"Who is it?" "It's your mother."	"Dia itu sapa?" "Dia itu ngana pe mama."	CC-BY 2.0 (France) Attribution: tatoeba.org #1505 (CK) & #4611663 (yatyayat)
-I waited for an hour and a half.	Kita baku tunggu satu jam stenga.	CC-BY 2.0 (France) Attribution: tatoeba.org #4551874 (mailohilohi) & #4558390 (yatyayat)
-I'm sorry, but I can't help you.	Kita minta maaf, kita tara bisa bantu ngana.	CC-BY 2.0 (France) Attribution: tatoeba.org #3736932 (CK) & #4558445 (yatyayat)
-I'm sorry, but I can't help you.	Kita minta maaf e barang tara bisa bantu ngana kong.	CC-BY 2.0 (France) Attribution: tatoeba.org #3736932 (CK) & #4558447 (yatyayat)
-What do you think of my new hat?	Menurut ngana kita pe topi ni bagimana?	CC-BY 2.0 (France) Attribution: tatoeba.org #3395888 (CK) & #4611704 (yatyayat)
-This morning, I bicycled to work.	Kita pigi nae speda for pigi karja pagi-pagi.	CC-BY 2.0 (France) Attribution: tatoeba.org #4613345 (lekro) & #4615146 (yatyayat)
-Tom almost died in that accident.	Tom amper maninggal pas dia tatabrak.	CC-BY 2.0 (France) Attribution: tatoeba.org #4571819 (CK) & #4574979 (yatyayat)
-You're angry with me, aren't you?	Ngana mara kita, io?	CC-BY 2.0 (France) Attribution: tatoeba.org #2540723 (CK) & #4616370 (yatyayat)
-You're angry with me, aren't you?	Ngana mara pa kita, io to?	CC-BY 2.0 (France) Attribution: tatoeba.org #2540723 (CK) & #4616371 (yatyayat)
-"What day is it?" "It's Wednesday."	"Ini hari hari apa?" "Hari Rabu."	CC-BY 2.0 (France) Attribution: tatoeba.org #4632575 (CK) & #4639039 (yatyayat)
-"Where does it hurt?" "Everywhere."	"Sake di mana?" "Samua-samua sake."	CC-BY 2.0 (France) Attribution: tatoeba.org #4609579 (Hybrid) & #4612037 (yatyayat)
-He warned us not to enter the room.	Dia bilang torang jang maso dalam situ.	CC-BY 2.0 (France) Attribution: tatoeba.org #294542 (CK) & #4558155 (yatyayat)
-How many close friends do you have?	Ngana pe tamang dekat ada barapa orang?	CC-BY 2.0 (France) Attribution: tatoeba.org #1354 (al_ex_an_der) & #4558316 (yatyayat)
-Although Tom is sick, he's swimming.	Tom sake me pigi barenang.	CC-BY 2.0 (France) Attribution: tatoeba.org #2951500 (CK) & #4616372 (yatyayat)
-Few people live to be 100 years old.	Orang-orang yang umur sampe saratus tu cuma sadiki.	CC-BY 2.0 (France) Attribution: tatoeba.org #318297 (CK) & #4611698 (yatyayat)
-If you can come tomorrow, please do.	Kalo ngana bisa datang beso tu datang da.	CC-BY 2.0 (France) Attribution: tatoeba.org #4550655 (CK) & #4558400 (yatyayat)
-I usually eat at home with my family.	Kita biasa makang deng keluarga di ruma.	CC-BY 2.0 (France) Attribution: tatoeba.org #1830574 (CK) & #4611728 (yatyayat)
-Please write your date of birth here.	Tulis ngana pe tanggal lahir tu.	CC-BY 2.0 (France) Attribution: tatoeba.org #4632208 (mactrey) & #4639054 (yatyayat)
-How long have you been learning English?	Su barapa lama ngana balajar bahasa Inggris?	CC-BY 2.0 (France) Attribution: tatoeba.org #37624 (CK) & #4558162 (yatyayat)
-If you speak French, I won't understand.	Kalo ngana bicara bahasa Prancis, akang kita tara mangarti.	CC-BY 2.0 (France) Attribution: tatoeba.org #2451278 (CK) & #4558151 (yatyayat)
-He has a fear that his brother will fail.	Dia tako dia pe ade tara lulus.	CC-BY 2.0 (France) Attribution: tatoeba.org #301712 (CM) & #4611867 (yatyayat)
-He has a fear that his brother will fail.	Dia tako dia pe kaka tara lulus.	CC-BY 2.0 (France) Attribution: tatoeba.org #301712 (CM) & #4611869 (yatyayat)
-How old were you when you left Australia?	Ngana pe umur barapa taong pas ngana kase tinggal Australia?	CC-BY 2.0 (France) Attribution: tatoeba.org #4635444 (mactrey) & #4639009 (yatyayat)
-I like listening to music, especially jazz.	Kita suka dengar musik, apalagi jazz tu.	CC-BY 2.0 (France) Attribution: tatoeba.org #256341 (CK) & #4616394 (yatyayat)
-Tom saw his name written on the blackboard.	Tom lia dia pe nama tatulis di papan tulis.	CC-BY 2.0 (France) Attribution: tatoeba.org #3419957 (CK) & #4616381 (yatyayat)
-It's really dark here. I can't see anything.	Galap skali di sini. Kita tara bisa lia apa-apa.	CC-BY 2.0 (France) Attribution: tatoeba.org #4555773 (weihaiping) & #4558333 (yatyayat)
-There is no need for a comma in this sentence.	Tara bole ada koma di kalimat ini.	CC-BY 2.0 (France) Attribution: tatoeba.org #4572923 (Theocracy) & #4574962 (yatyayat)
-You need a passport to enter a foreign country.	Kalau ngana mu pigi negara laeng tu ngana musti ada paspor.	CC-BY 2.0 (France) Attribution: tatoeba.org #21944 (CK) & #4616377 (yatyayat)
-Tom is in the kitchen, cutting up some vegetables.	Tom ada bairis sayor di dapur.	CC-BY 2.0 (France) Attribution: tatoeba.org #3449106 (CK) & #4611693 (yatyayat)
-We were late for school because it rained heavily.	Torang tarlambat sampe di skola barang ujang basar skali kong.	CC-BY 2.0 (France) Attribution: tatoeba.org #34747 (CK) & #4616368 (yatyayat)
-It's about three kilometers from here to the coast.	Sini tu tiga kilo dari pante.	CC-BY 2.0 (France) Attribution: tatoeba.org #4565765 (CK) & #4575008 (yatyayat)
-It's about three kilometers from here to the coast.	Di sini tu tiga kilometer dari pante.	CC-BY 2.0 (France) Attribution: tatoeba.org #4565765 (CK) & #4575009 (yatyayat)
-If we leave now, we could be back in Boston by 2:30.	Kalau torang pigi skarang, torang bisa bale di Boston jam stenga tiga.	CC-BY 2.0 (France) Attribution: tatoeba.org #4194831 (CK) & #4611766 (yatyayat)
-I felt so sleepy that I could hardly keep my eyes open.	Kita manganto skali sampe mata mu tabuka me susa bahaya.	CC-BY 2.0 (France) Attribution: tatoeba.org #67657 (CK) & #4558164 (yatyayat)
-I didn't know that Tom and Mary were brother and sister.	Kita tara tau kalo Tom deng Mary baku ade-kaka.	CC-BY 2.0 (France) Attribution: tatoeba.org #4569386 (CK) & #4574982 (yatyayat)
-Forks were used for many years in Europe and the Near East, but only for cooking.	Orang-orang di Eropa deng di Asia sabala barat tamba deng Mesir su biasa pake forok deng taong, tapi dong cuma pake mumasa saja.	CC-BY 2.0 (France) Attribution: tatoeba.org #34386 (Swift) & #4615240 (yatyayat)
-Tom and Mary booked a room with two beds, but when they arrived at the hotel, there was only one bed.	Tom deng Mary pasang kamar satu yang tampa tidor ada dua, tapi pas dorang sampe di hotel tu dia pe tampa tidor cuma satu.	CC-BY 2.0 (France) Attribution: tatoeba.org #3058238 (Hybrid) & #4611673 (yatyayat)
+Who?	Sapa?
+I know.	Kita tau.
+Listen.	Dengar!
+Why me?	Bikiapa kong kita?
+Go away.	Bajao!
+Me, too.	Kita lagi.
+Birds fly.	Burung tarbang.
+Follow me.	Iko kita.
+I fainted.	Kita semaput.
+I laughed.	Kita tatawa.
+It's 8:30.	Ini su stenga sambilan.
+Look back!	Lia kabalakang!
+She cried.	Dia manangis.
+She walks.	Dia tatawa.
+Birds sing.	Burung manyanyi.
+She smiled.	Dia senyum.
+Tom is ugly.	Tom tu tara bae.
+Walk slowly.	Bajalang palang-palang.
+Are you lost?	Ngana ilang ka?
+Drive slowly.	Bawa kendaraan palang-palang.
+I don't know.	Kita tara tau.
+I understand.	Kita mangarti.
+I'm not here.	Kita tara di sini.
+Ladies first.	Parampuang kamuka.
+Let's go eat.	Tong makang mari!
+Let's go eat.	Makang mari!
+Let's go eat.	Mari torang makang.
+Let's go eat.	Mari la torang makang.
+Let's go eat.	Mari la torang pigi makang.
+Let's go eat.	Tong pi makang mari!
+Stop smoking.	Barenti baisap!
+Stop talking.	Barenti bacarita.
+I hate French.	Kita binci bahasa Prancis.
+I like French.	Kita suka bahasa Prancis.
+I love French.	Kita suka skali bahasa Prancis.
+It's 2:00 p.m.	Ini su siang jam dua.
+Who called me?	Sapa pangge kita tu?
+I speak French.	Kita bicara deng bahasa Prancis.
+I study French.	Kita balajar bahasa Prancis.
+I teach French.	Kita mangajar bahasa Prancis.
+Is that French?	Itu bahasa Prancis?
+Louder, please.	Tolong kase basar suara sadiki.
+They're joking.	Dorang basedu saja.
+I was too small.	Kita talalu kacil.
+I'm going to go.	Kita mu pigi.
+Let's fly kites.	Mari torang kase tarbang falinggir.
+Tom was running.	Tom ada lari.
+We study French.	Torang balajar bahasa Prancis.
+He speaks French.	Dia bicara deng bahasa Prancis.
+I eat everything.	Samua-samua kita makang.
+I sell umbrellas.	Kita bajual payung-payung.
+Listen carefully.	Dengar bae-bae.
+Nothing happened.	Tara bikiapa-bikiapa.
+She may be French.	Mangkali dia orang Prancis.
+She may be French.	Dia ini mangkali orang Prancis.
+They spoke French.	Dorang bicara deng bahasa Prancis.
+Tom speaks French.	Tom bicara deng bahasa Prancis.
+What is your name?	Ngana pe nama sapa?
+Who speaks French?	Sapa bicara deng bahasa Prancis?
+I can speak French.	Kita bisa bahasa Prancis.
+Is everyone hungry?	Samua su lapar?
+Tom studies French.	Tom balajar bahasa Prancis.
+Tom teaches French.	Tom mangajar bahasa Prancis.
+What are you doing?	Ngana ada bikiapa tu?
+What are you doing?	Ngana ada biking apa tu?
+Can he speak French?	Dia bisa bahasa Prancis?
+French is difficult.	Bahasa Prancis tu susa.
+How old is your car?	Ngana pe oto tu su barapa taong?
+I speak French, too.	Kita bicara deng bahasa Prancis lagi.
+I speak French, too.	Kita tau bahasa Prancis lagi.
+I will be back soon.	Nanti kita bale lagi.
+I'm richer than you.	Kita deng ngana tu kita yang kaya.
+I'm richer than you.	Kita deng ngana tu kita labe kaya.
+I've studied French.	Kita su balajar bahasa Prancis.
+No one could see us.	Tarada yang bisa lia torang.
+Please speak French.	Tolong bicara deng bahasa Prancis.
+Can Tom speak French?	Tom bisa bahasa Prancis?
+Can you speak French?	Ngana bisa bahasa Prancis?
+He will study French.	Dia akang balajar bahasa Prancis.
+I don't use Facebook.	Kita tara pake efbi.
+I don't use Facebook.	Kita tara pake fesbuk.
+I love French movies.	Kita suka skali felem Prancis.
+She can speak French.	Dia bisa bahasa Prancis.
+This will cost €30.	Ini akang torang bayar 30 pound.
+We have no more rice.	Torang pe nasi su sisa ini suda.
+Who broke the bottle?	Sapa kase pica botol tu?
+He also speaks French.	Dia bicara deng bahasa Prancis lagi.
+He understands French.	Dia mangarti bahasa Prancis.
+I dialed Tom's number.	Kita telfon pa Tom pe nomor telfon.
+I have to go to sleep.	Kita musti nae tidor skarang.
+I hid behind the tree.	Kita basambunyi di pohong pe balakang.
+I should study French.	Kita musti balajar bahasa Prancis.
+I'm not good at lying.	Kita tara pintar bafoya.
+My French is terrible.	Kita pe bahasa Prancis ancor.
+She's eight years old.	Dia su lapan taong.
+She's eight years old.	Dia pe umur su lapan taong.
+Tom knows some French.	Tom cuma tau bahasa Prancis sasadiki.
+Tom teaches us French.	Tom mangajar pa torang bahasa Prancis.
+Tom teaches us French.	Tom kase ajar bahasa Prancis pa torang.
+What's your father do?	Ngana pe papa ada bikiapa?
+I didn't hear anything.	Kita tara dengar apa-apa.
+I was hungry, so I ate.	Karna kita su lapar, jadi kita makang suda.
+I was in the mountains.	Itu hari kita di gunung.
+I'll go there by plane.	Kita mu pigi kasana deng pesawat.
+Tom bought a newspaper.	Tom bali koran.
+Tom is learning French.	Tom ada balajar bahasa Prancis.
+Tom understands French.	Tom mangarti bahasa Prancis.
+Who teaches you French?	Sapa kase ajar bahasa Prancis.
+Don't walk on the grass.	Jang bajalang di rumpu-rumpu.
+You speak French, right?	Ngana tau bahasa Prancis, io to?
+I would do it if I could.	Kalo kita bisa tu kita su biking suda.
+I played soccer yesterday.	Kalmaring kita barmaeng bola kaki.
+I spent 100 dollars today.	Ini hari kita su pake doi saratus dolar.
+I was hungry, so I ate it.	Karna kita su lapar, jadi kita makang itu suda.
+It's the third of October.	Ini su 3 Oktober.
+It's the third of October.	Ini su bulan spulu tanggal tiga.
+Tom knows a lot of people.	Tom kanal orang banya skali.
+Tom said it cost too much.	Tom bilang dia pe harga talalu mahal.
+You don't like it, do you?	Ngana tara suka itu barang, io to?
+Does Tom understand French?	Tom mangarti bahasa Prancis?
+Is that what you're asking?	Itu yang ngana tanya tadi tu?
+Tom speaks French fluently.	Tom bicara pake bahasa Prancis bagus skali.
+I brought something for you.	Kita ada bawa satu barang for kase ngana.
+Most people think I'm crazy.	Banya orang kira kita gila.
+Tom prefers speaking French.	Tom lebe suka bicara deng bahasa Prancis.
+What do you do after dinner?	Abis makang malam ngana mu biking apa?
+Did Tom die in that accident?	Batul ka tarada Tom mati pas tatabrak tu?
+Speaking French is difficult.	Bicara deng bahasa Prancis tu susa.
+Won't you join us for dinner?	Ngana tara mau pigi makang malam deng torang?
+You understand French, right?	Ngana mangarti bahasa Prancis, io to?
+I don't have any money at all.	Kita tarada doi, satu sen me tarada.
+She pretended to be a student.	Dia bafoya jadi ana murid.
+I acted like I didn't know her.	Kita babiking mudel deng kita tara tau dia ni.
+Where can we make a phone call?	Di mana torang bisa batelfon?
+"Who is it?" "It's your mother."	"Sapa itu?" "Dia ngana pe mama."
+"Who is it?" "It's your mother."	"Dia itu sapa?" "Dia itu ngana pe mama."
+I waited for an hour and a half.	Kita baku tunggu satu jam stenga.
+I'm sorry, but I can't help you.	Kita minta maaf, kita tara bisa bantu ngana.
+I'm sorry, but I can't help you.	Kita minta maaf e barang tara bisa bantu ngana kong.
+What do you think of my new hat?	Menurut ngana kita pe topi ni bagimana?
+This morning, I bicycled to work.	Kita pigi nae speda for pigi karja pagi-pagi.
+Tom almost died in that accident.	Tom amper maninggal pas dia tatabrak.
+You're angry with me, aren't you?	Ngana mara kita, io?
+You're angry with me, aren't you?	Ngana mara pa kita, io to?
+"What day is it?" "It's Wednesday."	"Ini hari hari apa?" "Hari Rabu."
+"Where does it hurt?" "Everywhere."	"Sake di mana?" "Samua-samua sake."
+He warned us not to enter the room.	Dia bilang torang jang maso dalam situ.
+How many close friends do you have?	Ngana pe tamang dekat ada barapa orang?
+Although Tom is sick, he's swimming.	Tom sake me pigi barenang.
+Few people live to be 100 years old.	Orang-orang yang umur sampe saratus tu cuma sadiki.
+If you can come tomorrow, please do.	Kalo ngana bisa datang beso tu datang da.
+I usually eat at home with my family.	Kita biasa makang deng keluarga di ruma.
+Please write your date of birth here.	Tulis ngana pe tanggal lahir tu.
+How long have you been learning English?	Su barapa lama ngana balajar bahasa Inggris?
+If you speak French, I won't understand.	Kalo ngana bicara bahasa Prancis, akang kita tara mangarti.
+He has a fear that his brother will fail.	Dia tako dia pe ade tara lulus.
+He has a fear that his brother will fail.	Dia tako dia pe kaka tara lulus.
+How old were you when you left Australia?	Ngana pe umur barapa taong pas ngana kase tinggal Australia?
+I like listening to music, especially jazz.	Kita suka dengar musik, apalagi jazz tu.
+Tom saw his name written on the blackboard.	Tom lia dia pe nama tatulis di papan tulis.
+It's really dark here. I can't see anything.	Galap skali di sini. Kita tara bisa lia apa-apa.
+There is no need for a comma in this sentence.	Tara bole ada koma di kalimat ini.
+You need a passport to enter a foreign country.	Kalau ngana mu pigi negara laeng tu ngana musti ada paspor.
+Tom is in the kitchen, cutting up some vegetables.	Tom ada bairis sayor di dapur.
+We were late for school because it rained heavily.	Torang tarlambat sampe di skola barang ujang basar skali kong.
+It's about three kilometers from here to the coast.	Sini tu tiga kilo dari pante.
+It's about three kilometers from here to the coast.	Di sini tu tiga kilometer dari pante.
+If we leave now, we could be back in Boston by 2:30.	Kalau torang pigi skarang, torang bisa bale di Boston jam stenga tiga.
+I felt so sleepy that I could hardly keep my eyes open.	Kita manganto skali sampe mata mu tabuka me susa bahaya.
+I didn't know that Tom and Mary were brother and sister.	Kita tara tau kalo Tom deng Mary baku ade-kaka.
+Forks were used for many years in Europe and the Near East, but only for cooking.	Orang-orang di Eropa deng di Asia sabala barat tamba deng Mesir su biasa pake forok deng taong, tapi dong cuma pake mumasa saja.
+Tom and Mary booked a room with two beds, but when they arrived at the hotel, there was only one bed.	Tom deng Mary pasang kamar satu yang tampa tidor ada dua, tapi pas dorang sampe di hotel tu dia pe tampa tidor cuma satu.
